@@ -1,14 +1,17 @@
 #!/usr/bin/env python
 from pathlib import Path
-
+import re
 from pdfminer.high_level import extract_text
 
-PDF_FILE_PATH = Path(__file__).parent.parent.absolute().joinpath("pdfs")
+PDF_FILE_PATH = "/home/daniel/Desktop/learn/stima_parser/pdfs"
 
 
-def extract_pdftext(pdf_path: Path) -> None:
+def extract_pdftext(pdf_path: Path) -> str:
     text = extract_text(str(pdf_path))
-    print(repr(text))
+    text = text.replace("\n", ".")
+    # Substitute more than 2 white spaces in the text
+    text = re.sub(r"[\s]{2,}", " ", text)
+    return text
 
 
 def main():
@@ -16,9 +19,9 @@ def main():
     for pdf_file in pdf_files:
         print(f"{'*'*len(str(pdf_file))}")
         print(pdf_file)
-        print(f"{'*'*len(str(pdf_file))}")
+        print(f"{'*'*len(str(pdf_file))}\n")
         text = extract_text(str(pdf_file))
-        print(repr(text))
+        # print(repr(text))
 
 
 if __name__ == "__main__":
