@@ -56,6 +56,19 @@ def parse_areas(text: str):
         )
 
 
+def parse_date(text: str):
+    regex = r"DATE:\s?(?P<DATE>[a-zA-z]+\s?([0-9]{2}\.){2}[0-9]{4})"
+    matches = re.finditer(regex, text, re.MULTILINE)
+    for match_num, match in enumerate(matches, start=1):
+        print(
+            f"Date Match {match_num} at {match.start()}-{match.end()}: {match.group().strip()}"
+        )
+        # Date -> group 1
+        print(
+            f"Actual Date found at {match.start(1)}-{match.end(1)}: {match.group('DATE').strip()}"
+        )
+
+
 def main():
     pdf_files = Path(PDF_FILE_PATH).glob("**/*.pdf")
     for pdf_file in pdf_files:
@@ -66,7 +79,8 @@ def main():
         # print(repr(text))
         # parse_regions(text)
         # parse_counties(text)
-        parse_areas(text)
+        # parse_areas(text)
+        parse_date(text)
 
 
 if __name__ == "__main__":
