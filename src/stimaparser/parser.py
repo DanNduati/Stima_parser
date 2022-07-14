@@ -69,6 +69,36 @@ def parse_date(text: str):
         )
 
 
+def parse_time(text: str):
+    # I know i can simplify this regex but my head is currently fried
+    regex = r"TIME:\s?(?P<TIME>((\d+)[\.\s]?)+\s?(\w\.){,2}\s[–-]\s+((\d+)[\.\s]){1,}\s?(\w\.){,2})"
+    matches = re.finditer(regex, text, re.MULTILINE)
+    for match_num, match in enumerate(matches, start=1):
+        print(
+            f"Time Match {match_num} at {match.start()}-{match.end()}: {match.group().strip()}"
+        )
+        # Time -> group 1
+        print(
+            f"Actual Time found at {match.start(1)}-{match.end(1)}: {match.group('TIME').strip()}"
+        )
+
+
+def parse_mtaa(text: str):
+    # regex = r"(?<=P.M.\s)(?P<MTAA>.*?)(?=([A-Z]{4})|(Interruption))"
+    regex = r"(?<=P.M.\s)(?P<MTAA>.*?)(?=(adjacent)|(Interruption))"
+    matches = re.finditer(regex, repr(text), re.MULTILINE)
+
+    for match_num, match in enumerate(matches, start=1):
+
+        print(
+            f"Mtaa Match {match_num} was found at {match.start()}-{match.end()}: {match.group()}"
+        )
+        # Mtaa -> group 1
+        print(
+            f"Actual Mtaa found at {match.start(1)}-{match.end(1)}: {match.group('MTAA').strip()}"
+        )
+
+
 def main():
     pdf_files = Path(PDF_FILE_PATH).glob("**/*.pdf")
     for pdf_file in pdf_files:
@@ -80,7 +110,8 @@ def main():
         # parse_regions(text)
         # parse_counties(text)
         # parse_areas(text)
-        parse_date(text)
+        # parse_date(text)
+        parse_mtaa(text)
 
 
 if __name__ == "__main__":
