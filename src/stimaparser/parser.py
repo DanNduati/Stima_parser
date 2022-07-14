@@ -42,6 +42,20 @@ def parse_counties(text):
         )
 
 
+def parse_areas(text: str):
+    regex = r"AREA:\s(?P<AREA>(([\w]){1,}[\s,]+){1,})"
+    matches = re.finditer(regex, text, re.MULTILINE)
+
+    for match_num, match in enumerate(matches, start=1):
+        print(
+            f"Area Match {match_num} at {match.start()}-{match.end()}: {match.group().strip()}"
+        )
+        # Area -> group 1
+        print(
+            f"Actual Area found at {match.start(1)}-{match.end(1)}: {match.group('AREA').strip()}"
+        )
+
+
 def main():
     pdf_files = Path(PDF_FILE_PATH).glob("**/*.pdf")
     for pdf_file in pdf_files:
@@ -51,7 +65,8 @@ def main():
         text = extract_text(str(pdf_file))
         # print(repr(text))
         # parse_regions(text)
-        parse_counties(text)
+        # parse_counties(text)
+        parse_areas(text)
 
 
 if __name__ == "__main__":
