@@ -29,6 +29,19 @@ def parse_regions(text: str):
         )
 
 
+def parse_counties(text):
+    regex = r"(\bOF\s)?(?P<COUNTY>[A-Z]+\s?[A-Z]+\s)COUNTY"
+    matches = re.finditer(regex, text, re.MULTILINE)
+    for match_num, match in enumerate(matches, start=1):
+        print(
+            f"County Match {match_num} at {match.start()}-{match.end()}: {match.group()}"
+        )
+        # County -> group2
+        print(
+            f"Actual County found at {match.start(2)}-{match.end(2)}: {match.group('COUNTY')}"
+        )
+
+
 def main():
     pdf_files = Path(PDF_FILE_PATH).glob("**/*.pdf")
     for pdf_file in pdf_files:
@@ -37,7 +50,8 @@ def main():
         print(f"{'*'*len(str(pdf_file))}\n")
         text = extract_text(str(pdf_file))
         # print(repr(text))
-        parse_regions(text)
+        # parse_regions(text)
+        parse_counties(text)
 
 
 if __name__ == "__main__":
