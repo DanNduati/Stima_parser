@@ -111,6 +111,7 @@ def main():
         # parse_counties(text)
         # parse_areas(text)
         # parse_date(text)
+        # parse_time(text)
         parse_mtaa(text)
 
 
