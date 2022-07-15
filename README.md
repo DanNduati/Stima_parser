@@ -16,7 +16,7 @@ Stima parser extracts interruption data from  scheduled power interruptions pdf 
 - Python3
 
 ## <b>Parser Current State</b>
-This are randomly picked pattern match outputs from the parser. 
+These are randomly picked pattern match outputs from the parser. 
 ### Regions
 ```bash
 ***************************************************************************************************************************************************
@@ -570,6 +570,10 @@ Actual Mtaa found at 5815-5901: \nSt.  Catherine  Girls,  Kalala  Mkt,  Kalala  
 Mtaa Match 17 was found at 6089-6255: \nSachora, Olbutyo, Sigor, Tumoi, Lugumek, Kabolwo, Lalela Farm, Kaboson, \nEmarti, Chebunyo, Kabolecho, Labotiet Mkt & Cooler, Siongiroi Mkt & Dairy, \nKapolesero & 
 Actual Mtaa found at 6089-6255: \nSachora, Olbutyo, Sigor, Tumoi, Lugumek, Kabolwo, Lalela Farm, Kaboson, \nEmarti, Chebunyo, Kabolecho, Labotiet Mkt & Cooler, Siongiroi Mkt & Dairy, \nKapolesero &
 ```
+## ToDo
+- [ ] Handle descrepancies in pdf formats()
+- [ ] Test(s)
+- [ ] Consolidate matches per pdf
 
 ## Built With
 - [Regex](https://docs.python.org/3/library/re.html)
