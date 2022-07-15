@@ -83,7 +83,7 @@ Region Match 6 at 5801-5820: CENTRAL RIFT REGION
 Actual Region found at 5801-5813: CENTRAL RIFT
 ```
 ### Counties
-```
+```bash
 *****************************************************************************************************
 /home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2011.06.2021-20(Part-201-20of-202).pdf
 *****************************************************************************************************
@@ -198,7 +198,7 @@ County Match 6 at 5829-5844: OF BOMET COUNTY
 Actual County found at 5832-5838: BOMET 
 ```
 ### Areas
-```text
+```bash
 *****************************************************************************************************
 /home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2025.06.2021-20(Part-201-20of-202).pdf
 *****************************************************************************************************
