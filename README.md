@@ -28,6 +28,7 @@ Most of the current issues however example: [#11](https://github.com/DanNduati/S
 - [ ] Consolidate matches per pdf
 
 ## Built With
+- [pdfminer.six](https://github.com/pdfminer/pdfminer.six)
 - [Regex](https://docs.python.org/3/library/re.html)
 - [Stima-scraper](https://github.com/DanNduati/Stima_scraper)
 
