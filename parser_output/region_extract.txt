@@ -1,0 +1,532 @@
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.05.2021-20Part-202-20of-202.pdf
+***************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 2781-2800: SOUTH NYANZA REGION
+Actual Region found at 2781-2793: SOUTH NYANZA
+Region Match 3 at 4506-4518: KENYA REGION
+Actual Region found at 4506-4511: KENYA
+Region Match 4 at 6508-6527: CENTRAL RIFT REGION
+Actual Region found at 6508-6520: CENTRAL RIFT
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2007.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 3295-3314: CENTRAL RIFT REGION
+Actual Region found at 3295-3307: CENTRAL RIFT
+Region Match 3 at 3640-3654: WESTERN REGION
+Actual Region found at 3640-3647: WESTERN
+Region Match 4 at 3952-3964: KENYA REGION
+Actual Region found at 3952-3957: KENYA
+Region Match 5 at 4597-4617: NORTH EASTERN REGION
+Actual Region found at 4597-4610: NORTH EASTERN
+Region Match 6 at 5634-5646: COAST REGION
+Actual Region found at 5634-5639: COAST
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2031.05.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 2006-2025: SOUTH NYANZA REGION
+Actual Region found at 2006-2018: SOUTH NYANZA
+Region Match 3 at 2732-2744: KENYA REGION
+Actual Region found at 2732-2737: KENYA
+Region Match 4 at 3884-3904: NORTH EASTERN REGION
+Actual Region found at 3884-3897: NORTH EASTERN
+Region Match 5 at 4496-4508: COAST REGION
+Actual Region found at 4496-4501: COAST
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2005.07.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 2880-2899: CENTRAL RIFT REGION
+Actual Region found at 2880-2892: CENTRAL RIFT
+Region Match 3 at 3210-3227: NORTH RIFT REGION
+Actual Region found at 3210-3220: NORTH RIFT
+Region Match 4 at 3525-3539: WESTERN REGION
+Actual Region found at 3525-3532: WESTERN
+Region Match 5 at 3542-3561: SOUTH NYANZA REGION
+Actual Region found at 3542-3554: SOUTH NYANZA
+Region Match 6 at 4272-4284: KENYA REGION
+Actual Region found at 4272-4277: KENYA
+Region Match 7 at 5523-5535: COAST REGION
+Actual Region found at 5523-5528: COAST
+*************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-13.09.2021.pdf
+*************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 3127-3144: NORTH RIFT REGION
+Actual Region found at 3127-3137: NORTH RIFT
+Region Match 3 at 3808-3822: WESTERN REGION
+Actual Region found at 3808-3815: WESTERN
+Region Match 4 at 4207-4226: SOUTH NYANZA REGION
+Actual Region found at 4207-4219: SOUTH NYANZA
+Region Match 5 at 5043-5055: KENYA REGION
+Actual Region found at 5043-5048: KENYA
+Region Match 6 at 6795-6815: NORTH EASTERN REGION
+Actual Region found at 6795-6808: NORTH EASTERN
+Region Match 7 at 8228-8240: COAST REGION
+Actual Region found at 8228-8233: COAST
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2013.05.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 3124-3143: CENTRAL RIFT REGION
+Actual Region found at 3124-3136: CENTRAL RIFT
+Region Match 3 at 3521-3538: NORTH RIFT REGION
+Actual Region found at 3521-3531: NORTH RIFT
+Region Match 4 at 4037-4051: WESTERN REGION
+Actual Region found at 4037-4044: WESTERN
+Region Match 5 at 4601-4613: COAST REGION
+Actual Region found at 4601-4606: COAST
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2028.05.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 0-14: WESTERN REGION
+Actual Region found at 0-7: WESTERN
+Region Match 2 at 1189-1203: NAIROBI REGION
+Actual Region found at 1189-1196: NAIROBI
+Region Match 3 at 3734-3751: NORTH RIFT REGION
+Actual Region found at 3734-3744: NORTH RIFT
+******************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruption-20Notice-20--20Kisumu-20--2024.05.2021-20(1).pdf
+******************************************************************************************************************
+
+Region Match 1 at 28-45: OF WESTERN REGION
+Actual Region found at 28-38: OF WESTERN
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2014.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 4027-4044: NORTH RIFT REGION
+Actual Region found at 4027-4037: NORTH RIFT
+Region Match 3 at 4643-4657: WESTERN REGION
+Actual Region found at 4643-4650: WESTERN
+Region Match 4 at 5202-5221: SOUTH NYANZA REGION
+Actual Region found at 5202-5214: SOUTH NYANZA
+Region Match 5 at 7772-7784: KENYA REGION
+Actual Region found at 7772-7777: KENYA
+Region Match 6 at 8704-8724: NORTH EASTERN REGION
+Actual Region found at 8704-8717: NORTH EASTERN
+Region Match 7 at 10282-10294: COAST REGION
+Actual Region found at 10282-10287: COAST
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2012.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 2335-2354: SOUTH NYANZA REGION
+Actual Region found at 2335-2347: SOUTH NYANZA
+Region Match 3 at 3050-3062: KENYA REGION
+Actual Region found at 3050-3055: KENYA
+Region Match 4 at 3634-3654: NORTH EASTERN REGION
+Actual Region found at 3634-3647: NORTH EASTERN
+Region Match 5 at 4205-4222: NORTH RIFT REGION
+Actual Region found at 4205-4215: NORTH RIFT
+Region Match 6 at 4225-4237: COAST REGION
+Actual Region found at 4225-4230: COAST
+Region Match 7 at 5046-5060: WESTERN REGION
+Actual Region found at 5046-5053: WESTERN
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-411: CENTRAL RIFT REGION
+Actual Region found at 392-404: CENTRAL RIFT
+Region Match 2 at 794-808: NAIROBI REGION
+Actual Region found at 794-801: NAIROBI
+Region Match 3 at 811-828: NORTH RIFT REGION
+Actual Region found at 811-821: NORTH RIFT
+Region Match 4 at 5574-5588: WESTERN REGION
+Actual Region found at 5574-5581: WESTERN
+Region Match 5 at 6080-6099: SOUTH NYANZA REGION
+Actual Region found at 6080-6092: SOUTH NYANZA
+Region Match 6 at 6395-6407: KENYA REGION
+Actual Region found at 6395-6400: KENYA
+Region Match 7 at 7285-7305: NORTH EASTERN REGION
+Actual Region found at 7285-7298: NORTH EASTERN
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2012.07.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 4509-4528: CENTRAL RIFT REGION
+Actual Region found at 4509-4521: CENTRAL RIFT
+Region Match 3 at 5079-5096: NORTH RIFT REGION
+Actual Region found at 5079-5089: NORTH RIFT
+Region Match 4 at 5757-5771: WESTERN REGION
+Actual Region found at 5757-5764: WESTERN
+Region Match 5 at 6131-6150: SOUTH NYANZA REGION
+Actual Region found at 6131-6143: SOUTH NYANZA
+Region Match 6 at 6757-6777: NORTH EASTERN REGION
+Actual Region found at 6757-6770: NORTH EASTERN
+Region Match 7 at 7594-7606: COAST REGION
+Actual Region found at 7594-7599: COAST
+Region Match 8 at 9654-9666: KENYA REGION
+Actual Region found at 9654-9659: KENYA
+***************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions - 25.10.2021 Part 2 of 2.pdf
+***************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 3175-3192: NORTH RIFT REGION
+Actual Region found at 3175-3185: NORTH RIFT
+Region Match 3 at 3410-3424: WESTERN REGION
+Actual Region found at 3410-3417: WESTERN
+Region Match 4 at 3427-3446: SOUTH NYANZA REGION
+Actual Region found at 3427-3439: SOUTH NYANZA
+Region Match 5 at 5219-5231: KENYA REGION
+Actual Region found at 5219-5224: KENYA
+Region Match 6 at 6538-6558: NORTH EASTERN REGION
+Actual Region found at 6538-6551: NORTH EASTERN
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2021.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 3057-3076: SOUTH NYANZA REGION
+Actual Region found at 3057-3069: SOUTH NYANZA
+Region Match 3 at 7400-7412: KENYA REGION
+Actual Region found at 7400-7405: KENYA
+Region Match 4 at 7762-7782: NORTH EASTERN REGION
+Actual Region found at 7762-7775: NORTH EASTERN
+Region Match 5 at 8926-8938: COAST REGION
+Actual Region found at 8926-8931: COAST
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2030.06.2022.pdf
+*******************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 6656-6673: NORTH RIFT REGION
+Actual Region found at 6656-6666: NORTH RIFT
+Region Match 3 at 8847-8867: NORTH EASTERN REGION
+Actual Region found at 8847-8860: NORTH EASTERN
+Region Match 4 at 10029-10043: WESTERN REGION
+Actual Region found at 10029-10036: WESTERN
+Region Match 5 at 11722-11734: KENYA REGION
+Actual Region found at 11722-11727: KENYA
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2019.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 2526-2545: SOUTH NYANZA REGION
+Actual Region found at 2526-2538: SOUTH NYANZA
+Region Match 3 at 3409-3421: KENYA REGION
+Actual Region found at 3409-3414: KENYA
+Region Match 4 at 3683-3703: NORTH EASTERN REGION
+Actual Region found at 3683-3696: NORTH EASTERN
+Region Match 5 at 4537-4551: WESTERN REGION
+Actual Region found at 4537-4544: WESTERN
+Region Match 6 at 4554-4566: COAST REGION
+Actual Region found at 4554-4559: COAST
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2017.05.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 2991-3003: KENYA REGION
+Actual Region found at 2991-2996: KENYA
+Region Match 3 at 3939-3951: COAST REGION
+Actual Region found at 3939-3944: COAST
+Region Match 4 at 4640-4659: SOUTH NYANZA REGION
+Actual Region found at 4640-4652: SOUTH NYANZA
+Region Match 5 at 5484-5504: NORTH EASTERN REGION
+Actual Region found at 5484-5497: NORTH EASTERN
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2009.08.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 1837-1849: KENYA REGION
+Actual Region found at 1837-1842: KENYA
+Region Match 3 at 3158-3175: NORTH RIFT REGION
+Actual Region found at 3158-3168: NORTH RIFT
+Region Match 4 at 3695-3714: SOUTH NYANZA REGION
+Actual Region found at 3695-3707: SOUTH NYANZA
+Region Match 5 at 4752-4772: NORTH EASTERN REGION
+Actual Region found at 4752-4765: NORTH EASTERN
+*************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.05.2021-Part-201-20of-202.pdf
+*************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 2550-2569: CENTRAL RIFT REGION
+Actual Region found at 2550-2562: CENTRAL RIFT
+Region Match 3 at 3499-3516: NORTH RIFT REGION
+Actual Region found at 3499-3509: NORTH RIFT
+Region Match 4 at 4067-4081: WESTERN REGION
+Actual Region found at 4067-4074: WESTERN
+Region Match 5 at 5239-5251: KENYA REGION
+Actual Region found at 5239-5244: KENYA
+Region Match 6 at 7432-7451: NOTH EASTERN REGION
+Actual Region found at 7432-7444: NOTH EASTERN
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2008.07.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 401-415: NAIROBI REGION
+Actual Region found at 401-408: NAIROBI
+Region Match 2 at 2409-2428: CENTRAL RIFT REGION
+Actual Region found at 2409-2421: CENTRAL RIFT
+Region Match 3 at 2740-2754: WESTERN REGION
+Actual Region found at 2740-2747: WESTERN
+Region Match 4 at 4705-4724: SOUTH NYANZA REGION
+Actual Region found at 4705-4717: SOUTH NYANZA
+Region Match 5 at 4994-5006: KENYA REGION
+Actual Region found at 4994-4999: KENYA
+Region Match 6 at 5980-6000: NORTH EASTERN REGION
+Actual Region found at 5980-5993: NORTH EASTERN
+Region Match 7 at 6285-6297: COAST REGION
+Actual Region found at 6285-6290: COAST
+Region Match 8 at 6464-6484: NORTH EASTERN REGION
+Actual Region found at 6464-6477: NORTH EASTERN
+Region Match 9 at 6769-6781: COAST REGION
+Actual Region found at 6769-6774: COAST
+**************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruption-20Notice-20--2021-23.05.2021.pdf
+**************************************************************************************************
+
+Region Match 1 at 80-103: AND CENTRAL RIFT REGION
+Actual Region found at 89-96: AL RIFT
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2007.07.2022.pdf
+*******************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 4729-4748: CENTRAL RIFT REGION
+Actual Region found at 4729-4741: CENTRAL RIFT
+Region Match 3 at 5476-5493: NORTH RIFT REGION
+Actual Region found at 5476-5486: NORTH RIFT
+Region Match 4 at 7330-7344: WESTERN REGION
+Actual Region found at 7330-7337: WESTERN
+Region Match 5 at 7867-7886: SOUTH NYANZA REGION
+Actual Region found at 7867-7879: SOUTH NYANZA
+Region Match 6 at 9282-9294: KENYA REGION
+Actual Region found at 9282-9287: KENYA
+Region Match 7 at 10537-10557: NORTH EASTERN REGION
+Actual Region found at 10537-10550: NORTH EASTERN
+Region Match 8 at 11119-11131: COAST REGION
+Actual Region found at 11119-11124: COAST
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2022.07.2021.pdf
+*******************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 5944-5961: NORTH RIFT REGION
+Actual Region found at 5944-5954: NORTH RIFT
+Region Match 3 at 8265-8279: WESTERN REGION
+Actual Region found at 8265-8272: WESTERN
+Region Match 4 at 8588-8607: SOUTH NYANZA REGION
+Actual Region found at 8588-8600: SOUTH NYANZA
+Region Match 5 at 11682-11702: NORTH EASTERN REGION
+Actual Region found at 11682-11695: NORTH EASTERN
+Region Match 6 at 12046-12058: COAST REGION
+Actual Region found at 12046-12051: COAST
+*************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2026.04.2021-Part-202-20of-202.pdf
+*************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 4534-4553: CENTRAL RIFT REGION
+Actual Region found at 4534-4546: CENTRAL RIFT
+Region Match 3 at 5733-5747: WESTERN REGION
+Actual Region found at 5733-5740: WESTERN
+Region Match 4 at 6376-6395: SOUTH NYANZA REGION
+Actual Region found at 6376-6388: SOUTH NYANZA
+Region Match 5 at 7070-7082: KENYA REGION
+Actual Region found at 7070-7075: KENYA
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2022.04.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 5433-5452: CENTRAL RIFT REGION
+Actual Region found at 5433-5445: CENTRAL RIFT
+Region Match 3 at 5747-5764: NORTH RIFT REGION
+Actual Region found at 5747-5757: NORTH RIFT
+Region Match 4 at 6661-6680: SOUTH NYANZA REGION
+Actual Region found at 6661-6673: SOUTH NYANZA
+Region Match 5 at 6994-7006: KENYA REGION
+Actual Region found at 6994-6999: KENYA
+Region Match 6 at 7577-7597: NORTH EASTERN REGION
+Actual Region found at 7577-7590: NORTH EASTERN
+Region Match 7 at 8722-8734: COAST REGION
+Actual Region found at 8722-8727: COAST
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2016.08.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 2064-2081: NORTH RIFT REGION
+Actual Region found at 2064-2074: NORTH RIFT
+Region Match 3 at 2935-2954: SOUTH NYANZA REGION
+Actual Region found at 2935-2947: SOUTH NYANZA
+Region Match 4 at 3764-3776: KENYA REGION
+Actual Region found at 3764-3769: KENYA
+Region Match 5 at 4909-4929: NORTH EASTERN REGION
+Actual Region found at 4909-4922: NORTH EASTERN
+Region Match 6 at 5345-5357: COAST REGION
+Actual Region found at 5345-5350: COAST
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2026.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 2823-2840: NORTH RIFT REGION
+Actual Region found at 2823-2833: NORTH RIFT
+Region Match 3 at 3081-3095: WESTERN REGION
+Actual Region found at 3081-3088: WESTERN
+Region Match 4 at 4327-4346: SOUTH NYANZA REGION
+Actual Region found at 4327-4339: SOUTH NYANZA
+Region Match 5 at 4838-4850: KENYA REGION
+Actual Region found at 4838-4843: KENYA
+Region Match 6 at 6863-6875: COAST REGION
+Actual Region found at 6863-6868: COAST
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2018.06.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 2245-2264: CENTRAL RIFT REGION
+Actual Region found at 2245-2257: CENTRAL RIFT
+Region Match 3 at 3250-3267: NORTH RIFT REGION
+Actual Region found at 3250-3260: NORTH RIFT
+Region Match 4 at 3544-3558: WESTERN REGION
+Actual Region found at 3544-3551: WESTERN
+Region Match 5 at 3811-3830: SOUTH NYANZA REGION
+Actual Region found at 3811-3823: SOUTH NYANZA
+Region Match 6 at 4564-4576: KENYA REGION
+Actual Region found at 4564-4569: KENYA
+Region Match 7 at 5375-5395: NORTH EASTERN REGION
+Actual Region found at 5375-5388: NORTH EASTERN
+Region Match 8 at 7071-7083: COAST REGION
+Actual Region found at 7071-7076: COAST
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2020.05.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 3393-3412: CENTRAL RIFT REGION
+Actual Region found at 3393-3405: CENTRAL RIFT
+Region Match 3 at 3415-3429: WESTERN REGION
+Actual Region found at 3415-3422: WESTERN
+Region Match 4 at 3888-3907: SOUTH NYANZA REGION
+Actual Region found at 3888-3900: SOUTH NYANZA
+Region Match 5 at 4104-4116: KENYA REGION
+Actual Region found at 4104-4109: KENYA
+Region Match 6 at 4912-4932: NORTH EASTERN REGION
+Actual Region found at 4912-4925: NORTH EASTERN
+Region Match 7 at 5910-5922: COAST REGION
+Actual Region found at 5910-5915: COAST
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2011.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 2382-2401: SOUTH NYANZA REGION
+Actual Region found at 2382-2394: SOUTH NYANZA
+Region Match 3 at 2963-2975: KENYA REGION
+Actual Region found at 2963-2968: KENYA
+Region Match 4 at 4944-4963: CENTRAL RIFT REGION
+Actual Region found at 4944-4956: CENTRAL RIFT
+Region Match 5 at 5688-5705: NORTH RIFT REGION
+Actual Region found at 5688-5698: NORTH RIFT
+Region Match 6 at 5979-5999: NORTH EASTERN REGION
+Actual Region found at 5979-5992: NORTH EASTERN
+Region Match 7 at 7332-7344: COAST REGION
+Actual Region found at 7332-7337: COAST
+***************************************************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruption-20Notice-20--20Western-20&-20North-20Rift-20Regions-20--2025-20&-2026.05.2021.pdf
+***************************************************************************************************************************************************
+
+Region Match 1 at 39-60: AND NORTH RIFT REGION
+Actual Region found at 46-53: TH RIFT
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2025.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 3097-3116: CENTRAL RIFT REGION
+Actual Region found at 3097-3109: CENTRAL RIFT
+Region Match 3 at 3650-3667: NORTH RIFT REGION
+Actual Region found at 3650-3660: NORTH RIFT
+Region Match 4 at 4317-4331: WESTERN REGION
+Actual Region found at 4317-4324: WESTERN
+Region Match 5 at 4789-4808: SOUTH NYANZA REGION
+Actual Region found at 4789-4801: SOUTH NYANZA
+Region Match 6 at 5433-5445: KENYA REGION
+Actual Region found at 5433-5438: KENYA
+Region Match 7 at 6769-6781: COAST REGION
+Actual Region found at 6769-6774: COAST
+*******************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruptions-20Notice-20--20Kisumu-20CBD-20--2028.05.2021.pdf
+*******************************************************************************************************************
+
+Region Match 1 at 43-60: OF WESTERN REGION
+Actual Region found at 43-53: OF WESTERN
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2001.07.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 392-406: NAIROBI REGION
+Actual Region found at 392-399: NAIROBI
+Region Match 2 at 1271-1288: NORTH RIFT REGION
+Actual Region found at 1271-1281: NORTH RIFT
+Region Match 3 at 1766-1785: SOUTH NYANZA REGION
+Actual Region found at 1766-1778: SOUTH NYANZA
+Region Match 4 at 2672-2684: KENYA REGION
+Actual Region found at 2672-2677: KENYA
+Region Match 5 at 3196-3216: NORTH EASTERN REGION
+Actual Region found at 3196-3209: NORTH EASTERN
+Region Match 6 at 4282-4294: COAST REGION
+Actual Region found at 4282-4287: COAST
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2003.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Region Match 1 at 0-17: NORTH RIFT REGION
+Actual Region found at 0-10: NORTH RIFT
+Region Match 2 at 319-333: WESTERN REGION
+Actual Region found at 319-326: WESTERN
+Region Match 3 at 585-605: NORTH EASTERN REGION
+Actual Region found at 585-598: NORTH EASTERN
+Region Match 4 at 1753-1765: COAST REGION
+Actual Region found at 1753-1758: COAST
+Region Match 5 at 2422-2436: NAIROBI REGION
+Actual Region found at 2422-2429: NAIROBI
+Region Match 6 at 5801-5820: CENTRAL RIFT REGION
+Actual Region found at 5801-5813: CENTRAL RIFT

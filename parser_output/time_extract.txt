@@ -1,0 +1,1546 @@
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.05.2021-20Part-202-20of-202.pdf
+***************************************************************************************************
+
+Time Match 1 at 516-543: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 522-543: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 755-782: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 761-782: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1011-1038: TIME: 8.30 A.M. – 5.00 P.M.
+Actual Time found at 1017-1038: 8.30 A.M. – 5.00 P.M.
+Time Match 4 at 1341-1368: TIME: 8.30 A.M. – 5.00 P.M.
+Actual Time found at 1347-1368: 8.30 A.M. – 5.00 P.M.
+Time Match 5 at 1624-1651: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1630-1651: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 1908-1935: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 1914-1935: 9.00 A.M. - 4.00 P.M.
+Time Match 7 at 2385-2412: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 2391-2412: 9.00 A.M. - 3.00 P.M.
+Time Match 8 at 2602-2629: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 2608-2629: 9.00 A.M. - 3.00 P.M.
+Time Match 9 at 2913-2940: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2919-2940: 9.00 A.M. – 5.00 P.M.
+Time Match 10 at 3282-3309: TIME: 8.30 A.M. – 5.00 P.M.
+Actual Time found at 3288-3309: 8.30 A.M. – 5.00 P.M.
+Time Match 11 at 3758-3785: TIME: 9.00 A.M. – 5.30 P.M.
+Actual Time found at 3764-3785: 9.00 A.M. – 5.30 P.M.
+Time Match 12 at 4090-4117: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4096-4117: 9.00 A.M. – 5.00 P.M.
+Time Match 13 at 4327-4354: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 4333-4354: 9.00 A.M. – 3.00 P.M.
+Time Match 14 at 4613-4640: TIME: 9.30 A.M. - 4.00 P.M.
+Actual Time found at 4619-4640: 9.30 A.M. - 4.00 P.M.
+Time Match 15 at 5032-5059: TIME: 9.30 A.M. - 4.00 P.M.
+Actual Time found at 5038-5059: 9.30 A.M. - 4.00 P.M.
+Time Match 16 at 5568-5595: TIME: 9.30 A.M. - 4.00 P.M.
+Actual Time found at 5574-5595: 9.30 A.M. - 4.00 P.M.
+Time Match 17 at 5935-5962: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5941-5962: 9.00 A.M. – 5.00 P.M.
+Time Match 18 at 6275-6302: TIME: 8.00 A.M. - 5.00 P.M.
+Actual Time found at 6281-6302: 8.00 A.M. - 5.00 P.M.
+Time Match 19 at 6650-6677: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6656-6677: 9.00 A.M. – 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2007.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 490-517: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 496-517: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 875-902: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 881-902: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1104-1131: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1110-1131: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1546-1573: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1552-1573: 9.00 A.M. - 5.00 P.M.
+Time Match 5 at 1774-1801: TIME: 9.00 A.M. – 6.00 P.M.
+Actual Time found at 1780-1801: 9.00 A.M. – 6.00 P.M.
+Time Match 6 at 2063-2090: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 2069-2090: 9.00 A.M. - 3.00 P.M.
+Time Match 7 at 2233-2260: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2239-2260: 9.00 A.M. - 5.00 P.M.
+Time Match 8 at 2479-2506: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 2485-2506: 9.00 A.M. - 3.00 P.M.
+Time Match 9 at 2651-2678: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 2657-2678: 9.00 A.M. - 3.00 P.M.
+Time Match 10 at 2809-2836: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 2815-2836: 9.00 A.M. - 3.00 P.M.
+Time Match 11 at 3142-3169: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 3148-3169: 8.00 A.M. – 5.00 P.M.
+Time Match 12 at 3427-3454: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3433-3454: 9.00 A.M. - 5.00 P.M.
+Time Match 13 at 3750-3777: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3756-3777: 9.00 A.M. – 5.00 P.M.
+Time Match 14 at 4089-4116: TIME: 8.30 A.M. – 4.30 P.M.
+Actual Time found at 4095-4116: 8.30 A.M. – 4.30 P.M.
+Time Match 15 at 4292-4319: TIME: 8.30 A.M. – 4.30 P.M.
+Actual Time found at 4298-4319: 8.30 A.M. – 4.30 P.M.
+Time Match 16 at 4722-4749: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4728-4749: 9.00 A.M. – 5.00 P.M.
+Time Match 17 at 4962-4989: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4968-4989: 9.00 A.M. – 5.00 P.M.
+Time Match 18 at 5493-5520: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 5499-5520: 9.00 A.M. – 4.00 P.M.
+Time Match 19 at 5746-5773: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5752-5773: 9.00 A.M. – 5.00 P.M.
+Time Match 20 at 6031-6058: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6037-6058: 9.00 A.M. – 5.00 P.M.
+Time Match 21 at 6385-6412: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6391-6412: 9.00 A.M. – 5.00 P.M.
+Time Match 22 at 6637-6664: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6643-6664: 9.00 A.M. – 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2031.05.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 488-515: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 494-515: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 762-789: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 768-789: 9.00 A.M. - 5.00 P.M.
+Time Match 3 at 981-1008: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 987-1008: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1220-1247: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1226-1247: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1525-1552: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1531-1552: 9.00 A.M. - 5.00 P.M.
+Time Match 6 at 1738-1765: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1744-1765: 9.00 A.M. - 5.00 P.M.
+Time Match 7 at 1922-1949: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1928-1949: 9.00 A.M. - 5.00 P.M.
+Time Match 8 at 2141-2168: TIME: 8.00 A.M. – 3.00 P.M.
+Actual Time found at 2147-2168: 8.00 A.M. – 3.00 P.M.
+Time Match 9 at 2564-2591: TIME: 8.00 A.M. - 4.00 P.M.
+Actual Time found at 2570-2591: 8.00 A.M. - 4.00 P.M.
+Time Match 10 at 3120-3147: TIME: 8.30 A.M. – 4.00 P.M.
+Actual Time found at 3126-3147: 8.30 A.M. – 4.00 P.M.
+Time Match 11 at 3472-3499: TIME: 8.30 A.M. – 4.00 P.M.
+Actual Time found at 3478-3499: 8.30 A.M. – 4.00 P.M.
+Time Match 12 at 4010-4037: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4016-4037: 9.00 A.M. – 5.00 P.M.
+Time Match 13 at 4291-4318: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4297-4318: 9.00 A.M. – 5.00 P.M.
+Time Match 14 at 4617-4644: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 4623-4644: 9.00 A.M. – 4.00 P.M.
+Time Match 15 at 4992-5019: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 4998-5019: 9.00 A.M. – 4.00 P.M.
+Time Match 16 at 5278-5305: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 5284-5305: 9.00 A.M. – 4.00 P.M.
+Time Match 17 at 5506-5533: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 5512-5533: 9.00 A.M. – 4.00 P.M.
+Time Match 18 at 5669-5696: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 5675-5696: 9.00 A.M. – 4.00 P.M.
+Time Match 19 at 6010-6037: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 6016-6037: 9.00 A.M. – 4.00 P.M.
+Time Match 20 at 6343-6370: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 6349-6370: 9.00 A.M. – 4.00 P.M.
+Time Match 21 at 6566-6593: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 6572-6593: 9.00 A.M. – 4.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2005.07.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 489-516: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 495-516: 9.00 A.M. - 3.00 P.M.
+Time Match 2 at 857-884: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 863-884: 9.00 A.M. - 5.00 P.M.
+Time Match 3 at 1143-1170: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1149-1170: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1553-1580: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1559-1580: 9.00 A.M. - 5.00 P.M.
+Time Match 5 at 1953-1980: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 1959-1980: 9.00 A.M. - 4.00 P.M.
+Time Match 6 at 2171-2198: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2177-2198: 9.00 A.M. – 5.00 P.M.
+Time Match 7 at 2389-2416: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2395-2416: 9.00 A.M. - 5.00 P.M.
+Time Match 8 at 2629-2656: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2635-2656: 9.00 A.M. - 5.00 P.M.
+Time Match 9 at 3005-3032: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 3011-3032: 9.00 A.M. – 4.00 P.M.
+Time Match 10 at 3336-3365: TIME: 10.00 A.M. – 12.30 P.M.
+Actual Time found at 3342-3365: 10.00 A.M. – 12.30 P.M.
+Time Match 11 at 3642-3669: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 3648-3669: 9.00 A.M. - 4.00 P.M.
+Time Match 12 at 3947-3975: TIME: 10.00 A.M. – 1.00 P.M.
+Actual Time found at 3953-3975: 10.00 A.M. – 1.00 P.M.
+Time Match 13 at 4154-4182: TIME: 10.00 A.M. – 4.00 P.M.
+Actual Time found at 4160-4182: 10.00 A.M. – 4.00 P.M.
+Time Match 14 at 4398-4425: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 4404-4425: 9.00 A.M. – 4.00 P.M.
+Time Match 15 at 4903-4930: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 4909-4930: 9.00 A.M. – 4.00 P.M.
+Time Match 16 at 5101-5128: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5107-5128: 9.00 A.M. – 5.00 P.M.
+Time Match 17 at 5635-5662: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5641-5662: 9.00 A.M. – 5.00 P.M.
+Time Match 18 at 6040-6067: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6046-6067: 9.00 A.M. – 5.00 P.M.
+Time Match 19 at 6348-6375: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6354-6375: 9.00 A.M. – 5.00 P.M.
+Time Match 20 at 6900-6927: TIME: 8.00 A.M. - 4.00 P.M.
+Actual Time found at 6906-6927: 8.00 A.M. - 4.00 P.M.
+*************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-13.09.2021.pdf
+*************************************************************************
+
+Time Match 1 at 483-510: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 489-510: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 704-731: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 710-731: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1475-1502: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1481-1502: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1756-1783: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1762-1783: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 2126-2153: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2132-2153: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 2429-2456: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2435-2456: 9.00 A.M. – 5.00 P.M.
+Time Match 7 at 2704-2731: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2710-2731: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 2983-3010: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2989-3010: 9.00 A.M. – 5.00 P.M.
+Time Match 9 at 3257-3284: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 3263-3284: 9.00 A.M. – 2.00 P.M.
+Time Match 10 at 3431-3458: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 3437-3458: 9.00 A.M. – 2.00 P.M.
+Time Match 11 at 3646-3673: TIME: 9.30 A.M. – 2.30 P.M.
+Actual Time found at 3652-3673: 9.30 A.M. – 2.30 P.M.
+Time Match 12 at 3936-3963: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 3942-3963: 8.00 A.M. – 5.00 P.M.
+Time Match 13 at 4331-4358: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 4337-4358: 8.00 A.M. – 4.00 P.M.
+Time Match 14 at 4575-4602: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 4581-4602: 9.00 A.M. – 4.00 P.M.
+Time Match 15 at 4884-4911: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 4890-4911: 9.00 A.M. – 4.00 P.M.
+Time Match 16 at 5135-5162: TIME: 8.30 A.M. – 5.00 P.M.
+Actual Time found at 5141-5162: 8.30 A.M. – 5.00 P.M.
+Time Match 17 at 5861-5888: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 5867-5888: 9.00 A.M. – 4.00 P.M.
+Time Match 18 at 6142-6169: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 6148-6169: 8.00 A.M. – 5.00 P.M.
+Time Match 19 at 6934-6961: TIME: 7.00 A.M. - 5.00 P.M.
+Actual Time found at 6940-6961: 7.00 A.M. - 5.00 P.M.
+Time Match 20 at 7752-7779: TIME: 7.00 A.M. - 5.00 P.M.
+Actual Time found at 7758-7779: 7.00 A.M. - 5.00 P.M.
+Time Match 21 at 8023-8050: TIME: 7.00 A.M. - 5.00 P.M.
+Actual Time found at 8029-8050: 7.00 A.M. - 5.00 P.M.
+Time Match 22 at 8345-8372: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 8351-8372: 9.00 A.M. – 5.00 P.M.
+Time Match 23 at 8578-8605: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 8584-8605: 9.00 A.M. – 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2013.05.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 499-526: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 505-526: 9.00 A.M. – 4.00 P.M.
+Time Match 2 at 865-892: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 871-892: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1125-1152: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1131-1152: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1376-1403: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1382-1403: 9.00 A.M. - 5.00 P.M.
+Time Match 5 at 2931-2958: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 2937-2958: 9.00 A.M. – 4.00 P.M.
+Time Match 6 at 3219-3246: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 3225-3246: 9.00 A.M. - 4.00 P.M.
+Time Match 7 at 3397-3424: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3403-3424: 9.00 A.M. - 5.00 P.M.
+Time Match 8 at 3614-3641: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 3620-3641: 9.00 A.M. – 2.00 P.M.
+Time Match 9 at 4230-4257: TIME: 8.30 A.M. – 5.30 P.M.
+Actual Time found at 4236-4257: 8.30 A.M. – 5.30 P.M.
+Time Match 10 at 4329-4356: TIME: 8.30 A.M. – 5.30 P.M.
+Actual Time found at 4335-4356: 8.30 A.M. – 5.30 P.M.
+Time Match 11 at 4752-4779: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4758-4779: 9.00 A.M. – 5.00 P.M.
+Time Match 12 at 4859-4886: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4865-4886: 9.00 A.M. – 5.00 P.M.
+Time Match 13 at 5279-5306: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5285-5306: 9.00 A.M. – 5.00 P.M.
+Time Match 14 at 5606-5633: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5612-5633: 9.00 A.M. – 5.00 P.M.
+Time Match 15 at 5905-5932: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5911-5932: 9.00 A.M. – 5.00 P.M.
+Time Match 16 at 6241-6268: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6247-6268: 9.00 A.M. – 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2028.05.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 115-142: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 121-142: 8.00 A.M. – 5.00 P.M.
+Time Match 2 at 340-367: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 346-367: 9.00 A.M. – 3.00 P.M.
+Time Match 3 at 670-697: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 676-697: 9.00 A.M. – 3.00 P.M.
+Time Match 4 at 1288-1315: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1294-1315: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1595-1622: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1601-1622: 9.00 A.M. - 5.00 P.M.
+Time Match 6 at 1703-1730: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1709-1730: 9.00 A.M. - 5.00 P.M.
+Time Match 7 at 2042-2069: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2048-2069: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 2374-2401: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2380-2401: 9.00 A.M. – 5.00 P.M.
+Time Match 9 at 2848-2875: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2854-2875: 9.00 A.M. – 5.00 P.M.
+Time Match 10 at 3084-3111: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3090-3111: 9.00 A.M. – 5.00 P.M.
+Time Match 11 at 3351-3378: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3357-3378: 9.00 A.M. - 5.00 P.M.
+Time Match 12 at 3618-3645: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3624-3645: 9.00 A.M. – 5.00 P.M.
+Time Match 13 at 3853-3881: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 3859-3881: 10.00 A.M. – 3.00 P.M.
+******************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruption-20Notice-20--20Kisumu-20--2024.05.2021-20(1).pdf
+******************************************************************************************************************
+
+Time Match 1 at 565-593: TIME: 12.00 P.M. – 6.00 P.M.
+Actual Time found at 571-593: 12.00 P.M. – 6.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2014.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 498-525: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 504-525: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 685-712: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 691-712: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 974-1001: TIME: 9.00 A.M. – 6.00 P.M.
+Actual Time found at 980-1001: 9.00 A.M. – 6.00 P.M.
+Time Match 4 at 1533-1560: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1539-1560: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1772-1799: TIME: 9.00 A.M. – 6.00 P.M.
+Actual Time found at 1778-1799: 9.00 A.M. – 6.00 P.M.
+Time Match 6 at 2510-2537: TIME: 9.00 A.M. – 6.00 P.M.
+Actual Time found at 2516-2537: 9.00 A.M. – 6.00 P.M.
+Time Match 7 at 2966-2993: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2972-2993: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 3208-3235: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 3214-3235: 9.00 A.M. - 3.00 P.M.
+Time Match 9 at 3494-3521: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 3500-3521: 9.00 A.M. - 3.00 P.M.
+Time Match 10 at 3693-3720: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 3699-3720: 9.00 A.M. - 3.00 P.M.
+Time Match 11 at 3897-3924: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 3903-3924: 9.00 A.M. - 3.00 P.M.
+Time Match 12 at 4148-4175: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 4154-4175: 9.00 A.M. – 2.00 P.M.
+Time Match 13 at 4294-4322: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 4300-4322: 10.00 A.M. – 3.00 P.M.
+Time Match 14 at 4493-4520: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 4499-4520: 9.00 A.M. – 3.00 P.M.
+Time Match 15 at 4715-4742: TIME: 8.30 A.M. – 5.30 P.M.
+Actual Time found at 4721-4742: 8.30 A.M. – 5.30 P.M.
+Time Match 16 at 5172-5199: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5178-5199: 9.00 A.M. – 5.00 P.M.
+Time Match 17 at 5333-5360: TIME: 8.00 A.M. - 4.00 P.M.
+Actual Time found at 5339-5360: 8.00 A.M. - 4.00 P.M.
+Time Match 18 at 5642-5669: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 5648-5669: 9.00 A.M. – 4.00 P.M.
+Time Match 19 at 5846-5873: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 5852-5873: 9.00 A.M. – 2.00 P.M.
+Time Match 20 at 6046-6073: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 6052-6073: 9.00 A.M. - 5.00 P.M.
+Time Match 21 at 7180-7207: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 7186-7207: 8.00 A.M. – 4.00 P.M.
+Time Match 22 at 7362-7389: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 7368-7389: 9.00 A.M. – 5.00 P.M.
+Time Match 23 at 7570-7597: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 7576-7597: 9.00 A.M. – 4.00 P.M.
+Time Match 24 at 7890-7917: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 7896-7917: 9.00 A.M. – 4.00 P.M.
+Time Match 25 at 8260-8287: TIME: 8.30 A.M. – 5.00 P.M.
+Actual Time found at 8266-8287: 8.30 A.M. – 5.00 P.M.
+Time Match 26 at 8521-8548: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 8527-8548: 9.00 A.M. – 4.00 P.M.
+Time Match 27 at 8827-8854: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 8833-8854: 9.00 A.M. – 4.00 P.M.
+Time Match 28 at 9280-9307: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 9286-9307: 9.00 A.M. – 4.00 P.M.
+Time Match 29 at 9597-9624: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 9603-9624: 9.00 A.M. - 5.00 P.M.
+Time Match 30 at 9852-9879: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 9858-9879: 9.00 A.M. - 5.00 P.M.
+Time Match 31 at 10089-10116: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 10095-10116: 9.00 A.M. – 5.00 P.M.
+Time Match 32 at 10405-10432: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 10411-10432: 9.00 A.M. – 5.00 P.M.
+Time Match 33 at 10611-10638: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 10617-10638: 9.00 A.M. – 4.00 P.M.
+Time Match 34 at 10883-10910: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 10889-10910: 9.00 A.M. – 5.00 P.M.
+Time Match 35 at 11156-11183: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 11162-11183: 9.00 A.M. – 3.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2012.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 482-509: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 488-509: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 693-720: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 699-720: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 948-975: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 954-975: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1183-1210: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1189-1210: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1495-1522: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1501-1522: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 1811-1838: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1817-1838: 9.00 A.M. - 5.00 P.M.
+Time Match 7 at 2022-2049: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2028-2049: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 2185-2213: TIME: 9.00 A.M. – 11.00 A.M.
+Actual Time found at 2191-2213: 9.00 A.M. – 11.00 A.M.
+Time Match 9 at 2469-2496: TIME: 9.00 A.M. – 1.00 P.M.
+Actual Time found at 2475-2496: 9.00 A.M. – 1.00 P.M.
+Time Match 10 at 2906-2933: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 2912-2933: 9.00 A.M. – 4.00 P.M.
+Time Match 11 at 3161-3188: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 3167-3188: 9.00 A.M. – 4.00 P.M.
+Time Match 12 at 3480-3507: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 3486-3507: 9.00 A.M. – 4.00 P.M.
+Time Match 13 at 3772-3799: TIME: 7.00 A.M. - 5.00 P.M.
+Actual Time found at 3778-3799: 7.00 A.M. - 5.00 P.M.
+Time Match 14 at 4047-4074: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 4053-4074: 9.00 A.M. - 5.00 P.M.
+Time Match 15 at 4336-4363: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 4342-4363: 9.00 A.M. – 2.00 P.M.
+Time Match 16 at 4607-4634: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4613-4634: 9.00 A.M. – 5.00 P.M.
+Time Match 17 at 4810-4837: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 4816-4837: 9.00 A.M. – 2.00 P.M.
+Time Match 18 at 4981-5008: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4987-5008: 9.00 A.M. – 5.00 P.M.
+Time Match 19 at 5172-5199: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 5178-5199: 8.00 A.M. – 5.00 P.M.
+Time Match 20 at 5364-5391: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 5370-5391: 9.00 A.M. – 3.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 517-544: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 523-544: 9.00 A.M. – 3.00 P.M.
+Time Match 2 at 924-951: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 930-951: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1131-1158: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1137-1158: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1373-1400: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1379-1400: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1672-1699: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1678-1699: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 2205-2232: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2211-2232: 9.00 A.M. – 5.00 P.M.
+Time Match 7 at 2638-2665: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2644-2665: 9.00 A.M. - 5.00 P.M.
+Time Match 8 at 3197-3224: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3203-3224: 9.00 A.M. - 5.00 P.M.
+Time Match 9 at 3397-3424: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3403-3424: 9.00 A.M. - 5.00 P.M.
+Time Match 10 at 3583-3610: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3589-3610: 9.00 A.M. - 5.00 P.M.
+Time Match 11 at 3820-3847: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3826-3847: 9.00 A.M. – 5.00 P.M.
+Time Match 12 at 4045-4072: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4051-4072: 9.00 A.M. – 5.00 P.M.
+Time Match 13 at 4284-4311: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 4290-4311: 9.00 A.M. - 5.00 P.M.
+Time Match 14 at 4511-4538: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 4517-4538: 9.00 A.M. - 5.00 P.M.
+Time Match 15 at 4820-4848: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 4826-4848: 10.00 A.M. – 3.00 P.M.
+Time Match 16 at 5020-5047: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 5026-5047: 7.00 A.M. – 5.00 P.M.
+Time Match 17 at 5141-5168: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 5147-5168: 7.00 A.M. – 5.00 P.M.
+Time Match 18 at 5353-5380: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 5359-5380: 7.00 A.M. – 5.00 P.M.
+Time Match 19 at 5439-5466: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 5445-5466: 7.00 A.M. – 5.00 P.M.
+Time Match 20 at 5722-5749: TIME: 8.30 A.M. – 4.00 P.M.
+Actual Time found at 5728-5749: 8.30 A.M. – 4.00 P.M.
+Time Match 21 at 5858-5885: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 5864-5885: 8.00 A.M. – 5.00 P.M.
+Time Match 22 at 6200-6227: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 6206-6227: 9.00 A.M. – 4.00 P.M.
+Time Match 23 at 6513-6540: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 6519-6540: 9.00 A.M. – 2.00 P.M.
+Time Match 24 at 6989-7016: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 6995-7016: 8.00 A.M. – 5.00 P.M.
+Time Match 25 at 7423-7450: TIME: 7.00 A.M. - 5.00 P.M.
+Actual Time found at 7429-7450: 7.00 A.M. - 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2012.07.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 489-516: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 495-516: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 660-687: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 666-687: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 973-1000: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 979-1000: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1205-1232: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1211-1232: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1741-1768: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1747-1768: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 1941-1968: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1947-1968: 9.00 A.M. – 5.00 P.M.
+Time Match 7 at 2110-2137: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2116-2137: 9.00 A.M. - 5.00 P.M.
+Time Match 8 at 2407-2434: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2413-2434: 9.00 A.M. – 5.00 P.M.
+Time Match 9 at 3002-3029: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3008-3029: 9.00 A.M. - 5.00 P.M.
+Time Match 10 at 3348-3375: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3354-3375: 9.00 A.M. – 5.00 P.M.
+Time Match 11 at 3594-3621: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3600-3621: 9.00 A.M. – 5.00 P.M.
+Time Match 12 at 3833-3860: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3839-3860: 9.00 A.M. - 5.00 P.M.
+Time Match 13 at 4178-4205: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 4184-4205: 8.00 A.M. – 5.00 P.M.
+Time Match 14 at 4423-4450: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 4429-4450: 8.00 A.M. – 5.00 P.M.
+Time Match 15 at 4663-4690: TIME: 8.30 A.M. – 3.00 P.M.
+Actual Time found at 4669-4690: 8.30 A.M. – 3.00 P.M.
+Time Match 16 at 5201-5229: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 5207-5229: 10.00 A.M. – 3.00 P.M.
+Time Match 17 at 5454-5481: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 5460-5481: 9.00 A.M. – 2.00 P.M.
+Time Match 18 at 5657-5684: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 5663-5684: 9.00 A.M. – 2.00 P.M.
+Time Match 19 at 5863-5890: TIME: 9.00 A.M. – 4.30 P.M.
+Actual Time found at 5869-5890: 9.00 A.M. – 4.30 P.M.
+Time Match 20 at 6247-6275: TIME: 10.30 A.M. – 4.30 P.M.
+Actual Time found at 6253-6275: 10.30 A.M. – 4.30 P.M.
+Time Match 21 at 6850-6877: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6856-6877: 9.00 A.M. – 5.00 P.M.
+Time Match 22 at 7704-7731: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 7710-7731: 9.00 A.M. – 5.00 P.M.
+Time Match 23 at 7912-7939: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 7918-7939: 9.00 A.M. – 5.00 P.M.
+Time Match 24 at 8510-8538: TIME: 10.00 A.M. – 1.00 P.M.
+Actual Time found at 8516-8538: 10.00 A.M. – 1.00 P.M.
+Time Match 25 at 8814-8842: TIME: 10.30 A.M. – 4.30 P.M.
+Actual Time found at 8820-8842: 10.30 A.M. – 4.30 P.M.
+Time Match 26 at 8986-9013: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 8992-9013: 8.00 A.M. – 4.00 P.M.
+Time Match 27 at 9164-9192: TIME: 10.30 A.M. – 4.30 P.M.
+Actual Time found at 9170-9192: 10.30 A.M. – 4.30 P.M.
+Time Match 28 at 9489-9517: TIME: 10.00 A.M. – 1.00 P.M.
+Actual Time found at 9495-9517: 10.00 A.M. – 1.00 P.M.
+Time Match 29 at 9781-9808: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 9787-9808: 8.00 A.M. – 5.00 P.M.
+Time Match 30 at 10086-10113: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 10092-10113: 8.00 A.M. – 5.00 P.M.
+Time Match 31 at 10417-10444: TIME: 8.00 P.M. – 5.00 P.M.
+Actual Time found at 10423-10444: 8.00 P.M. – 5.00 P.M.
+Time Match 32 at 10713-10740: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 10719-10740: 8.00 A.M. – 4.00 P.M.
+***************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions - 25.10.2021 Part 2 of 2.pdf
+***************************************************************************************
+
+Time Match 1 at 485-512: TIME: 9.00 A.M. - 2.00 P.M.
+Actual Time found at 491-512: 9.00 A.M. - 2.00 P.M.
+Time Match 2 at 761-788: TIME: 9.00 A.M. - 2.00 P.M.
+Actual Time found at 767-788: 9.00 A.M. - 2.00 P.M.
+Time Match 3 at 1243-1270: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1249-1270: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1410-1437: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1416-1437: 9.00 A.M. - 5.00 P.M.
+Time Match 5 at 1637-1664: TIME: 9.00 A.M. - 2.00 P.M.
+Actual Time found at 1643-1664: 9.00 A.M. - 2.00 P.M.
+Time Match 6 at 2134-2161: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 2140-2161: 9.00 A.M. – 2.00 P.M.
+Time Match 7 at 2331-2358: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 2337-2358: 9.00 A.M. – 2.00 P.M.
+Time Match 8 at 2679-2706: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 2685-2706: 9.00 A.M. – 2.00 P.M.
+Time Match 9 at 2866-2893: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 2872-2893: 9.00 A.M. – 2.00 P.M.
+Time Match 10 at 3084-3111: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 3090-3111: 9.00 A.M. – 2.00 P.M.
+Time Match 11 at 3283-3311: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 3289-3311: 10.00 A.M. – 3.00 P.M.
+Time Match 12 at 3543-3571: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 3549-3571: 10.00 A.M. – 3.00 P.M.
+Time Match 13 at 3777-3805: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 3783-3805: 10.00 A.M. – 3.00 P.M.
+Time Match 14 at 4099-4127: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 4105-4127: 10.00 A.M. – 3.00 P.M.
+Time Match 15 at 4573-4601: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 4579-4601: 10.00 A.M. – 3.00 P.M.
+Time Match 16 at 5043-5071: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 5049-5071: 10.00 A.M. – 3.00 P.M.
+Time Match 17 at 5345-5372: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 5351-5372: 9.00 A.M. – 2.00 P.M.
+Time Match 18 at 5692-5719: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 5698-5719: 9.00 A.M. – 2.00 P.M.
+Time Match 19 at 5901-5928: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 5907-5928: 9.00 A.M. – 2.00 P.M.
+Time Match 20 at 6164-6191: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 6170-6191: 9.00 A.M. – 2.00 P.M.
+Time Match 21 at 6670-6697: TIME: 9.00 A.M. - 2.00 P.M.
+Actual Time found at 6676-6697: 9.00 A.M. - 2.00 P.M.
+Time Match 22 at 6939-6966: TIME: 9.00 A.M. - 2.00 P.M.
+Actual Time found at 6945-6966: 9.00 A.M. - 2.00 P.M.
+Time Match 23 at 7141-7168: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 7147-7168: 9.00 A.M. – 2.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2021.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 495-522: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 501-522: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 716-743: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 722-743: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1134-1161: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1140-1161: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1503-1530: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1509-1530: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1716-1743: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1722-1743: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 2312-2339: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2318-2339: 9.00 A.M. – 5.00 P.M.
+Time Match 7 at 2692-2719: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2698-2719: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 2909-2936: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 2915-2936: 8.00 A.M. – 5.00 P.M.
+Time Match 9 at 3182-3209: TIME: 9.00 A.M. - 2.00 P.M.
+Actual Time found at 3188-3209: 9.00 A.M. - 2.00 P.M.
+Time Match 10 at 3392-3419: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3398-3419: 9.00 A.M. – 5.00 P.M.
+Time Match 11 at 3638-3665: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3644-3665: 9.00 A.M. - 5.00 P.M.
+Time Match 12 at 3833-3860: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3839-3860: 9.00 A.M. – 5.00 P.M.
+Time Match 13 at 4426-4453: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4432-4453: 9.00 A.M. – 5.00 P.M.
+Time Match 14 at 4921-4948: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4927-4948: 9.00 A.M. – 5.00 P.M.
+Time Match 15 at 5237-5264: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5243-5264: 9.00 A.M. – 5.00 P.M.
+Time Match 16 at 5479-5506: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 5485-5506: 9.00 A.M. - 3.00 P.M.
+Time Match 17 at 5679-5706: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 5685-5706: 9.00 A.M. - 4.00 P.M.
+Time Match 18 at 5898-5925: TIME: 8.00 A.M. - 5.00 P.M.
+Actual Time found at 5904-5925: 8.00 A.M. - 5.00 P.M.
+Time Match 19 at 7073-7099: TIME: 9.00A.M. - 5.00 P.M.
+Actual Time found at 7079-7099: 9.00A.M. - 5.00 P.M.
+Time Match 20 at 7243-7270: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 7249-7270: 9.00 A.M. - 5.00 P.M.
+Time Match 21 at 7518-7545: TIME: 8.30 A.M. – 4.30 P.M.
+Actual Time found at 7524-7545: 8.30 A.M. – 4.30 P.M.
+Time Match 22 at 7902-7929: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 7908-7929: 9.00 A.M. - 5.00 P.M.
+Time Match 23 at 8093-8120: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 8099-8120: 9.00 A.M. - 5.00 P.M.
+Time Match 24 at 8635-8662: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 8641-8662: 9.00 A.M. - 5.00 P.M.
+Time Match 25 at 9049-9076: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 9055-9076: 9.00 A.M. – 5.00 P.M.
+Time Match 26 at 9419-9446: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 9425-9446: 9.00 A.M. – 5.00 P.M.
+Time Match 27 at 9862-9889: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 9868-9889: 9.00 A.M. – 5.00 P.M.
+Time Match 28 at 10820-10847: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 10826-10847: 9.00 A.M. – 5.00 P.M.
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2030.06.2022.pdf
+*******************************************************************************
+
+Time Match 1 at 480-507: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 486-507: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 977-1004: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 983-1004: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1316-1343: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1322-1343: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1622-1649: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1628-1649: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 2027-2054: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2033-2054: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 2432-2459: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2438-2459: 9.00 A.M. – 5.00 P.M.
+Time Match 7 at 2741-2768: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2747-2768: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 2907-2934: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2913-2934: 9.00 A.M. – 5.00 P.M.
+Time Match 9 at 3614-3641: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3620-3641: 9.00 A.M. – 5.00 P.M.
+Time Match 10 at 4066-4093: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4072-4093: 9.00 A.M. – 5.00 P.M.
+Time Match 11 at 4689-4716: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 4695-4716: 9.00 A.M. – 3.00 P.M.
+Time Match 12 at 5066-5093: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5072-5093: 9.00 A.M. – 5.00 P.M.
+Time Match 13 at 5341-5368: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5347-5368: 9.00 A.M. – 5.00 P.M.
+Time Match 14 at 5612-5639: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5618-5639: 9.00 A.M. – 5.00 P.M.
+Time Match 15 at 5854-5881: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 5860-5881: 9.00 A.M. – 3.00 P.M.
+Time Match 16 at 6208-6235: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6214-6235: 9.00 A.M. – 5.00 P.M.
+Time Match 17 at 6520-6547: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6526-6547: 9.00 A.M. – 5.00 P.M.
+Time Match 18 at 6718-6745: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 6724-6745: 9.00 A.M. - 3.00 P.M.
+Time Match 19 at 6976-7003: TIME: 9.30 A.M. - 2.30 P.M.
+Actual Time found at 6982-7003: 9.30 A.M. - 2.30 P.M.
+Time Match 20 at 7195-7223: TIME: 10.00 A.M. - 4.00 P.M.
+Actual Time found at 7201-7223: 10.00 A.M. - 4.00 P.M.
+Time Match 21 at 8165-8193: TIME: 10.00 A.M. – 1.00 P.M.
+Actual Time found at 8171-8193: 10.00 A.M. – 1.00 P.M.
+Time Match 22 at 8468-8495: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 8474-8495: 9.00 A.M. - 5.00 P.M.
+Time Match 23 at 8973-9000: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 8979-9000: 9.00 A.M. - 5.00 P.M.
+Time Match 24 at 9176-9203: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 9182-9203: 9.00 A.M. - 5.00 P.M.
+Time Match 25 at 9459-9486: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 9465-9486: 9.00 A.M. - 5.00 P.M.
+Time Match 26 at 10131-10158: TIME: 8.00 A.M. – 1.00 P.M.
+Actual Time found at 10137-10158: 8.00 A.M. – 1.00 P.M.
+Time Match 27 at 10324-10351: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 10330-10351: 9.00 A.M. – 2.00 P.M.
+Time Match 28 at 10624-10651: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 10630-10651: 9.00 A.M. – 2.00 P.M.
+Time Match 29 at 10929-10956: TIME: 8.30 A.M. – 1.30 P.M.
+Actual Time found at 10935-10956: 8.30 A.M. – 1.30 P.M.
+Time Match 30 at 11164-11191: TIME: 8.30 A.M. – 1.30 P.M.
+Actual Time found at 11170-11191: 8.30 A.M. – 1.30 P.M.
+Time Match 31 at 11564-11591: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 11570-11591: 9.00 A.M. – 2.00 P.M.
+Time Match 32 at 11850-11877: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 11856-11877: 8.00 A.M. – 5.00 P.M.
+Time Match 33 at 12608-12635: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 12614-12635: 9.00 A.M. – 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2019.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 492-519: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 498-519: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 876-903: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 882-903: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1095-1122: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1101-1122: 9.00 A.M. - 5.00 P.M.
+Time Match 4 at 1573-1600: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1579-1600: 9.00 A.M. - 5.00 P.M.
+Time Match 5 at 2496-2523: TIME: 9.00 A.M. – 1.00 P.M.
+Actual Time found at 2502-2523: 9.00 A.M. – 1.00 P.M.
+Time Match 6 at 2661-2688: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 2667-2688: 9.00 A.M. - 4.00 P.M.
+Time Match 7 at 3027-3054: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 3033-3054: 9.00 A.M. - 4.00 P.M.
+Time Match 8 at 3526-3553: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 3532-3553: 8.00 A.M. – 5.00 P.M.
+Time Match 9 at 3826-3853: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3832-3853: 9.00 A.M. - 5.00 P.M.
+Time Match 10 at 4260-4288: TIME: 9.00 A.M. –  5.00 P.M.
+Actual Time found at 4266-4288: 9.00 A.M. –  5.00 P.M.
+Time Match 11 at 4640-4667: TIME: 9.00 A.M. – 5.30 P.M.
+Actual Time found at 4646-4667: 9.00 A.M. – 5.30 P.M.
+Time Match 12 at 5014-5041: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 5020-5041: 9.00 A.M. – 2.00 P.M.
+Time Match 13 at 5230-5257: TIME: 8.00 A.M. – 3.00 P.M.
+Actual Time found at 5236-5257: 8.00 A.M. – 3.00 P.M.
+Time Match 14 at 5487-5514: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 5493-5514: 8.00 A.M. – 4.00 P.M.
+Time Match 15 at 5578-5605: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 5584-5605: 9.00 A.M. – 4.00 P.M.
+Time Match 16 at 5824-5851: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5830-5851: 9.00 A.M. – 5.00 P.M.
+Time Match 17 at 6158-6185: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6164-6185: 9.00 A.M. – 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2017.05.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 1054-1081: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1060-1081: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 1262-1289: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1268-1289: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 2177-2204: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2183-2204: 9.00 A.M. - 5.00 P.M.
+Time Match 4 at 2399-2426: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2405-2426: 9.00 A.M. - 5.00 P.M.
+Time Match 5 at 2587-2614: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2593-2614: 9.00 A.M. - 5.00 P.M.
+Time Match 6 at 2833-2860: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2839-2860: 9.00 A.M. - 5.00 P.M.
+Time Match 7 at 3115-3142: TIME: 9.30 A.M. - 4.00 P.M.
+Actual Time found at 3121-3142: 9.30 A.M. - 4.00 P.M.
+Time Match 8 at 3432-3459: TIME: 8.30 A.M. – 5.00 P.M.
+Actual Time found at 3438-3459: 8.30 A.M. – 5.00 P.M.
+Time Match 9 at 3784-3811: TIME: 9.30 A.M. - 4.00 P.M.
+Actual Time found at 3790-3811: 9.30 A.M. - 4.00 P.M.
+Time Match 10 at 4070-4097: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4076-4097: 9.00 A.M. – 5.00 P.M.
+Time Match 11 at 4278-4305: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4284-4305: 9.00 A.M. – 5.00 P.M.
+Time Match 12 at 4428-4455: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4434-4455: 9.00 A.M. – 5.00 P.M.
+Time Match 13 at 4781-4808: TIME: 8.00 A.M. - 3.00 P.M.
+Actual Time found at 4787-4808: 8.00 A.M. - 3.00 P.M.
+Time Match 14 at 4998-5025: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5004-5025: 9.00 A.M. - 5.00 P.M.
+Time Match 15 at 5317-5344: TIME: 9.00 A.M. - 6.00 P.M.
+Actual Time found at 5323-5344: 9.00 A.M. - 6.00 P.M.
+Time Match 16 at 5610-5637: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5616-5637: 9.00 A.M. - 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2009.08.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 512-539: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 518-539: 9.00 A.M. – 4.00 P.M.
+Time Match 2 at 904-931: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 910-931: 8.00 A.M. – 4.00 P.M.
+Time Match 3 at 1133-1160: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1139-1160: 9.00 A.M. - 5.00 P.M.
+Time Match 4 at 1433-1460: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 1439-1460: 9.00 A.M. – 4.00 P.M.
+Time Match 5 at 1743-1770: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1749-1770: 9.00 A.M. - 5.00 P.M.
+Time Match 6 at 1932-1959: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1938-1959: 9.00 A.M. - 5.00 P.M.
+Time Match 7 at 2188-2215: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2194-2215: 9.00 A.M. - 5.00 P.M.
+Time Match 8 at 2516-2543: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2522-2543: 9.00 A.M. - 5.00 P.M.
+Time Match 9 at 2745-2772: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 2751-2772: 9.00 A.M. – 4.00 P.M.
+Time Match 10 at 2966-2993: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2972-2993: 9.00 A.M. - 5.00 P.M.
+Time Match 11 at 3298-3325: TIME: 9.30 A.M. – 3.00 P.M.
+Actual Time found at 3304-3325: 9.30 A.M. – 3.00 P.M.
+Time Match 12 at 3563-3590: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 3569-3590: 9.00 A.M. – 4.00 P.M.
+Time Match 13 at 3818-3845: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 3824-3845: 9.00 A.M. – 4.00 P.M.
+Time Match 14 at 4102-4129: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4108-4129: 9.00 A.M. – 5.00 P.M.
+Time Match 15 at 4457-4484: TIME: 8.00 A.M. - 5.00 P.M.
+Actual Time found at 4463-4484: 8.00 A.M. - 5.00 P.M.
+Time Match 16 at 4897-4924: TIME: 7.00 A.M. – 6.00 P.M.
+Actual Time found at 4903-4924: 7.00 A.M. – 6.00 P.M.
+*************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.05.2021-Part-201-20of-202.pdf
+*************************************************************************************************
+
+Time Match 1 at 512-539: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 518-539: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 826-853: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 832-853: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1177-1204: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1183-1204: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1521-1548: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 1527-1548: 9.00 A.M. - 3.00 P.M.
+Time Match 5 at 1741-1768: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 1747-1768: 9.00 A.M. - 3.00 P.M.
+Time Match 6 at 2131-2158: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 2137-2158: 9.00 A.M. - 3.00 P.M.
+Time Match 7 at 2394-2421: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2400-2421: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 2699-2726: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2705-2726: 9.00 A.M. – 5.00 P.M.
+Time Match 9 at 3043-3070: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3049-3070: 9.00 A.M. - 5.00 P.M.
+Time Match 10 at 3612-3639: TIME: 9.00 A.M. - 2.00 P.M.
+Actual Time found at 3618-3639: 9.00 A.M. - 2.00 P.M.
+Time Match 11 at 3861-3889: TIME: 9.00 A.M. - 2.00 
+P.M.
+Actual Time found at 3867-3889: 9.00 A.M. - 2.00 
+P.M.
+Time Match 12 at 4204-4231: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 4210-4231: 8.00 A.M. – 5.00 P.M.
+Time Match 13 at 4542-4569: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4548-4569: 9.00 A.M. – 5.00 P.M.
+Time Match 14 at 4777-4804: TIME: 8.30 A.M. – 5.30 P.M.
+Actual Time found at 4783-4804: 8.30 A.M. – 5.30 P.M.
+Time Match 15 at 5034-5061: TIME: 8.30 A.M. – 5.00 P.M.
+Actual Time found at 5040-5061: 8.30 A.M. – 5.00 P.M.
+Time Match 16 at 5358-5385: TIME: 9.30 A.M. - 4.00 P.M.
+Actual Time found at 5364-5385: 9.30 A.M. - 4.00 P.M.
+Time Match 17 at 5804-5831: TIME: 9.30 A.M. - 4.00 P.M.
+Actual Time found at 5810-5831: 9.30 A.M. - 4.00 P.M.
+Time Match 18 at 6139-6166: TIME: 9.30 A.M. - 4.00 P.M.
+Actual Time found at 6145-6166: 9.30 A.M. - 4.00 P.M.
+Time Match 19 at 6396-6423: TIME: 8.00 A.M. - 5.00 P.M.
+Actual Time found at 6402-6423: 8.00 A.M. - 5.00 P.M.
+Time Match 20 at 7565-7592: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 7571-7592: 9.00 A.M. - 5.00 P.M.
+Time Match 21 at 7822-7849: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 7828-7849: 9.00 A.M. - 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2008.07.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 507-534: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 513-534: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 729-756: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 735-756: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 960-987: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 966-987: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1242-1269: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1248-1269: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1617-1644: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1623-1644: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 2019-2046: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2025-2046: 9.00 A.M. – 5.00 P.M.
+Time Match 7 at 2236-2265: TIME: 10.00 A.M. - 12.00 P.M.
+Actual Time found at 2242-2265: 10.00 A.M. - 12.00 P.M.
+Time Match 8 at 2533-2560: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 2539-2560: 8.00 A.M. – 4.00 P.M.
+Time Match 9 at 2825-2852: TIME: 8.30 A.M. – 5.30 P.M.
+Actual Time found at 2831-2852: 8.30 A.M. – 5.30 P.M.
+Time Match 10 at 3296-3323: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 3302-3323: 8.00 A.M. – 5.00 P.M.
+Time Match 11 at 3578-3605: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 3584-3605: 9.00 A.M. – 4.00 P.M.
+Time Match 12 at 4043-4070: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 4049-4070: 8.00 A.M. – 5.00 P.M.
+Time Match 13 at 4440-4467: TIME: 9.00 A.M. – 4.30 P.M.
+Actual Time found at 4446-4467: 9.00 A.M. – 4.30 P.M.
+Time Match 14 at 4844-4872: TIME: 10.00 A.M. – 4.00 P.M.
+Actual Time found at 4850-4872: 10.00 A.M. – 4.00 P.M.
+Time Match 15 at 5118-5145: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 5124-5145: 9.00 A.M. – 4.00 P.M.
+Time Match 16 at 5407-5434: TIME: 2.00 P.M. – 5.00 P.M.
+Actual Time found at 5413-5434: 2.00 P.M. – 5.00 P.M.
+Time Match 17 at 5901-5928: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 5907-5928: 8.00 A.M. – 4.00 P.M.
+Time Match 18 at 6058-6085: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 6064-6085: 9.00 A.M. - 5.00 P.M.
+Time Match 19 at 6397-6424: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6403-6424: 9.00 A.M. – 5.00 P.M.
+Time Match 20 at 6568-6595: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 6574-6595: 9.00 A.M. - 5.00 P.M.
+Time Match 21 at 6881-6908: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6887-6908: 9.00 A.M. – 5.00 P.M.
+**************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruption-20Notice-20--2021-23.05.2021.pdf
+**************************************************************************************************
+
+Time Match 1 at 652-679: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 658-679: 7.00 A.M. – 5.00 P.M.
+Time Match 2 at 2796-2823: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 2802-2823: 7.00 A.M. – 5.00 P.M.
+Time Match 3 at 4471-4498: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 4477-4498: 7.00 A.M. – 5.00 P.M.
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2007.07.2022.pdf
+*******************************************************************************
+
+Time Match 1 at 484-511: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 490-511: 9.00 A.M. – 3.00 P.M.
+Time Match 2 at 756-783: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 762-783: 9.00 A.M. – 3.00 P.M.
+Time Match 3 at 1143-1170: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1149-1170: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1543-1570: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1549-1570: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1896-1923: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 1902-1923: 9.00 A.M. – 3.00 P.M.
+Time Match 6 at 2090-2116: TIME: 9.00A.M. – 5.00 P.M.
+Actual Time found at 2096-2116: 9.00A.M. – 5.00 P.M.
+Time Match 7 at 2344-2371: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 2350-2371: 9.00 A.M. – 3.00 P.M.
+Time Match 8 at 2503-2530: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2509-2530: 9.00 A.M. – 5.00 P.M.
+Time Match 9 at 2989-3016: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 2995-3016: 9.00 A.M. – 4.00 P.M.
+Time Match 10 at 3555-3582: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3561-3582: 9.00 A.M. – 5.00 P.M.
+Time Match 11 at 3742-3769: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3748-3769: 9.00 A.M. – 5.00 P.M.
+Time Match 12 at 4350-4377: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4356-4377: 9.00 A.M. – 5.00 P.M.
+Time Match 13 at 4565-4592: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4571-4592: 9.00 A.M. – 5.00 P.M.
+Time Match 14 at 4809-4836: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 4815-4836: 9.00 A.M. – 3.00 P.M.
+Time Match 15 at 5269-5296: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 5275-5296: 9.00 A.M. – 3.00 P.M.
+Time Match 16 at 5879-5906: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 5885-5906: 9.00 A.M. - 3.00 P.M.
+Time Match 17 at 6027-6054: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 6033-6054: 9.00 A.M. – 3.00 P.M.
+Time Match 18 at 6358-6385: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 6364-6385: 9.00 A.M. - 3.00 P.M.
+Time Match 19 at 7406-7434: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 7412-7434: 10.00 A.M. – 3.00 P.M.
+Time Match 20 at 7697-7724: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 7703-7724: 9.00 A.M. – 2.00 P.M.
+Time Match 21 at 7996-8023: TIME: 9.00 A.M. - 2.00 P.M.
+Actual Time found at 8002-8023: 9.00 A.M. - 2.00 P.M.
+Time Match 22 at 8219-8246: TIME: 9.00 A.M. - 2.00 P.M.
+Actual Time found at 8225-8246: 9.00 A.M. - 2.00 P.M.
+Time Match 23 at 8539-8566: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 8545-8566: 9.00 A.M. - 3.00 P.M.
+Time Match 24 at 8848-8875: TIME: 9.00 A.M. - 2.00 P.M.
+Actual Time found at 8854-8875: 9.00 A.M. - 2.00 P.M.
+Time Match 25 at 9161-9188: TIME: 9.30 A.M. - 2.30 P.M.
+Actual Time found at 9167-9188: 9.30 A.M. - 2.30 P.M.
+Time Match 26 at 9407-9434: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 9413-9434: 8.00 A.M. – 4.00 P.M.
+Time Match 27 at 10388-10415: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 10394-10415: 8.00 A.M. – 4.00 P.M.
+Time Match 28 at 10675-10702: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 10681-10702: 9.00 A.M. - 5.00 P.M.
+Time Match 29 at 11224-11251: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 11230-11251: 9.00 A.M. – 5.00 P.M.
+Time Match 30 at 11448-11475: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 11454-11475: 9.00 A.M. – 5.00 P.M.
+Time Match 31 at 11652-11679: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 11658-11679: 9.00 A.M. – 5.00 P.M.
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2022.07.2021.pdf
+*******************************************************************************
+
+Time Match 1 at 520-547: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 526-547: 9.00 A.M. - 5.00 P.M.
+Time Match 2 at 999-1026: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1005-1026: 9.00 A.M. - 5.00 P.M.
+Time Match 3 at 1275-1302: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1281-1302: 9.00 A.M. - 5.00 P.M.
+Time Match 4 at 1693-1720: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1699-1720: 9.00 A.M. - 5.00 P.M.
+Time Match 5 at 2206-2233: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2212-2233: 9.00 A.M. - 5.00 P.M.
+Time Match 6 at 2469-2496: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2475-2496: 9.00 A.M. - 5.00 P.M.
+Time Match 7 at 2668-2695: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2674-2695: 9.00 A.M. - 5.00 P.M.
+Time Match 8 at 2880-2907: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2886-2907: 9.00 A.M. - 5.00 P.M.
+Time Match 9 at 3182-3209: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3188-3209: 9.00 A.M. - 5.00 P.M.
+Time Match 10 at 3450-3477: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3456-3477: 9.00 A.M. - 5.00 P.M.
+Time Match 11 at 3843-3870: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3849-3870: 9.00 A.M. - 5.00 P.M.
+Time Match 12 at 4216-4243: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 4222-4243: 9.00 A.M. - 5.00 P.M.
+Time Match 13 at 4502-4529: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 4508-4529: 9.00 A.M. - 5.00 P.M.
+Time Match 14 at 4732-4759: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 4738-4759: 9.00 A.M. - 5.00 P.M.
+Time Match 15 at 4918-4945: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 4924-4945: 9.00 A.M. - 5.00 P.M.
+Time Match 16 at 5229-5256: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5235-5256: 9.00 A.M. - 5.00 P.M.
+Time Match 17 at 5511-5538: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5517-5538: 9.00 A.M. - 5.00 P.M.
+Time Match 18 at 5752-5779: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5758-5779: 9.00 A.M. - 5.00 P.M.
+Time Match 19 at 6037-6064: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 6043-6064: 7.00 A.M. – 5.00 P.M.
+Time Match 20 at 6129-6156: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 6135-6156: 7.00 A.M. – 5.00 P.M.
+Time Match 21 at 6342-6371: TIME: 10.00 A.M. –  3.00 P.M.
+Actual Time found at 6348-6371: 10.00 A.M. –  3.00 P.M.
+Time Match 22 at 6526-6553: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 6532-6553: 7.00 A.M. – 5.00 P.M.
+Time Match 23 at 6618-6645: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 6624-6645: 7.00 A.M. – 5.00 P.M.
+Time Match 24 at 6929-6957: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 6935-6957: 10.00 A.M. – 3.00 P.M.
+Time Match 25 at 7100-7127: TIME: 9.00 A.M. - 2.00 P.M.
+Actual Time found at 7106-7127: 9.00 A.M. - 2.00 P.M.
+Time Match 26 at 8373-8400: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 8379-8400: 9.00 A.M. - 5.00 P.M.
+Time Match 27 at 8712-8739: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 8718-8739: 9.00 A.M. – 4.00 P.M.
+Time Match 28 at 8934-8962: TIME: 10.30 A.M. – 4.30 P.M.
+Actual Time found at 8940-8962: 10.30 A.M. – 4.30 P.M.
+Time Match 29 at 9252-9279: TIME: 8.00 A.M. - 4.00 P.M.
+Actual Time found at 9258-9279: 8.00 A.M. - 4.00 P.M.
+Time Match 30 at 9513-9540: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 9519-9540: 9.00 A.M. – 4.00 P.M.
+Time Match 31 at 9711-9738: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 9717-9738: 8.00 A.M. – 4.00 P.M.
+Time Match 32 at 10021-10048: TIME: 8.30 A.M. - 4.30 P.M.
+Actual Time found at 10027-10048: 8.30 A.M. - 4.30 P.M.
+Time Match 33 at 11807-11834: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 11813-11834: 9.00 A.M. – 5.00 P.M.
+Time Match 34 at 12164-12191: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 12170-12191: 9.00 A.M. – 5.00 P.M.
+Time Match 35 at 12393-12420: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 12399-12420: 9.00 A.M. – 5.00 P.M.
+Time Match 36 at 12772-12799: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 12778-12799: 9.00 A.M. – 5.00 P.M.
+Time Match 37 at 13186-13213: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 13192-13213: 9.00 A.M. – 5.00 P.M.
+*************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2026.04.2021-Part-202-20of-202.pdf
+*************************************************************************************************
+
+Time Match 1 at 491-518: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 497-518: 9.00 A.M. - 5.00 P.M.
+Time Match 2 at 703-730: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 709-730: 9.00 A.M. - 5.00 P.M.
+Time Match 3 at 981-1008: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 987-1008: 9.00 A.M. - 5.00 P.M.
+Time Match 4 at 1146-1173: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1152-1173: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1694-1721: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1700-1721: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 2369-2396: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2375-2396: 9.00 A.M. - 5.00 P.M.
+Time Match 7 at 2640-2667: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2646-2667: 9.00 A.M. - 5.00 P.M.
+Time Match 8 at 2930-2957: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 2936-2957: 9.00 A.M. - 4.00 P.M.
+Time Match 9 at 3171-3198: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 3177-3198: 9.00 A.M. - 4.00 P.M.
+Time Match 10 at 3349-3376: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 3355-3376: 9.00 A.M. - 4.00 P.M.
+Time Match 11 at 3596-3623: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 3602-3623: 9.00 A.M. - 4.00 P.M.
+Time Match 12 at 3810-3837: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 3816-3837: 9.00 A.M. - 4.00 P.M.
+Time Match 13 at 4040-4067: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 4046-4067: 9.00 A.M. - 4.00 P.M.
+Time Match 14 at 4256-4283: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 4262-4283: 8.00 A.M. – 5.00 P.M.
+Time Match 15 at 4665-4692: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 4671-4692: 8.00 A.M. – 5.00 P.M.
+Time Match 16 at 4895-4922: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 4901-4922: 8.00 A.M. – 4.00 P.M.
+Time Match 17 at 5154-5181: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5160-5181: 9.00 A.M. – 5.00 P.M.
+Time Match 18 at 5514-5541: TIME: 8.00 A.M. - 5.00 P.M.
+Actual Time found at 5520-5541: 8.00 A.M. - 5.00 P.M.
+Time Match 19 at 5854-5882: TIME: 8.30 A.M. -  5.00 P.M.
+Actual Time found at 5860-5882: 8.30 A.M. -  5.00 P.M.
+Time Match 20 at 6059-6086: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 6065-6086: 7.00 A.M. – 5.00 P.M.
+Time Match 21 at 6504-6531: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 6510-6531: 9.00 A.M. – 4.00 P.M.
+Time Match 22 at 6806-6833: TIME: 9.30 A.M. – 4.00 P.M.
+Actual Time found at 6812-6833: 9.30 A.M. – 4.00 P.M.
+Time Match 23 at 7195-7222: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 7201-7222: 9.00 A.M. - 4.00 P.M.
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2022.04.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+Time Match 1 at 513-540: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 519-540: 9.00 A.M. - 5.00 P.M.
+Time Match 2 at 865-892: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 871-892: 9.00 A.M. - 5.00 P.M.
+Time Match 3 at 1159-1186: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1165-1186: 9.00 A.M. - 5.00 P.M.
+Time Match 4 at 1667-1694: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1673-1694: 9.00 A.M. - 5.00 P.M.
+Time Match 5 at 1929-1956: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1935-1956: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 2534-2561: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2540-2561: 9.00 A.M. - 5.00 P.M.
+Time Match 7 at 3066-3093: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3072-3093: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 3376-3403: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3382-3403: 9.00 A.M. – 5.00 P.M.
+Time Match 9 at 4569-4596: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 4575-4596: 9.00 A.M. - 5.00 P.M.
+Time Match 10 at 4984-5011: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 4990-5011: 9.00 A.M. - 5.00 P.M.
+Time Match 11 at 5211-5238: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 5217-5238: 9.00 A.M. - 4.00 P.M.
+Time Match 12 at 5588-5615: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 5594-5615: 9.00 A.M. – 4.00 P.M.
+Time Match 13 at 5880-5907: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 5886-5907: 9.00 A.M. – 2.00 P.M.
+Time Match 14 at 6170-6197: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 6176-6197: 9.00 A.M. – 2.00 P.M.
+Time Match 15 at 6514-6541: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 6520-6541: 9.00 A.M. – 2.00 P.M.
+Time Match 16 at 6803-6830: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 6809-6830: 9.00 A.M. – 4.00 P.M.
+Time Match 17 at 7135-7162: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 7141-7162: 9.00 A.M. - 4.00 P.M.
+Time Match 18 at 7728-7755: TIME: 7.00 A.M. - 5.00 P.M.
+Actual Time found at 7734-7755: 7.00 A.M. - 5.00 P.M.
+Time Match 19 at 8215-8242: TIME: 7.00 A.M. - 5.00 P.M.
+Actual Time found at 8221-8242: 7.00 A.M. - 5.00 P.M.
+Time Match 20 at 8530-8557: TIME: 7.00 A.M. - 5.00 P.M.
+Actual Time found at 8536-8557: 7.00 A.M. - 5.00 P.M.
+Time Match 21 at 8796-8823: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 8802-8823: 7.00 A.M. – 5.00 P.M.
+Time Match 22 at 9194-9221: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 9200-9221: 7.00 A.M. – 5.00 P.M.
+Time Match 23 at 9538-9565: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 9544-9565: 7.00 A.M. – 5.00 P.M.
+Time Match 24 at 9973-10000: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 9979-10000: 7.00 A.M. – 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2016.08.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 490-517: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 496-517: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 702-729: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 708-729: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1259-1286: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1265-1286: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1458-1485: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1464-1485: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1804-1831: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1810-1831: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 2179-2206: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 2185-2206: 9.00 A.M. – 3.00 P.M.
+Time Match 7 at 2483-2510: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2489-2510: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 3057-3084: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 3063-3084: 9.00 A.M. – 4.00 P.M.
+Time Match 9 at 3307-3334: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 3313-3334: 9.00 A.M. – 4.00 P.M.
+Time Match 10 at 3480-3507: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3486-3507: 9.00 A.M. – 5.00 P.M.
+Time Match 11 at 3643-3670: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 3649-3670: 8.00 A.M. – 5.00 P.M.
+Time Match 12 at 3893-3920: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 3899-3920: 9.00 A.M. – 4.00 P.M.
+Time Match 13 at 4197-4224: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 4203-4224: 8.00 A.M. – 5.00 P.M.
+Time Match 14 at 4655-4682: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 4661-4682: 9.00 A.M. – 4.00 P.M.
+Time Match 15 at 5046-5073: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5052-5073: 9.00 A.M. - 5.00 P.M.
+Time Match 16 at 5471-5498: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5477-5498: 9.00 A.M. – 5.00 P.M.
+Time Match 17 at 5655-5682: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5661-5682: 9.00 A.M. – 5.00 P.M.
+Time Match 18 at 5851-5878: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5857-5878: 9.00 A.M. – 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2026.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 492-519: TIME: 8.30 A.M. - 5.00 P.M.
+Actual Time found at 498-519: 8.30 A.M. - 5.00 P.M.
+Time Match 2 at 870-897: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 876-897: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1182-1209: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1188-1209: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1444-1471: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1450-1471: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1741-1768: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1747-1768: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 1997-2024: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2003-2024: 9.00 A.M. – 5.00 P.M.
+Time Match 7 at 2272-2299: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2278-2299: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 2693-2720: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2699-2720: 9.00 A.M. – 5.00 P.M.
+Time Match 9 at 2955-2983: TIME: 10.00 A.M. – 4.00 P.M.
+Actual Time found at 2961-2983: 10.00 A.M. – 4.00 P.M.
+Time Match 10 at 3209-3236: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 3215-3236: 8.00 A.M. – 5.00 P.M.
+Time Match 11 at 3462-3489: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3468-3489: 9.00 A.M. – 5.00 P.M.
+Time Match 12 at 3884-3911: TIME: 8.30 A.M. – 5.00 P.M.
+Actual Time found at 3890-3911: 8.30 A.M. – 5.00 P.M.
+Time Match 13 at 4088-4115: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4094-4115: 9.00 A.M. – 5.00 P.M.
+Time Match 14 at 4482-4509: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 4488-4509: 9.00 A.M. - 4.00 P.M.
+Time Match 15 at 4984-5011: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 4990-5011: 8.00 A.M. – 4.00 P.M.
+Time Match 16 at 5787-5814: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 5793-5814: 9.00 A.M. – 4.00 P.M.
+Time Match 17 at 6111-6138: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6117-6138: 9.00 A.M. – 5.00 P.M.
+Time Match 18 at 6410-6437: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6416-6437: 9.00 A.M. – 5.00 P.M.
+Time Match 19 at 6720-6747: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 6726-6747: 8.00 A.M. – 4.00 P.M.
+Time Match 20 at 6972-6999: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6978-6999: 9.00 A.M. – 5.00 P.M.
+Time Match 21 at 7363-7390: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 7369-7390: 9.00 A.M. – 5.00 P.M.
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2018.06.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+Time Match 1 at 491-518: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 497-518: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 706-733: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 712-733: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1008-1035: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1014-1035: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1390-1417: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1396-1417: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1974-2001: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 1980-2001: 9.00 A.M. - 5.00 P.M.
+Time Match 6 at 2381-2408: TIME: 8.00 A.M. – 1.00 P.M.
+Actual Time found at 2387-2408: 8.00 A.M. – 1.00 P.M.
+Time Match 7 at 2867-2894: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 2873-2894: 8.00 A.M. – 4.00 P.M.
+Time Match 8 at 3099-3126: TIME: 9.00 A.M. – 1.00 P.M.
+Actual Time found at 3105-3126: 9.00 A.M. – 1.00 P.M.
+Time Match 9 at 3354-3381: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 3360-3381: 9.00 A.M. – 2.00 P.M.
+Time Match 10 at 3657-3684: TIME: 8.30 A.M. – 5.00 P.M.
+Actual Time found at 3663-3684: 8.30 A.M. – 5.00 P.M.
+Time Match 11 at 3937-3964: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3943-3964: 9.00 A.M. - 5.00 P.M.
+Time Match 12 at 4143-4170: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 4149-4170: 9.00 A.M. - 4.00 P.M.
+Time Match 13 at 4686-4713: TIME: 8.30 A.M. – 4.30 P.M.
+Actual Time found at 4692-4713: 8.30 A.M. – 4.30 P.M.
+Time Match 14 at 5117-5144: TIME: 8.30 A.M. – 4.30 P.M.
+Actual Time found at 5123-5144: 8.30 A.M. – 4.30 P.M.
+Time Match 15 at 5484-5511: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 5490-5511: 9.00 A.M. – 3.00 P.M.
+Time Match 16 at 5855-5882: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5861-5882: 9.00 A.M. - 5.00 P.M.
+Time Match 17 at 6087-6114: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6093-6114: 9.00 A.M. – 5.00 P.M.
+Time Match 18 at 6308-6335: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6314-6335: 9.00 A.M. – 5.00 P.M.
+Time Match 19 at 6625-6652: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6631-6652: 9.00 A.M. – 5.00 P.M.
+Time Match 20 at 7184-7211: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 7190-7211: 9.00 A.M. – 5.00 P.M.
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2020.05.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+Time Match 1 at 517-544: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 523-544: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 827-856: TIME: 10.00 A.M. - 12.00 P.M.
+Actual Time found at 833-856: 10.00 A.M. - 12.00 P.M.
+Time Match 3 at 1140-1167: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1146-1167: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1382-1409: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1388-1409: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1985-2012: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1991-2012: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 2465-2492: TIME: 8.00 A.M. - 5.00 P.M.
+Actual Time found at 2471-2492: 8.00 A.M. - 5.00 P.M.
+Time Match 7 at 2681-2708: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 2687-2708: 9.00 A.M. - 5.00 P.M.
+Time Match 8 at 3102-3129: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 3108-3129: 9.00 A.M. - 4.00 P.M.
+Time Match 9 at 3308-3335: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 3314-3335: 9.00 A.M. - 3.00 P.M.
+Time Match 10 at 3555-3582: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 3561-3582: 9.00 A.M. – 3.00 P.M.
+Time Match 11 at 3747-3774: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3753-3774: 9.00 A.M. – 5.00 P.M.
+Time Match 12 at 4070-4097: TIME: 8.30 A.M. - 3.00 P.M.
+Actual Time found at 4076-4097: 8.30 A.M. - 3.00 P.M.
+Time Match 13 at 4230-4257: TIME: 8.00 A.M. – 4.00 P.M.
+Actual Time found at 4236-4257: 8.00 A.M. – 4.00 P.M.
+Time Match 14 at 4617-4644: TIME: 8.00 A.M. – 5.00 P.M.
+Actual Time found at 4623-4644: 8.00 A.M. – 5.00 P.M.
+Time Match 15 at 5036-5063: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5042-5063: 9.00 A.M. – 5.00 P.M.
+Time Match 16 at 5270-5297: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5276-5297: 9.00 A.M. – 5.00 P.M.
+Time Match 17 at 5482-5509: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5488-5509: 9.00 A.M. - 5.00 P.M.
+Time Match 18 at 6029-6056: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6035-6056: 9.00 A.M. – 5.00 P.M.
+Time Match 19 at 6474-6501: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6480-6501: 9.00 A.M. – 5.00 P.M.
+Time Match 20 at 6691-6718: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 6697-6718: 9.00 A.M. - 4.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2011.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 486-513: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 492-513: 9.00 A.M. – 5.00 P.M.
+Time Match 2 at 755-782: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 761-782: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1149-1176: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1155-1176: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1369-1396: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1375-1396: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1651-1678: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 1657-1678: 9.00 A.M. – 2.00 P.M.
+Time Match 6 at 1743-1770: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 1749-1770: 9.00 A.M. – 2.00 P.M.
+Time Match 7 at 2000-2027: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 2006-2027: 9.00 A.M. – 2.00 P.M.
+Time Match 8 at 2254-2281: TIME: 9.30 A.M. – 2.00 P.M.
+Actual Time found at 2260-2281: 9.30 A.M. – 2.00 P.M.
+Time Match 9 at 2490-2518: TIME: 10.00 A.M. – 4.00 P.M.
+Actual Time found at 2496-2518: 10.00 A.M. – 4.00 P.M.
+Time Match 10 at 2778-2805: TIME: 8.00 A.M. - 4.00 P.M.
+Actual Time found at 2784-2805: 8.00 A.M. - 4.00 P.M.
+Time Match 11 at 3082-3109: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 3088-3109: 9.00 A.M. - 3.00 P.M.
+Time Match 12 at 3332-3359: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 3338-3359: 9.00 A.M. – 4.00 P.M.
+Time Match 13 at 3619-3646: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 3625-3646: 9.00 A.M. - 3.00 P.M.
+Time Match 14 at 3945-3972: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3951-3972: 9.00 A.M. - 5.00 P.M.
+Time Match 15 at 4215-4242: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 4221-4242: 9.00 A.M. - 5.00 P.M.
+Time Match 16 at 4443-4470: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 4449-4470: 9.00 A.M. - 3.00 P.M.
+Time Match 17 at 4651-4678: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4657-4678: 9.00 A.M. – 5.00 P.M.
+Time Match 18 at 5077-5104: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5083-5104: 9.00 A.M. – 5.00 P.M.
+Time Match 19 at 5335-5362: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5341-5362: 9.00 A.M. - 5.00 P.M.
+Time Match 20 at 5594-5621: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5600-5621: 9.00 A.M. - 5.00 P.M.
+Time Match 21 at 5830-5858: TIME: 10.00 A.M. – 5.00 P.M.
+Actual Time found at 5836-5858: 10.00 A.M. – 5.00 P.M.
+Time Match 22 at 6123-6150: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 6129-6150: 9.00 A.M. – 4.00 P.M.
+Time Match 23 at 6431-6458: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 6437-6458: 9.00 A.M. – 4.00 P.M.
+Time Match 24 at 6702-6729: TIME: 8.00 A.M. - 5.00 P.M.
+Actual Time found at 6708-6729: 8.00 A.M. - 5.00 P.M.
+Time Match 25 at 7457-7484: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 7463-7484: 9.00 A.M. – 5.00 P.M.
+Time Match 26 at 7967-7994: TIME: 9.00 A.M. – 3.00 P.M.
+Actual Time found at 7973-7994: 9.00 A.M. – 3.00 P.M.
+***************************************************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruption-20Notice-20--20Western-20&-20North-20Rift-20Regions-20--2025-20&-2026.05.2021.pdf
+***************************************************************************************************************************************************
+
+Time Match 1 at 590-617: TIME: 7.00 A.M. – 2.00 P.M.
+Actual Time found at 596-617: 7.00 A.M. – 2.00 P.M.
+Time Match 2 at 1498-1525: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 1504-1525: 7.00 A.M. – 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2025.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 495-522: TIME: 8.30 A.M. – 4.00 P.M.
+Actual Time found at 501-522: 8.30 A.M. – 4.00 P.M.
+Time Match 2 at 807-834: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 813-834: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 1038-1065: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1044-1065: 9.00 A.M. – 5.00 P.M.
+Time Match 4 at 1234-1261: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1240-1261: 9.00 A.M. – 5.00 P.M.
+Time Match 5 at 1603-1630: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1609-1630: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 1832-1859: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1838-1859: 9.00 A.M. – 5.00 P.M.
+Time Match 7 at 2398-2425: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2404-2425: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 2956-2983: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2962-2983: 9.00 A.M. – 5.00 P.M.
+Time Match 9 at 3216-3243: TIME: 9.00 A.M. – 1.00 P.M.
+Actual Time found at 3222-3243: 9.00 A.M. – 1.00 P.M.
+Time Match 10 at 3501-3529: TIME: 9.00 A.M. – 12.00 P.M.
+Actual Time found at 3507-3529: 9.00 A.M. – 12.00 P.M.
+Time Match 11 at 3787-3814: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 3793-3814: 9.00 A.M. – 2.00 P.M.
+Time Match 12 at 4121-4149: TIME: 10.00 A.M. – 3.00 P.M.
+Actual Time found at 4127-4149: 10.00 A.M. – 3.00 P.M.
+Time Match 13 at 4395-4422: TIME: 8.00 A.M. – 2.00 P.M.
+Actual Time found at 4401-4422: 8.00 A.M. – 2.00 P.M.
+Time Match 14 at 4634-4661: TIME: 8.30 A.M. – 5.00 P.M.
+Actual Time found at 4640-4661: 8.30 A.M. – 5.00 P.M.
+Time Match 15 at 4916-4943: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 4922-4943: 9.00 A.M. - 3.00 P.M.
+Time Match 16 at 5133-5160: TIME: 8.00 A.M. - 4.00 P.M.
+Actual Time found at 5139-5160: 8.00 A.M. - 4.00 P.M.
+Time Match 17 at 5573-5600: TIME: 8.30 A.M. – 4.00 P.M.
+Actual Time found at 5579-5600: 8.30 A.M. – 4.00 P.M.
+Time Match 18 at 5957-5984: TIME: 9.00 A.M. – 4.00 P.M.
+Actual Time found at 5963-5984: 9.00 A.M. – 4.00 P.M.
+Time Match 19 at 6291-6318: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6297-6318: 9.00 A.M. – 5.00 P.M.
+Time Match 20 at 6885-6912: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 6891-6912: 9.00 A.M. – 5.00 P.M.
+Time Match 21 at 7254-7281: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 7260-7281: 9.00 A.M. – 5.00 P.M.
+*******************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruptions-20Notice-20--20Kisumu-20CBD-20--2028.05.2021.pdf
+*******************************************************************************************************************
+
+Time Match 1 at 560-587: TIME: 7.00 A.M. – 5.00 P.M.
+Actual Time found at 566-587: 7.00 A.M. – 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2001.07.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 484-511: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 490-511: 9.00 A.M. - 5.00 P.M.
+Time Match 2 at 669-696: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 675-696: 9.00 A.M. – 5.00 P.M.
+Time Match 3 at 845-872: TIME: 9.00 A.M. - 1.00 P.M.
+Actual Time found at 851-872: 9.00 A.M. - 1.00 P.M.
+Time Match 4 at 1098-1127: TIME: 10.00 A.M. - 12.00 P.M.
+Actual Time found at 1104-1127: 10.00 A.M. - 12.00 P.M.
+Time Match 5 at 1397-1425: TIME: 10.00 A.M. – 2.00 P.M.
+Actual Time found at 1403-1425: 10.00 A.M. – 2.00 P.M.
+Time Match 6 at 1577-1606: TIME: 10.00 A.M. – 12.30 P.M.
+Actual Time found at 1583-1606: 10.00 A.M. – 12.30 P.M.
+Time Match 7 at 1892-1919: TIME: 9.00 A.M. - 4.00 P.M.
+Actual Time found at 1898-1919: 9.00 A.M. - 4.00 P.M.
+Time Match 8 at 2426-2454: TIME: 10.00 A.M. – 4.00 P.M.
+Actual Time found at 2432-2454: 10.00 A.M. – 4.00 P.M.
+Time Match 9 at 2597-2625: TIME: 10.00 A.M. – 4.00 P.M.
+Actual Time found at 2603-2625: 10.00 A.M. – 4.00 P.M.
+Time Match 10 at 2799-2826: TIME: 8.30 A.M. – 4.30 P.M.
+Actual Time found at 2805-2826: 8.30 A.M. – 4.30 P.M.
+Time Match 11 at 3066-3094: TIME: 8.30 A.M. – 11.30 A.M.
+Actual Time found at 3072-3094: 8.30 A.M. – 11.30 A.M.
+Time Match 12 at 3342-3369: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3348-3369: 9.00 A.M. – 5.00 P.M.
+Time Match 13 at 4049-4076: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4055-4076: 9.00 A.M. – 5.00 P.M.
+Time Match 14 at 4390-4417: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4396-4417: 9.00 A.M. – 5.00 P.M.
+Time Match 15 at 4777-4804: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4783-4804: 9.00 A.M. – 5.00 P.M.
+Time Match 16 at 5307-5334: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 5313-5334: 9.00 A.M. – 5.00 P.M.
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2003.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Time Match 1 at 139-166: TIME: 9.00 A.M. – 2.00 P.M.
+Actual Time found at 145-166: 9.00 A.M. – 2.00 P.M.
+Time Match 2 at 431-458: TIME: 8.30 A.M. – 5.00 P.M.
+Actual Time found at 437-458: 8.30 A.M. – 5.00 P.M.
+Time Match 3 at 726-754: TIME: 9.00 A.M. –  4.00 P.M.
+Actual Time found at 732-754: 9.00 A.M. –  4.00 P.M.
+Time Match 4 at 962-990: TIME: 9.00 A.M. –  5.00 P.M.
+Actual Time found at 968-990: 9.00 A.M. –  5.00 P.M.
+Time Match 5 at 1425-1452: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1431-1452: 9.00 A.M. – 5.00 P.M.
+Time Match 6 at 1864-1891: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 1870-1891: 9.00 A.M. – 5.00 P.M.
+Time Match 7 at 2478-2505: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 2484-2505: 9.00 A.M. – 5.00 P.M.
+Time Match 8 at 3314-3341: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3320-3341: 9.00 A.M. - 5.00 P.M.
+Time Match 9 at 3517-3544: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 3523-3544: 9.00 A.M. - 5.00 P.M.
+Time Match 10 at 3789-3816: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 3795-3816: 9.00 A.M. – 5.00 P.M.
+Time Match 11 at 4045-4072: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4051-4072: 9.00 A.M. – 5.00 P.M.
+Time Match 12 at 4410-4437: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4416-4437: 9.00 A.M. – 5.00 P.M.
+Time Match 13 at 4782-4809: TIME: 9.00 A.M. – 5.00 P.M.
+Actual Time found at 4788-4809: 9.00 A.M. – 5.00 P.M.
+Time Match 14 at 5076-5103: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5082-5103: 9.00 A.M. - 5.00 P.M.
+Time Match 15 at 5446-5473: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 5452-5473: 9.00 A.M. - 3.00 P.M.
+Time Match 16 at 5667-5694: TIME: 9.00 A.M. - 3.00 P.M.
+Actual Time found at 5673-5694: 9.00 A.M. - 3.00 P.M.
+Time Match 17 at 5933-5960: TIME: 9.00 A.M. - 5.00 P.M.
+Actual Time found at 5939-5960: 9.00 A.M. - 5.00 P.M.

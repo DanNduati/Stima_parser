@@ -1,0 +1,10 @@
+1. Refactor Parser
+    -> Class -> StimaParser
+    -> Methods -> different parser field matching Methods (consolidation of the matches will be done later once a stable enough parser is done)
+
+2. Log Parser output
+    -> Automate parser output logging and track this with git for every parser modification especially regex related changes
+
+2. "Automated Testing"
+    -> Hard code number of match elements for all documents;yes, this is counter intuitive and beats the idea of automation but its the only way to test such an application
+

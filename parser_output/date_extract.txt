@@ -1,0 +1,1548 @@
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.05.2021-20Part-202-20of-202.pdf
+***************************************************************************************************
+
+Date Match 1 at 463-488: DATE: Thursday 13.05.2021
+Actual Date found at 469-488: Thursday 13.05.2021
+Date Match 2 at 702-727: DATE: Thursday 13.05.2021
+Actual Date found at 708-727: Thursday 13.05.2021
+Date Match 3 at 955-978: DATE: Friday 14.05.2021
+Actual Date found at 961-978: Friday 14.05.2021
+Date Match 4 at 1568-1591: DATE: Friday 14.05.2021
+Actual Date found at 1574-1591: Friday 14.05.2021
+Date Match 5 at 1857-1883: DATE: Wednesday 12.05.2021
+Actual Date found at 1863-1883: Wednesday 12.05.2021
+Date Match 6 at 2333-2358: DATE: Thursday 13.05.2021
+Actual Date found at 2339-2358: Thursday 13.05.2021
+Date Match 7 at 2548-2572: DATE: Tuesday 18.05.2021
+Actual Date found at 2554-2572: Tuesday 18.05.2021
+Date Match 8 at 2861-2886: DATE: Thursday 13.05.2021
+Actual Date found at 2867-2886: Thursday 13.05.2021
+Date Match 9 at 3229-3254: DATE: Thursday 13.05.2021
+Actual Date found at 3235-3254: Thursday 13.05.2021
+Date Match 10 at 3702-3725: DATE: Friday 14.05.2021
+Actual Date found at 3708-3725: Friday 14.05.2021
+Date Match 11 at 4038-4063: DATE: Thursday 13.05.2021
+Actual Date found at 4044-4063: Thursday 13.05.2021
+Date Match 12 at 4287-4310: DATE: Friday 14.05.2021
+Actual Date found at 4293-4310: Friday 14.05.2021
+Date Match 13 at 4560-4585: DATE: Thursday 13.05.2021
+Actual Date found at 4566-4585: Thursday 13.05.2021
+Date Match 14 at 4982-5008: DATE: Wednesday 12.05.2021
+Actual Date found at 4988-5008: Wednesday 12.05.2021
+Date Match 15 at 5515-5540: DATE: Thursday 13.05.2021
+Actual Date found at 5521-5540: Thursday 13.05.2021
+Date Match 16 at 5882-5907: DATE: Thursday 13.05.2021
+Actual Date found at 5888-5907: Thursday 13.05.2021
+Date Match 17 at 6222-6247: DATE: Thursday 13.05.2021
+Actual Date found at 6228-6247: Thursday 13.05.2021
+Date Match 18 at 6600-6626: DATE: Wednesday 12.05.2021
+Actual Date found at 6606-6626: Wednesday 12.05.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2007.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 437-463: DATE: Wednesday 09.06.2021
+Actual Date found at 443-463: Wednesday 09.06.2021
+Date Match 2 at 819-844: DATE: Thursday 10.06.2021
+Actual Date found at 825-844: Thursday 10.06.2021
+Date Match 3 at 1048-1073: DATE: Thursday 10.06.2021
+Actual Date found at 1054-1073: Thursday 10.06.2021
+Date Match 4 at 1489-1514: DATE: Thursday 10.06.2020
+Actual Date found at 1495-1514: Thursday 10.06.2020
+Date Match 5 at 1715-1738: DATE: Friday 11.06.2021
+Actual Date found at 1721-1738: Friday 11.06.2021
+Date Match 6 at 2009-2035: DATE: Wednesday 09.06.2021
+Actual Date found at 2015-2035: Wednesday 09.06.2021
+Date Match 7 at 2179-2205: DATE: Wednesday 09.06.2021
+Actual Date found at 2185-2205: Wednesday 09.06.2021
+Date Match 8 at 2422-2447: DATE: Thursday 10.06.2021
+Actual Date found at 2428-2447: Thursday 10.06.2021
+Date Match 9 at 2591-2614: DATE: Friday 11.06.2021
+Actual Date found at 2597-2614: Friday 11.06.2021
+Date Match 10 at 2752-2777: DATE: Saturday 12.06.2021
+Actual Date found at 2758-2777: Saturday 12.06.2021
+Date Match 11 at 3086-3111: DATE: Thursday 10.06.2021
+Actual Date found at 3092-3111: Thursday 10.06.2021
+Date Match 12 at 3376-3402: DATE: Wednesday 09.06.2021
+Actual Date found at 3382-3402: Wednesday 09.06.2021
+Date Match 13 at 4034-4059: DATE: Thursday 10.06.2021
+Actual Date found at 4040-4059: Thursday 10.06.2021
+Date Match 14 at 4237-4262: DATE: Thursday 10.06.2021
+Actual Date found at 4243-4262: Thursday 10.06.2021
+Date Match 15 at 4666-4691: DATE: Thursday 10.06.2021
+Actual Date found at 4672-4691: Thursday 10.06.2021
+Date Match 16 at 4903-4926: DATE: Friday 11.06.2021
+Actual Date found at 4909-4926: Friday 11.06.2021
+Date Match 17 at 5434-5457: DATE: Friday 11.06.2021
+Actual Date found at 5440-5457: Friday 11.06.2021
+Date Match 18 at 5693-5719: DATE: Wednesday 09.06.2021
+Actual Date found at 5699-5719: Wednesday 09.06.2021
+Date Match 19 at 5978-6004: DATE: Wednesday 09.06.2021
+Actual Date found at 5984-6004: Wednesday 09.06.2021
+Date Match 20 at 6332-6358: DATE: Wednesday 09.06.2021
+Actual Date found at 6338-6358: Wednesday 09.06.2021
+Date Match 21 at 6584-6610: DATE: Wednesday 09.06.2021
+Actual Date found at 6590-6610: Wednesday 09.06.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2031.05.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 435-461: DATE: Wednesday 02.06.2021
+Actual Date found at 441-461: Wednesday 02.06.2021
+Date Match 2 at 705-730: DATE: Thursday 03.06.2021
+Actual Date found at 711-730: Thursday 03.06.2021
+Date Match 3 at 922-945: DATE: Friday 04.06.2021
+Actual Date found at 928-945: Friday 04.06.2021
+Date Match 4 at 1163-1188: DATE: Saturday 05.06.2021
+Actual Date found at 1169-1188: Saturday 05.06.2021
+Date Match 5 at 1471-1497: DATE: Wednesday 02.06.2021
+Actual Date found at 1477-1497: Wednesday 02.06.2021
+Date Match 6 at 1681-1706: DATE: Thursday 03.06.2021
+Actual Date found at 1687-1706: Thursday 03.06.2021
+Date Match 7 at 1862-1885: DATE: Friday 04.06.2021
+Actual Date found at 1868-1885: Friday 04.06.2021
+Date Match 8 at 2085-2110: DATE: Thursday 03.06.2021
+Actual Date found at 2091-2110: Thursday 03.06.2021
+Date Match 9 at 2510-2536: DATE: Wednesday 02.06.2021
+Actual Date found at 2516-2536: Wednesday 02.06.2021
+Date Match 10 at 2803-2826: DATE: Friday 04.06.2021
+Actual Date found at 2809-2826: Friday 04.06.2021
+Date Match 11 at 3065-3090: DATE: Thursday 03.06.2021
+Actual Date found at 3071-3090: Thursday 03.06.2021
+Date Match 12 at 3418-3443: DATE: Thursday 03.06.2021
+Actual Date found at 3424-3443: Thursday 03.06.2021
+Date Match 13 at 3958-3984: DATE: Wednesday 02.06.2021
+Actual Date found at 3964-3984: Wednesday 02.06.2021
+Date Match 14 at 4236-4261: DATE: Thursday 03.06.2021
+Actual Date found at 4242-4261: Thursday 03.06.2021
+Date Match 15 at 4561-4586: DATE: Thursday 03.06.2021
+Actual Date found at 4567-4586: Thursday 03.06.2021
+Date Match 16 at 4936-4961: DATE: Thursday 03.06.2021
+Actual Date found at 4942-4961: Thursday 03.06.2021
+Date Match 17 at 5226-5251: DATE: Thursday 03.06.2021
+Actual Date found at 5232-5251: Thursday 03.06.2021
+Date Match 18 at 5448-5471: DATE: Friday 04.06.2021
+Actual Date found at 5454-5471: Friday 04.06.2021
+Date Match 19 at 5628-5654: DATE: Wednesday 02.06.2021
+Actual Date found at 5634-5654: Wednesday 02.06.2021
+Date Match 20 at 5955-5980: DATE: Thursday 03.06.2021
+Actual Date found at 5961-5980: Thursday 03.06.2021
+Date Match 21 at 6288-6313: DATE: Thursday 03.06.2021
+Actual Date found at 6294-6313: Thursday 03.06.2021
+Date Match 22 at 6529-6554: DATE: Thursday 03.06.2021
+Actual Date found at 6535-6554: Thursday 03.06.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2005.07.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 432-457: DATE: Thursday 08.07.2021
+Actual Date found at 438-457: Thursday 08.07.2021
+Date Match 2 at 800-825: DATE: Thursday 08.07.2021
+Actual Date found at 806-825: Thursday 08.07.2021
+Date Match 3 at 1084-1107: DATE: Friday 09.07.2021
+Actual Date found at 1090-1107: Friday 09.07.2021
+Date Match 4 at 1493-1516: DATE: Friday 09.07.2021
+Actual Date found at 1499-1516: Friday 09.07.2021
+Date Match 5 at 1896-1921: DATE: Thursday 08.07.2021
+Actual Date found at 1902-1921: Thursday 08.07.2021
+Date Match 6 at 2115-2140: DATE: Thursday 08.07.2021
+Actual Date found at 2121-2140: Thursday 08.07.2021
+Date Match 7 at 2332-2357: DATE: Thursday 08.07.2021
+Actual Date found at 2338-2357: Thursday 08.07.2021
+Date Match 8 at 2569-2592: DATE: Friday 09.07.2021
+Actual Date found at 2575-2592: Friday 09.07.2021
+Date Match 9 at 2958-2984: DATE: Wednesday 07.07.2021
+Actual Date found at 2964-2984: Wednesday 07.07.2021
+Date Match 10 at 3287-3313: DATE: Wednesday 07.07.2021
+Actual Date found at 3293-3313: Wednesday 07.07.2021
+Date Match 11 at 3586-3611: DATE: Thursday 08.07.2021
+Actual Date found at 3592-3611: Thursday 08.07.2021
+Date Match 12 at 3897-3923: DATE: Wednesday 07.07.2021
+Actual Date found at 3903-3923: Wednesday 07.07.2021
+Date Match 13 at 4104-4130: DATE: Wednesday 07.07.2021
+Actual Date found at 4110-4130: Wednesday 07.07.2021
+Date Match 14 at 4346-4372: DATE: Wednesday 07.07.2021
+Actual Date found at 4352-4372: Wednesday 07.07.2021
+Date Match 15 at 4848-4873: DATE: Thursday 08.07.2021
+Actual Date found at 4854-4873: Thursday 08.07.2021
+Date Match 16 at 5048-5074: DATE: Wednesday 07.07.2021
+Actual Date found at 5054-5074: Wednesday 07.07.2021
+Date Match 17 at 5579-5604: DATE: Thursday 08.07.2021
+Actual Date found at 5585-5604: Thursday 08.07.2021
+Date Match 18 at 5984-6009: DATE: Thursday 08.07.2021
+Actual Date found at 5990-6009: Thursday 08.07.2021
+Date Match 19 at 6292-6317: DATE: Thursday 08.07.2021
+Actual Date found at 6298-6317: Thursday 08.07.2021
+Date Match 20 at 6861-6886: DATE: Thursday 08.07.2021
+Actual Date found at 6867-6886: Thursday 08.07.2021
+*************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-13.09.2021.pdf
+*************************************************************************
+
+Date Match 1 at 433-459: DATE: Wednesday 15.09.2021
+Actual Date found at 439-459: Wednesday 15.09.2021
+Date Match 2 at 654-680: DATE: Wednesday 15.09.2021
+Actual Date found at 660-680: Wednesday 15.09.2021
+Date Match 3 at 1080-1106: DATE: Wednesday 15.09.2021
+Actual Date found at 1086-1106: Wednesday 15.09.2021
+Date Match 4 at 1425-1451: DATE: Wednesday 15.09.2021
+Actual Date found at 1431-1451: Wednesday 15.09.2021
+Date Match 5 at 1703-1728: DATE: Thursday 16.09.2021
+Actual Date found at 1709-1728: Thursday 16.09.2021
+Date Match 6 at 2073-2098: DATE: Thursday 16.09.2021
+Actual Date found at 2079-2098: Thursday 16.09.2021
+Date Match 7 at 2379-2405: DATE: Wednesday 15.09.2021
+Actual Date found at 2385-2405: Wednesday 15.09.2021
+Date Match 8 at 2654-2680: DATE: Wednesday 15.09.2021
+Actual Date found at 2660-2680: Wednesday 15.09.2021
+Date Match 9 at 2927-2950: DATE: Friday 17.09.2021
+Actual Date found at 2933-2950: Friday 17.09.2021
+Date Match 10 at 3208-3234: DATE: Wednesday 15.09.2021
+Actual Date found at 3214-3234: Wednesday 15.09.2021
+Date Match 11 at 3381-3407: DATE: Wednesday 15.09.2021
+Actual Date found at 3387-3407: Wednesday 15.09.2021
+Date Match 12 at 3593-3618: DATE: Thursday 16.09.2021
+Actual Date found at 3599-3618: Thursday 16.09.2021
+Date Match 13 at 3885-3910: DATE: Saturday 18.09.2021
+Actual Date found at 3891-3910: Saturday 18.09.2021
+Date Match 14 at 4281-4307: DATE: Wednesday 15.09.2021
+Actual Date found at 4287-4307: Wednesday 15.09.2021
+Date Match 15 at 4525-4551: DATE: Wednesday 15.09.2021
+Actual Date found at 4531-4551: Wednesday 15.09.2021
+Date Match 16 at 4831-4856: DATE: Thursday 16.09.2021
+Actual Date found at 4837-4856: Thursday 16.09.2021
+Date Match 17 at 5085-5111: DATE: Wednesday 15.09.2021
+Actual Date found at 5091-5111: Wednesday 15.09.2021
+Date Match 18 at 5808-5833: DATE: Thursday 16.09.2021
+Actual Date found at 5814-5833: Thursday 16.09.2021
+Date Match 19 at 6089-6114: DATE: Thursday 16.09.2021
+Actual Date found at 6095-6114: Thursday 16.09.2021
+Date Match 20 at 6884-6910: DATE: Wednesday 15.09.2021
+Actual Date found at 6890-6910: Wednesday 15.09.2021
+Date Match 21 at 7698-7723: DATE: Thursday 16.09.2021
+Actual Date found at 7704-7723: Thursday 16.09.2021
+Date Match 22 at 7970-7995: DATE: Thursday 16.09.2021
+Actual Date found at 7976-7995: Thursday 16.09.2021
+Date Match 23 at 8292-8317: DATE: Thursday 16.09.2021
+Actual Date found at 8298-8317: Thursday 16.09.2021
+Date Match 24 at 8522-8545: DATE: Friday 17.09.2021
+Actual Date found at 8528-8545: Friday 17.09.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2013.05.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 442-465: DATE: Sunday 16.05.2021
+Actual Date found at 448-465: Sunday 16.05.2021
+Date Match 2 at 809-833: DATE: Tuesday 18.05.2021
+Actual Date found at 815-833: Tuesday 18.05.2021
+Date Match 3 at 1069-1093: DATE: Tuesday 18.05.2021
+Actual Date found at 1075-1093: Tuesday 18.05.2021
+Date Match 4 at 1280-1304: DATE: Tuesday 18.05.2021
+Actual Date found at 1286-1304: Tuesday 18.05.2021
+Date Match 5 at 1453-1477: DATE: Tuesday 18.05.2021
+Actual Date found at 1459-1477: Tuesday 18.05.2021
+Date Match 6 at 1964-1990: DATE: Wednesday 19.05.2021
+Actual Date found at 1970-1990: Wednesday 19.05.2021
+Date Match 7 at 2406-2432: DATE: Wednesday 19.05.2021
+Actual Date found at 2412-2432: Wednesday 19.05.2021
+Date Match 8 at 2879-2905: DATE: Wednesday 19.05.2021
+Actual Date found at 2885-2905: Wednesday 19.05.2021
+Date Match 9 at 3191-3214: DATE: Sunday 16.05.2021
+Actual Date found at 3197-3214: Sunday 16.05.2021
+Date Match 10 at 3363-3389: DATE: Wednesday 19.05.2021
+Actual Date found at 3369-3389: Wednesday 19.05.2021
+Date Match 11 at 3643-3666: DATE: Monday 17.05.2021
+Actual Date found at 3649-3666: Monday 17.05.2021
+Date Match 12 at 4120-4146: DATE: Wednesday 19.05.2021
+Actual Date found at 4126-4146: Wednesday 19.05.2021
+Date Match 13 at 4358-4384: DATE: Wednesday 19.05.2021
+Actual Date found at 4364-4384: Wednesday 19.05.2021
+Date Match 14 at 4671-4694: DATE: Sunday 16.05.2021
+Actual Date found at 4677-4694: Sunday 16.05.2021
+Date Match 15 at 4803-4826: DATE: Monday 17.05.2021
+Actual Date found at 4809-4826: Monday 17.05.2021
+Date Match 16 at 5223-5247: DATE: Tuesday 18.05.2021
+Actual Date found at 5229-5247: Tuesday 18.05.2021
+Date Match 17 at 5553-5579: DATE: Wednesday 19.05.2021
+Actual Date found at 5559-5579: Wednesday 19.05.2021
+Date Match 18 at 5852-5878: DATE: Wednesday 19.05.2021
+Actual Date found at 5858-5878: Wednesday 19.05.2021
+Date Match 19 at 6182-6205: DATE: Friday 14.05.2021
+Actual Date found at 6188-6205: Friday 14.05.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2028.05.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 77-100: DATE: Sunday 30.05.2021
+Actual Date found at 83-100: Sunday 30.05.2021
+Date Match 2 at 369-392: DATE: Monday 31.05.2021
+Actual Date found at 375-392: Monday 31.05.2021
+Date Match 3 at 632-655: DATE: Monday 31.05.2021
+Actual Date found at 638-655: Monday 31.05.2021
+Date Match 4 at 1231-1254: DATE: Sunday 30.05.2021
+Actual Date found at 1237-1254: Sunday 30.05.2021
+Date Match 5 at 1481-1504: DATE: Sunday 30.05.2021
+Actual Date found at 1487-1504: Sunday 30.05.2021
+Date Match 6 at 1645-1668: DATE: Sunday 30.05.2021
+Actual Date found at 1651-1668: Sunday 30.05.2021
+Date Match 7 at 1985-2008: DATE: Monday 31.05.2021
+Actual Date found at 1991-2008: Monday 31.05.2021
+Date Match 8 at 2317-2340: DATE: Monday 31.05.2021
+Actual Date found at 2323-2340: Monday 31.05.2021
+Date Match 9 at 2791-2814: DATE: Monday 31.05.2021
+Actual Date found at 2797-2814: Monday 31.05.2021
+Date Match 10 at 3027-3051: DATE: Tuesday 01.06.2021
+Actual Date found at 3033-3051: Tuesday 01.06.2021
+Date Match 11 at 3294-3318: DATE: Tuesday 01.06.2021
+Actual Date found at 3300-3318: Tuesday 01.06.2021
+Date Match 12 at 3561-3584: DATE: Monday 31.05.2021
+Actual Date found at 3567-3584: Monday 31.05.2021
+Date Match 13 at 3798-3821: DATE: Sunday 30.05.2021
+Actual Date found at 3804-3821: Sunday 30.05.2021
+******************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruption-20Notice-20--20Kisumu-20--2024.05.2021-20(1).pdf
+******************************************************************************************************************
+
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2014.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 629-654: DATE: Thursday 17.06.2021
+Actual Date found at 635-654: Thursday 17.06.2021
+Date Match 2 at 918-943: DATE: Thursday 17.06.2021
+Actual Date found at 924-943: Thursday 17.06.2021
+Date Match 3 at 1474-1497: DATE: Friday 18.06.2021
+Actual Date found at 1480-1497: Friday 18.06.2021
+Date Match 4 at 1713-1736: DATE: Friday 18.06.2021
+Actual Date found at 1719-1736: Friday 18.06.2021
+Date Match 5 at 2451-2474: DATE: Friday 18.06.2021
+Actual Date found at 2457-2474: Friday 18.06.2021
+Date Match 6 at 2907-2930: DATE: Friday 18.06.2021
+Actual Date found at 2913-2930: Friday 18.06.2021
+Date Match 7 at 3154-3180: DATE: Wednesday 16.06.2021
+Actual Date found at 3160-3180: Wednesday 16.06.2021
+Date Match 8 at 3437-3462: DATE: Thursday 17.06.2021
+Actual Date found at 3443-3462: Thursday 17.06.2021
+Date Match 9 at 3636-3661: DATE: Thursday 17.06.2021
+Actual Date found at 3642-3661: Thursday 17.06.2021
+Date Match 10 at 3837-3860: DATE: Friday 18.06.2021
+Actual Date found at 3843-3860: Friday 18.06.2021
+Date Match 11 at 4095-4121: DATE: Wednesday 16.06.2021
+Actual Date found at 4101-4121: Wednesday 16.06.2021
+Date Match 12 at 4240-4265: DATE: Thursday 17.06.2021
+Actual Date found at 4246-4265: Thursday 17.06.2021
+Date Match 13 at 4437-4462: DATE: Thursday 17.06.2021
+Actual Date found at 4443-4462: Thursday 17.06.2021
+Date Match 14 at 4744-4770: DATE: Wednesday 16.06.2021
+Actual Date found at 4750-4770: Wednesday 16.06.2021
+Date Match 15 at 5065-5090: DATE: Saturday 19.06.2021
+Actual Date found at 5071-5090: Saturday 19.06.2021
+Date Match 16 at 5277-5302: DATE: Thursday 17.06.2021
+Actual Date found at 5283-5302: Thursday 17.06.2021
+Date Match 17 at 5601-5627: DATE: Wednesday 16.06.2021
+Actual Date found at 5607-5627: Wednesday 16.06.2021
+Date Match 18 at 5793-5819: DATE: Wednesday 16.06.2021
+Actual Date found at 5799-5819: Wednesday 16.06.2021
+Date Match 19 at 5989-6014: DATE: Thursday 17.06.2021
+Actual Date found at 5995-6014: Thursday 17.06.2021
+Date Match 20 at 7124-7149: DATE: Thursday 17.06.2021
+Actual Date found at 7130-7149: Thursday 17.06.2021
+Date Match 21 at 7306-7331: DATE: Thursday 17.06.2021
+Actual Date found at 7312-7331: Thursday 17.06.2021
+Date Match 22 at 7533-7556: DATE: Friday 18.06.2021
+Actual Date found at 7539-7556: Friday 18.06.2021
+Date Match 23 at 7835-7860: DATE: Thursday 17.06.2021
+Actual Date found at 7841-7860: Thursday 17.06.2021
+Date Match 24 at 8205-8230: DATE: Thursday 17.06.2021
+Actual Date found at 8211-8230: Thursday 17.06.2021
+Date Match 25 at 8466-8491: DATE: Thursday 17.06.2021
+Actual Date found at 8472-8491: Thursday 17.06.2021
+Date Match 26 at 8774-8800: DATE: Wednesday 16.06.2021
+Actual Date found at 8780-8800: Wednesday 16.06.2021
+Date Match 27 at 9227-9253: DATE: Wednesday 16.06.2021
+Actual Date found at 9233-9253: Wednesday 16.06.2021
+Date Match 28 at 9540-9565: DATE: Saturday 19.06.2021
+Actual Date found at 9546-9565: Saturday 19.06.2021
+Date Match 29 at 9795-9820: DATE: Saturday 19.06.2021
+Actual Date found at 9801-9820: Saturday 19.06.2021
+Date Match 30 at 10032-10057: DATE: Saturday 19.06.2021
+Actual Date found at 10038-10057: Saturday 19.06.2021
+Date Match 31 at 10352-10378: DATE: Wednesday 16.06.2021
+Actual Date found at 10358-10378: Wednesday 16.06.2021
+Date Match 32 at 10555-10580: DATE: Thursday 17.06.2021
+Actual Date found at 10561-10580: Thursday 17.06.2021
+Date Match 33 at 10824-10847: DATE: Friday 18.06.2021
+Actual Date found at 10830-10847: Friday 18.06.2021
+Date Match 34 at 11103-11129: DATE: Wednesday 17.06.2021
+Actual Date found at 11109-11129: Wednesday 17.06.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2012.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 425-448: DATE: Sunday 15.08.2021
+Actual Date found at 431-448: Sunday 15.08.2021
+Date Match 2 at 636-659: DATE: Monday 16.08.2021
+Actual Date found at 642-659: Monday 16.08.2021
+Date Match 3 at 891-914: DATE: Monday 16.08.2021
+Actual Date found at 897-914: Monday 16.08.2021
+Date Match 4 at 1126-1149: DATE: Monday 16.08.2021
+Actual Date found at 1132-1149: Monday 16.08.2021
+Date Match 5 at 1438-1462: DATE: Tuesday 17.08.2021
+Actual Date found at 1444-1462: Tuesday 17.08.2021
+Date Match 6 at 1754-1778: DATE: Tuesday 17.08.2021
+Actual Date found at 1760-1778: Tuesday 17.08.2021
+Date Match 7 at 1966-1990: DATE: Tuesday 17.08.2021
+Actual Date found at 1972-1990: Tuesday 17.08.2021
+Date Match 8 at 2215-2239: DATE: Tuesday 17.08.2021
+Actual Date found at 2221-2239: Tuesday 17.08.2021
+Date Match 9 at 2413-2438: DATE: Saturday 14.08.2021
+Actual Date found at 2419-2438: Saturday 14.08.2021
+Date Match 10 at 2849-2872: DATE: Sunday 15.08.2021
+Actual Date found at 2855-2872: Sunday 15.08.2021
+Date Match 11 at 3106-3129: DATE: Monday 16.08.2021
+Actual Date found at 3112-3129: Monday 16.08.2021
+Date Match 12 at 3425-3449: DATE: Tuesday 17.08.2021
+Actual Date found at 3431-3449: Tuesday 17.08.2021
+Date Match 13 at 3714-3737: DATE: Sunday 15.08.2021
+Actual Date found at 3720-3737: Sunday 15.08.2021
+Date Match 14 at 3990-4014: DATE: Tuesday 17.08.2021
+Actual Date found at 3996-4014: Tuesday 17.08.2021
+Date Match 15 at 4279-4304: DATE: Saturday 14.08.2021
+Actual Date found at 4285-4304: Saturday 14.08.2021
+Date Match 16 at 4551-4575: DATE: Tuesday 17.08.2021
+Actual Date found at 4557-4575: Tuesday 17.08.2021
+Date Match 17 at 4754-4778: DATE: Tuesday 17.08.2021
+Actual Date found at 4760-4778: Tuesday 17.08.2021
+Date Match 18 at 4928-4954: DATE: Wednesday 17.08.2021
+Actual Date found at 4934-4954: Wednesday 17.08.2021
+Date Match 19 at 5120-5144: DATE: Tuesday 17.08.2021
+Actual Date found at 5126-5144: Tuesday 17.08.2021
+Date Match 20 at 5393-5417: DATE: Tuesday 17.08.2021
+Actual Date found at 5399-5417: Tuesday 17.08.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 464-487: DATE: Monday 09.08.2021
+Actual Date found at 470-487: Monday 09.08.2021
+Date Match 2 at 868-893: DATE: Saturday 07.08.2021
+Actual Date found at 874-893: Saturday 07.08.2021
+Date Match 3 at 1074-1097: DATE: Sunday 08.08.2021
+Actual Date found at 1080-1097: Sunday 08.08.2021
+Date Match 4 at 1316-1339: DATE: Sunday 08.08.2021
+Actual Date found at 1322-1339: Sunday 08.08.2021
+Date Match 5 at 1618-1641: DATE: Sunday 08.08.2021
+Actual Date found at 1624-1641: Sunday 08.08.2021
+Date Match 6 at 2148-2172: DATE: Tuesday 10.08.2021
+Actual Date found at 2154-2172: Tuesday 10.08.2021
+Date Match 7 at 3142-3165: DATE: Sunday 08.08.2021
+Actual Date found at 3148-3165: Sunday 08.08.2021
+Date Match 8 at 3339-3362: DATE: Sunday 08.08.2021
+Actual Date found at 3345-3362: Sunday 08.08.2021
+Date Match 9 at 3525-3548: DATE: Sunday 08.08.2021
+Actual Date found at 3531-3548: Sunday 08.08.2021
+Date Match 10 at 3764-3788: DATE: Tuesday 10.08.2021
+Actual Date found at 3770-3788: Tuesday 10.08.2021
+Date Match 11 at 3989-4013: DATE: Tuesday 10.08.2021
+Actual Date found at 3995-4013: Tuesday 10.08.2021
+Date Match 12 at 4227-4251: DATE: Tuesday 10.08.2021
+Actual Date found at 4233-4251: Tuesday 10.08.2021
+Date Match 13 at 4457-4483: DATE: Wednesday 11.08.2021
+Actual Date found at 4463-4483: Wednesday 11.08.2021
+Date Match 14 at 4765-4789: DATE: Tuesday 10.08.2021
+Actual Date found at 4771-4789: Tuesday 10.08.2021
+Date Match 15 at 5049-5074: DATE: Saturday 07.08.2021
+Actual Date found at 5055-5074: Saturday 07.08.2021
+Date Match 16 at 5084-5107: DATE: Sunday 08.08.2021
+Actual Date found at 5090-5107: Sunday 08.08.2021
+Date Match 17 at 5296-5321: DATE: Saturday 07.08.2021
+Actual Date found at 5302-5321: Saturday 07.08.2021
+Date Match 18 at 5382-5405: DATE: Sunday 08.08.2021
+Actual Date found at 5388-5405: Sunday 08.08.2021
+Date Match 19 at 5637-5660: DATE: Sunday 08.08.2021
+Actual Date found at 5643-5660: Sunday 08.08.2021
+Date Match 20 at 5819-5843: DATE: Tuesday 10.08.2021
+Actual Date found at 5825-5843: Tuesday 10.08.2021
+Date Match 21 at 6144-6167: DATE: Monday 09.08.2021
+Actual Date found at 6150-6167: Monday 09.08.2021
+Date Match 22 at 6458-6481: DATE: Monday 09.08.2021
+Actual Date found at 6464-6481: Monday 09.08.2021
+Date Match 23 at 6933-6956: DATE: Monday 09.08.2021
+Actual Date found at 6939-6956: Monday 09.08.2021
+Date Match 24 at 7365-7388: DATE: Sunday 08.08.2021
+Actual Date found at 7371-7388: Sunday 08.08.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2012.07.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 436-462: DATE: Wednesday 14.07.2021
+Actual Date found at 442-462: Wednesday 14.07.2021
+Date Match 2 at 607-633: DATE: Wednesday 14.07.2021
+Actual Date found at 613-633: Wednesday 14.07.2021
+Date Match 3 at 921-947: DATE: Wednesday 14.07.2021
+Actual Date found at 927-947: Wednesday 14.07.2021
+Date Match 4 at 1149-1174: DATE: Thursday 15.07.2021
+Actual Date found at 1155-1174: Thursday 15.07.2021
+Date Match 5 at 1685-1710: DATE: Thursday 15.07.2021
+Actual Date found at 1691-1710: Thursday 15.07.2021
+Date Match 6 at 1885-1910: DATE: Thursday 15.07.2021
+Actual Date found at 1891-1910: Thursday 15.07.2021
+Date Match 7 at 2053-2078: DATE: Thursday 15.07.2021
+Actual Date found at 2059-2078: Thursday 15.07.2021
+Date Match 8 at 2352-2377: DATE: Thursday 15.07.2021
+Actual Date found at 2358-2377: Thursday 15.07.2021
+Date Match 9 at 2942-2965: DATE: Friday 16.07.2021
+Actual Date found at 2948-2965: Friday 16.07.2021
+Date Match 10 at 3289-3312: DATE: Friday 16.07.2021
+Actual Date found at 3295-3312: Friday 16.07.2021
+Date Match 11 at 3540-3563: DATE: Sunday 18.07.2021
+Actual Date found at 3546-3563: Sunday 18.07.2021
+Date Match 12 at 3775-3798: DATE: Sunday 18.07.2021
+Actual Date found at 3781-3798: Sunday 18.07.2021
+Date Match 13 at 4125-4151: DATE: Wednesday 14.07.2021
+Actual Date found at 4131-4151: Wednesday 14.07.2021
+Date Match 14 at 4367-4392: DATE: Thursday 15.07.2021
+Actual Date found at 4373-4392: Thursday 15.07.2021
+Date Match 15 at 4607-4632: DATE: Thursday 15.07.2021
+Actual Date found at 4613-4632: Thursday 15.07.2021
+Date Match 16 at 5160-5186: DATE: Wednesday 14.07.2021
+Actual Date found at 5166-5186: Wednesday 14.07.2021
+Date Match 17 at 5401-5427: DATE: Wednesday 14.07.2021
+Actual Date found at 5407-5427: Wednesday 14.07.2021
+Date Match 18 at 5597-5622: DATE: Thursday 15.07.2021
+Actual Date found at 5603-5622: Thursday 15.07.2021
+Date Match 19 at 5825-5848: DATE: Friday 16.07.2021
+Actual Date found at 5831-5848: Friday 16.07.2021
+Date Match 20 at 6197-6223: DATE: Wednesday 14.07.2021
+Actual Date found at 6203-6223: Wednesday 14.07.2021
+Date Match 21 at 6879-6902: DATE: Friday 16.07.2021
+Actual Date found at 6885-6902: Friday 16.07.2021
+Date Match 22 at 7648-7673: DATE: Thursday 15.07.2021
+Actual Date found at 7654-7673: Thursday 15.07.2021
+Date Match 23 at 7860-7886: DATE: Wednesday 14.07.2021
+Actual Date found at 7866-7886: Wednesday 14.07.2021
+Date Match 24 at 8456-8481: DATE: Thursday 15.07.2021
+Actual Date found at 8462-8481: Thursday 15.07.2021
+Date Match 25 at 8761-8786: DATE: Thursday 15.07.2021
+Actual Date found at 8767-8786: Thursday 15.07.2021
+Date Match 26 at 8931-8956: DATE: Thursday 15.07.2021
+Actual Date found at 8937-8956: Thursday 15.07.2021
+Date Match 27 at 9108-9131: DATE: Friday 16.07.2021
+Actual Date found at 9114-9131: Friday 16.07.2021
+Date Match 28 at 9439-9465: DATE: Wednesday 14.07.2021
+Actual Date found at 9445-9465: Wednesday 14.07.2021
+Date Match 29 at 9729-9755: DATE: Wednesday 14.07.2021
+Actual Date found at 9735-9755: Wednesday 14.07.2021
+Date Match 30 at 10031-10056: DATE: Thursday 15.07.2021
+Actual Date found at 10037-10056: Thursday 15.07.2021
+Date Match 31 at 10364-10390: DATE: Wednesday 14.07.2021
+Actual Date found at 10370-10390: Wednesday 14.07.2021
+Date Match 32 at 10658-10683: DATE: Thursday 15.07.2021
+Actual Date found at 10664-10683: Thursday 15.07.2021
+***************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions - 25.10.2021 Part 2 of 2.pdf
+***************************************************************************************
+
+Date Match 1 at 431-457: DATE: Wednesday 27.10.2021
+Actual Date found at 437-457: Wednesday 27.10.2021
+Date Match 2 at 707-733: DATE: Wednesday 27.10.2021
+Actual Date found at 713-733: Wednesday 27.10.2021
+Date Match 3 at 1187-1212: DATE: Thursday 28.10.2021
+Actual Date found at 1193-1212: Thursday 28.10.2021
+Date Match 4 at 1366-1391: DATE: Thursday 28.10.2021
+Actual Date found at 1372-1391: Thursday 28.10.2021
+Date Match 5 at 1580-1605: DATE: Thursday 28.10.2021
+Actual Date found at 1586-1605: Thursday 28.10.2021
+Date Match 6 at 2081-2107: DATE: Wednesday 27.10.2021
+Actual Date found at 2087-2107: Wednesday 27.10.2021
+Date Match 7 at 2278-2304: DATE: Wednesday 27.10.2021
+Actual Date found at 2284-2304: Wednesday 27.10.2021
+Date Match 8 at 2624-2649: DATE: Thursday 28.10.2021
+Actual Date found at 2630-2649: Thursday 28.10.2021
+Date Match 9 at 2810-2835: DATE: Thursday 28.10.2021
+Actual Date found at 2816-2835: Thursday 28.10.2021
+Date Match 10 at 3025-3048: DATE: Friday 29.10.2021
+Actual Date found at 3031-3048: Friday 29.10.2021
+Date Match 11 at 3241-3267: DATE: Wednesday 27.10.2021
+Actual Date found at 3247-3267: Wednesday 27.10.2021
+Date Match 12 at 3492-3518: DATE: Wednesday 27.10.2021
+Actual Date found at 3498-3518: Wednesday 27.10.2021
+Date Match 13 at 3726-3752: DATE: Wednesday 27.10.2021
+Actual Date found at 3732-3752: Wednesday 27.10.2021
+Date Match 14 at 4049-4075: DATE: Wednesday 27.10.2021
+Actual Date found at 4055-4075: Wednesday 27.10.2021
+Date Match 15 at 4516-4539: DATE: Friday 29.10.2021
+Actual Date found at 4522-4539: Friday 29.10.2021
+Date Match 16 at 4993-5019: DATE: Wednesday 27.10.2021
+Actual Date found at 4999-5019: Wednesday 27.10.2021
+Date Match 17 at 5289-5314: DATE: Thursday 28.10.2021
+Actual Date found at 5295-5314: Thursday 28.10.2021
+Date Match 18 at 5639-5665: DATE: Wednesday 27.10.2021
+Actual Date found at 5645-5665: Wednesday 27.10.2021
+Date Match 19 at 5842-5865: DATE: Friday 29.10.2021
+Actual Date found at 5848-5865: Friday 29.10.2021
+Date Match 20 at 6108-6133: DATE: Thursday 28.10.2021
+Actual Date found at 6114-6133: Thursday 28.10.2021
+Date Match 21 at 6613-6638: DATE: Thursday 28.10.2021
+Actual Date found at 6619-6638: Thursday 28.10.2021
+Date Match 22 at 6879-6902: DATE: Friday 29.10.2021
+Actual Date found at 6885-6902: Friday 29.10.2021
+Date Match 23 at 7100-7126: DATE: Wednesday 27.10.2021
+Actual Date found at 7106-7126: Wednesday 27.10.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2021.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 442-468: DATE: Wednesday 23.06.2021
+Actual Date found at 448-468: Wednesday 23.06.2021
+Date Match 2 at 663-689: DATE: Wednesday 23.06.2021
+Actual Date found at 669-689: Wednesday 23.06.2021
+Date Match 3 at 1081-1107: DATE: Wednesday 23.06.2021
+Actual Date found at 1087-1107: Wednesday 23.06.2021
+Date Match 4 at 1447-1472: DATE: Thursday 24.06.2021
+Actual Date found at 1453-1472: Thursday 24.06.2021
+Date Match 5 at 1659-1682: DATE: Sunday 27.06.2021
+Actual Date found at 1665-1682: Sunday 27.06.2021
+Date Match 6 at 2256-2281: DATE: Thursday 24.06.2021
+Actual Date found at 2262-2281: Thursday 24.06.2021
+Date Match 7 at 2637-2662: DATE: Thursday 24.06.2021
+Actual Date found at 2643-2662: Thursday 24.06.2021
+Date Match 8 at 2856-2882: DATE: Wednesday 23.06.2021
+Actual Date found at 2862-2882: Wednesday 23.06.2021
+Date Match 9 at 3129-3155: DATE: Wednesday 23.06.2021
+Actual Date found at 3135-3155: Wednesday 23.06.2021
+Date Match 10 at 3336-3361: DATE: Thursday 24.06.2021
+Actual Date found at 3342-3361: Thursday 24.06.2021
+Date Match 11 at 3581-3606: DATE: Thursday 24.06.2021
+Actual Date found at 3587-3606: Thursday 24.06.2021
+Date Match 12 at 3777-3802: DATE: Thursday 24.06.2021
+Actual Date found at 3783-3802: Thursday 24.06.2021
+Date Match 13 at 4367-4390: DATE: Friday 25.06.2021
+Actual Date found at 4373-4390: Friday 25.06.2021
+Date Match 14 at 4864-4889: DATE: Saturday 26.06.2021
+Actual Date found at 4870-4889: Saturday 26.06.2021
+Date Match 15 at 5180-5205: DATE: Saturday 26.06.2021
+Actual Date found at 5186-5205: Saturday 26.06.2021
+Date Match 16 at 5423-5448: DATE: Thursday 24.06.2021
+Actual Date found at 5429-5448: Thursday 24.06.2021
+Date Match 17 at 5620-5643: DATE: Friday 25.06.2021
+Actual Date found at 5626-5643: Friday 25.06.2021
+Date Match 18 at 5845-5871: DATE: Wednesday 23.06.2021
+Actual Date found at 5851-5871: Wednesday 23.06.2021
+Date Match 19 at 7015-7040: DATE: Thursday 24.06.2021
+Actual Date found at 7021-7040: Thursday 24.06.2021
+Date Match 20 at 7186-7211: DATE: Thursday 24.06.2021
+Actual Date found at 7192-7211: Thursday 24.06.2021
+Date Match 21 at 7462-7487: DATE: Thursday 24.06.2021
+Actual Date found at 7468-7487: Thursday 24.06.2021
+Date Match 22 at 7848-7874: DATE: Wednesday 23.06.2021
+Actual Date found at 7854-7874: Wednesday 23.06.2021
+Date Match 23 at 8036-8061: DATE: Thursday 24.06.2021
+Actual Date found at 8042-8061: Thursday 24.06.2021
+Date Match 24 at 8578-8603: DATE: Thursday 24.06.2021
+Actual Date found at 8584-8603: Thursday 24.06.2021
+Date Match 25 at 8996-9022: DATE: Wednesday 23.06.2021
+Actual Date found at 9002-9022: Wednesday 23.06.2021
+Date Match 26 at 9363-9388: DATE: Thursday 24.06.2021
+Actual Date found at 9369-9388: Thursday 24.06.2021
+Date Match 27 at 9806-9831: DATE: Thursday 24.06.2021
+Actual Date found at 9812-9831: Thursday 24.06.2021
+Date Match 28 at 10768-10794: DATE: Wednesday 23.06.2021
+Actual Date found at 10774-10794: Wednesday 23.06.2021
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2030.06.2022.pdf
+*******************************************************************************
+
+Date Match 1 at 423-446: DATE: Sunday 03.07.2022
+Actual Date found at 429-446: Sunday 03.07.2022
+Date Match 2 at 920-943: DATE: Sunday 03.07.2022
+Actual Date found at 926-943: Sunday 03.07.2022
+Date Match 3 at 1259-1282: DATE: Sunday 03.07.2022
+Actual Date found at 1265-1282: Sunday 03.07.2022
+Date Match 4 at 1970-1993: DATE: Sunday 03.07.2022
+Actual Date found at 1976-1993: Sunday 03.07.2022
+Date Match 5 at 2375-2398: DATE: Sunday 03.07.2022
+Actual Date found at 2381-2398: Sunday 03.07.2022
+Date Match 6 at 2684-2707: DATE: Sunday 03.07.2022
+Actual Date found at 2690-2707: Sunday 03.07.2022
+Date Match 7 at 2850-2873: DATE: Sunday 03.07.2022
+Actual Date found at 2856-2873: Sunday 03.07.2022
+Date Match 8 at 3558-3582: DATE: Tuesday 05.07.2022
+Actual Date found at 3564-3582: Tuesday 05.07.2022
+Date Match 9 at 4010-4034: DATE: Tuesday 05.07.2022
+Actual Date found at 4016-4034: Tuesday 05.07.2022
+Date Match 10 at 4636-4662: DATE: Wednesday 06.07.2022
+Actual Date found at 4642-4662: Wednesday 06.07.2022
+Date Match 11 at 5010-5035: DATE: Thursday 07.07.2022
+Actual Date found at 5016-5035: Thursday 07.07.2022
+Date Match 12 at 5284-5307: DATE: Sunday 07.07.2022
+Actual Date found at 5290-5307: Sunday 07.07.2022
+Date Match 13 at 5555-5580: DATE: Saturday 02.07.2022
+Actual Date found at 5561-5580: Saturday 02.07.2022
+Date Match 14 at 5797-5820: DATE: Sunday 03.07.2022
+Actual Date found at 5803-5820: Sunday 03.07.2022
+Date Match 15 at 6155-6181: DATE: Wednesday 06.07.2022
+Actual Date found at 6161-6181: Wednesday 06.07.2022
+Date Match 16 at 6464-6489: DATE: Thursday 06.07.2022
+Actual Date found at 6470-6489: Thursday 06.07.2022
+Date Match 17 at 6747-6770: DATE: Monday 04.07.2022
+Actual Date found at 6753-6770: Monday 04.07.2022
+Date Match 18 at 6927-6950: DATE: Monday 04.07.2022
+Actual Date found at 6933-6950: Monday 04.07.2022
+Date Match 19 at 7146-7171: DATE: Thursday 07.07.2022
+Actual Date found at 7152-7171: Thursday 07.07.2022
+Date Match 20 at 7408-7433: DATE: Thursday 07.07.2022
+Actual Date found at 7414-7433: Thursday 07.07.2022
+Date Match 21 at 8117-8143: DATE: Wednesday 06.07.2020
+Actual Date found at 8123-8143: Wednesday 06.07.2020
+Date Match 22 at 8414-8438: DATE: Tuesday 05.07.2022
+Actual Date found at 8420-8438: Tuesday 05.07.2022
+Date Match 23 at 8920-8944: DATE: Tuesday 05.07.2022
+Actual Date found at 8926-8944: Tuesday 05.07.2022
+Date Match 24 at 9122-9148: DATE: Wednesday 06.07.2022
+Actual Date found at 9128-9148: Wednesday 06.07.2022
+Date Match 25 at 9402-9427: DATE: Thursday 07.07.2022
+Actual Date found at 9408-9427: Thursday 07.07.2022
+Date Match 26 at 10093-10116: DATE: Sunday 03.07.2022
+Actual Date found at 10099-10116: Sunday 03.07.2022
+Date Match 27 at 10283-10309: DATE: Wednesday 06.07.2022
+Actual Date found at 10289-10309: Wednesday 06.07.2022
+Date Match 28 at 10586-10609: DATE: Friday 08.07.2022
+Actual Date found at 10592-10609: Friday 08.07.2022
+Date Match 29 at 10873-10896: DATE: Monday 04.07.2022
+Actual Date found at 10879-10896: Monday 04.07.2022
+Date Match 30 at 11111-11137: DATE: Wednesday 06.07.2022
+Actual Date found at 11117-11137: Wednesday 06.07.2022
+Date Match 31 at 11508-11533: DATE: Thursday 07.07.2022
+Actual Date found at 11514-11533: Thursday 07.07.2022
+Date Match 32 at 11800-11824: DATE: Tuesday 05.07.2022
+Actual Date found at 11806-11824: Tuesday 05.07.2022
+Date Match 33 at 12024-12050: DATE: Wednesday 06.07.2022
+Actual Date found at 12030-12050: Wednesday 06.07.2022
+Date Match 34 at 12553-12577: DATE: Tuesday 05.07.2022
+Actual Date found at 12559-12577: Tuesday 05.07.2022
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2019.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 435-458: DATE: Sunday 22.08.2021
+Actual Date found at 441-458: Sunday 22.08.2021
+Date Match 2 at 822-846: DATE: Tuesday 24.08.2021
+Actual Date found at 828-846: Tuesday 24.08.2021
+Date Match 3 at 1039-1063: DATE: Tuesday 24.08.2021
+Actual Date found at 1045-1063: Tuesday 24.08.2021
+Date Match 4 at 1517-1541: DATE: Tuesday 24.08.2021
+Actual Date found at 1523-1541: Tuesday 24.08.2021
+Date Match 5 at 1943-1966: DATE: Monday 23.08.2021
+Actual Date found at 1949-1966: Monday 23.08.2021
+Date Match 6 at 2153-2177: DATE: Tuesday 24.08.2021
+Actual Date found at 2159-2177: Tuesday 24.08.2021
+Date Match 7 at 2396-2419: DATE: Sunday 22.08.2021
+Actual Date found at 2402-2419: Sunday 22.08.2021
+Date Match 8 at 2604-2628: DATE: Tuesday 24.08.2021
+Actual Date found at 2610-2628: Tuesday 24.08.2021
+Date Match 9 at 2970-2994: DATE: Tuesday 24.08.2021
+Actual Date found at 2976-2994: Tuesday 24.08.2021
+Date Match 10 at 3471-3495: DATE: Tuesday 24.08.2021
+Actual Date found at 3477-3495: Tuesday 24.08.2021
+Date Match 11 at 3769-3792: DATE: Monday 23.08.2021
+Actual Date found at 3775-3792: Monday 23.08.2021
+Date Match 12 at 4205-4229: DATE: Tuesday 24.08.2021
+Actual Date found at 4211-4229: Tuesday 24.08.2021
+Date Match 13 at 4669-4692: DATE: Tuesday24.08.2021
+Actual Date found at 4675-4692: Tuesday24.08.2021
+Date Match 14 at 5043-5068: DATE: Saturday 21.08.2021
+Actual Date found at 5049-5068: Saturday 21.08.2021
+Date Match 15 at 5190-5215: DATE: Saturday 21.08.2021
+Actual Date found at 5196-5215: Saturday 21.08.2021
+Date Match 16 at 5386-5411: DATE: Saturday 21.08.2021
+Actual Date found at 5392-5411: Saturday 21.08.2021
+Date Match 17 at 5540-5563: DATE: Sunday 22.08.2021
+Actual Date found at 5546-5563: Sunday 22.08.2021
+Date Match 18 at 5767-5790: DATE: Sunday 22.08.2021
+Actual Date found at 5773-5790: Sunday 22.08.2021
+Date Match 19 at 6102-6126: DATE: Tuesday 24.08.2021
+Actual Date found at 6108-6126: Tuesday 24.08.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2017.05.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 443-468: DATE: Thursday 20.05.2021
+Actual Date found at 449-468: Thursday 20.05.2021
+Date Match 2 at 998-1023: DATE: Thursday 20.05.2021
+Actual Date found at 1004-1023: Thursday 20.05.2021
+Date Match 3 at 1206-1231: DATE: Thursday 20.05.2021
+Actual Date found at 1212-1231: Thursday 20.05.2021
+Date Match 4 at 1524-1549: DATE: Thursday 20.05.2021
+Actual Date found at 1530-1549: Thursday 20.05.2021
+Date Match 5 at 1683-1706: DATE: Friday 21.05.2021
+Actual Date found at 1689-1706: Friday 21.05.2021
+Date Match 6 at 2117-2140: DATE: Friday 21.05.2021
+Actual Date found at 2123-2140: Friday 21.05.2021
+Date Match 7 at 2339-2362: DATE: Friday 21.05.2021
+Actual Date found at 2345-2362: Friday 21.05.2021
+Date Match 8 at 2530-2555: DATE: Saturday 22.05.2021
+Actual Date found at 2536-2555: Saturday 22.05.2021
+Date Match 9 at 2776-2801: DATE: Saturday 22.05.2021
+Actual Date found at 2782-2801: Saturday 22.05.2021
+Date Match 10 at 3059-3084: DATE: Thursday 20.05.2021
+Actual Date found at 3065-3084: Thursday 20.05.2021
+Date Match 11 at 3377-3402: DATE: Thursday 20.05.2021
+Actual Date found at 3383-3402: Thursday 20.05.2021
+Date Match 12 at 3728-3753: DATE: Thursday 20.05.2021
+Actual Date found at 3734-3753: Thursday 20.05.2021
+Date Match 13 at 4014-4039: DATE: Thursday 20.05.2021
+Actual Date found at 4020-4039: Thursday 20.05.2021
+Date Match 14 at 4222-4247: DATE: Thursday 20.05.2021
+Actual Date found at 4228-4247: Thursday 20.05.2021
+Date Match 15 at 4372-4397: DATE: Thursday 20.05.2021
+Actual Date found at 4378-4397: Thursday 20.05.2021
+Date Match 16 at 4724-4749: DATE: Thursday 20.05.2021
+Actual Date found at 4730-4749: Thursday 20.05.2021
+Date Match 17 at 4941-4966: DATE: Thursday 20.05.2021
+Actual Date found at 4947-4966: Thursday 20.05.2021
+Date Match 18 at 5260-5285: DATE: Thursday 20.05.2021
+Actual Date found at 5266-5285: Thursday 20.05.2021
+Date Match 19 at 5563-5588: DATE: Thursday 20.05.2021
+Actual Date found at 5569-5588: Thursday 20.05.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2009.08.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 459-485: DATE: Wednesday 11.08.2021
+Actual Date found at 465-485: Wednesday 11.08.2021
+Date Match 2 at 852-878: DATE: Wednesday 11.08.2021
+Actual Date found at 858-878: Wednesday 11.08.2021
+Date Match 3 at 1079-1105: DATE: Wednesday 11.08.2021
+Actual Date found at 1085-1105: Wednesday 11.08.2021
+Date Match 4 at 1378-1403: DATE: Thursday 12.08.2021
+Actual Date found at 1384-1403: Thursday 12.08.2021
+Date Match 5 at 1686-1711: DATE: Thursday 12.08.2021
+Actual Date found at 1692-1711: Thursday 12.08.2021
+Date Match 6 at 1875-1900: DATE: Thursday 12.08.2021
+Actual Date found at 1881-1900: Thursday 12.08.2021
+Date Match 7 at 2130-2153: DATE: Sunday 15.08.2021
+Actual Date found at 2136-2153: Sunday 15.08.2021
+Date Match 8 at 2462-2488: DATE: Wednesday 11.08.2021
+Actual Date found at 2468-2488: Wednesday 11.08.2021
+Date Match 9 at 2689-2714: DATE: Thursday 12.08.2021
+Actual Date found at 2695-2714: Thursday 12.08.2021
+Date Match 10 at 2912-2938: DATE: Wednesday 11.08.2021
+Actual Date found at 2918-2938: Wednesday 11.08.2021
+Date Match 11 at 3245-3271: DATE: Wednesday 11.08.2021
+Actual Date found at 3251-3271: Wednesday 11.08.2021
+Date Match 12 at 3507-3532: DATE: Thursday 12.08.2021
+Actual Date found at 3513-3532: Thursday 12.08.2021
+Date Match 13 at 3765-3791: DATE: Wednesday 11.08.2021
+Actual Date found at 3771-3791: Wednesday 11.08.2021
+Date Match 14 at 4050-4076: DATE: Wednesday 11.08.2021
+Actual Date found at 4056-4076: Wednesday 11.08.2021
+Date Match 15 at 4404-4430: DATE: Wednesday 11.08.2021
+Actual Date found at 4410-4430: Wednesday 11.08.2021
+Date Match 16 at 4845-4870: DATE: Thursday 12.08.2021
+Actual Date found at 4851-4870: Thursday 12.08.2021
+*************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.05.2021-Part-201-20of-202.pdf
+*************************************************************************************************
+
+Date Match 1 at 458-482: DATE: Tuesday 11.05.2021
+Actual Date found at 464-482: Tuesday 11.05.2021
+Date Match 2 at 772-796: DATE: Tuesday 11.05.2021
+Actual Date found at 778-796: Tuesday 11.05.2021
+Date Match 3 at 1123-1146: DATE: Sunday 09.05.2021
+Actual Date found at 1129-1146: Sunday 09.05.2021
+Date Match 4 at 1468-1491: DATE: Monday 10.05.2021
+Actual Date found at 1474-1491: Monday 10.05.2021
+Date Match 5 at 1687-1710: DATE: Monday 10.05.2021
+Actual Date found at 1693-1710: Monday 10.05.2021
+Date Match 6 at 2077-2101: DATE: Tuesday 11.05.2021
+Actual Date found at 2083-2101: Tuesday 11.05.2021
+Date Match 7 at 2341-2365: DATE: Tuesday 11.05.2021
+Actual Date found at 2347-2365: Tuesday 11.05.2021
+Date Match 8 at 2645-2668: DATE: Monday 10.05.2021
+Actual Date found at 2651-2668: Monday 10.05.2021
+Date Match 9 at 2989-3013: DATE: Tuesday 11.05.2021
+Actual Date found at 2995-3013: Tuesday 11.05.2021
+Date Match 10 at 3558-3583: DATE: Saturday 08.05.2021
+Actual Date found at 3564-3583: Saturday 08.05.2021
+Date Match 11 at 3805-3828: DATE: Sunday 09.05.2021
+Actual Date found at 3811-3828: Sunday 09.05.2021
+Date Match 12 at 4150-4175: DATE: Saturday 08.05.2021
+Actual Date found at 4156-4175: Saturday 08.05.2021
+Date Match 13 at 4489-4512: DATE: Monday 10.05.2021
+Actual Date found at 4495-4512: Monday 10.05.2021
+Date Match 14 at 4723-4747: DATE: Tuesday 11.05.2021
+Actual Date found at 4729-4747: Tuesday 11.05.2021
+Date Match 15 at 4992-5016: DATE: Tuesday 11.05.2021
+Actual Date found at 4998-5016: Tuesday 11.05.2021
+Date Match 16 at 5303-5328: DATE: Saturday 08.05.2021
+Actual Date found at 5309-5328: Saturday 08.05.2021
+Date Match 17 at 5750-5774: DATE: Tuesday 11.05.2021
+Actual Date found at 5756-5774: Tuesday 11.05.2021
+Date Match 18 at 6085-6109: DATE: Tuesday 11.05.2021
+Actual Date found at 6091-6109: Tuesday 11.05.2021
+Date Match 19 at 6342-6366: DATE: Tuesday 11.05.2021
+Actual Date found at 6348-6366: Tuesday 11.05.2021
+Date Match 20 at 7511-7534: DATE: Monday 10.05.2021
+Actual Date found at 7517-7534: Monday 10.05.2021
+Date Match 21 at 7767-7791: DATE: Tuesday 11.05.2021
+Actual Date found at 7773-7791: Tuesday 11.05.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2008.07.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 457-480: DATE: Sunday 11.07.2021
+Actual Date found at 463-480: Sunday 11.07.2021
+Date Match 2 at 673-696: DATE: Monday 12.07.2021
+Actual Date found at 679-696: Monday 12.07.2021
+Date Match 3 at 905-928: DATE: Monday 12.07.2021
+Actual Date found at 911-928: Monday 12.07.2021
+Date Match 4 at 1188-1211: DATE: Monday 12.07.2021
+Actual Date found at 1194-1211: Monday 12.07.2021
+Date Match 5 at 1561-1585: DATE: Tuesday 13.07.2021
+Actual Date found at 1567-1585: Tuesday 13.07.2021
+Date Match 6 at 1963-1987: DATE: Tuesday 13.07.2021
+Actual Date found at 1969-1987: Tuesday 13.07.2021
+Date Match 7 at 2183-2207: DATE: Tuesday 13.07.2021
+Actual Date found at 2189-2207: Tuesday 13.07.2021
+Date Match 8 at 2487-2511: DATE: Tuesday 13.07.2021
+Actual Date found at 2493-2511: Tuesday 13.07.2021
+Date Match 9 at 2854-2878: DATE: Tuesday 13.07.2021
+Actual Date found at 2860-2878: Tuesday 13.07.2021
+Date Match 10 at 3325-3350: DATE: Saturday 10.07.2021
+Actual Date found at 3331-3350: Saturday 10.07.2021
+Date Match 11 at 3538-3563: DATE: Saturday 10.07.2021
+Actual Date found at 3544-3563: Saturday 10.07.2021
+Date Match 12 at 3748-3771: DATE: Sunday 11.07.2021
+Actual Date found at 3754-3771: Sunday 11.07.2021
+Date Match 13 at 4072-4095: DATE: Sunday 11.07.2021
+Actual Date found at 4078-4095: Sunday 11.07.2021
+Date Match 14 at 4402-4426: DATE: Tuesday 13.07.2021
+Actual Date found at 4408-4426: Tuesday 13.07.2021
+Date Match 15 at 4790-4814: DATE: Tuesday 13.07.2021
+Actual Date found at 4796-4814: Tuesday 13.07.2021
+Date Match 16 at 5062-5086: DATE: Tuesday 13.07.2021
+Actual Date found at 5068-5086: Tuesday 13.07.2021
+Date Match 17 at 5351-5374: DATE: Monday 12.07.2021
+Actual Date found at 5357-5374: Monday 12.07.2021
+Date Match 18 at 5845-5869: DATE: Tuesday 13.07.2021
+Actual Date found at 5851-5869: Tuesday 13.07.2021
+Date Match 19 at 6087-6110: DATE: Sunday 11.07.2021
+Actual Date found at 6093-6110: Sunday 11.07.2021
+Date Match 20 at 6341-6365: DATE: Tuesday 13.07.2021
+Actual Date found at 6347-6365: Tuesday 13.07.2021
+Date Match 21 at 6528-6551: DATE: Sunday 11.07.2021
+Actual Date found at 6534-6551: Sunday 11.07.2021
+Date Match 22 at 6825-6849: DATE: Tuesday 13.07.2021
+Actual Date found at 6831-6849: Tuesday 13.07.2021
+**************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruption-20Notice-20--2021-23.05.2021.pdf
+**************************************************************************************************
+
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2007.07.2022.pdf
+*******************************************************************************
+
+Date Match 1 at 428-452: DATE: Tuesday 12.07.2022
+Actual Date found at 434-452: Tuesday 12.07.2022
+Date Match 2 at 700-724: DATE: Tuesday 12.07.2022
+Actual Date found at 706-724: Tuesday 12.07.2022
+Date Match 3 at 1086-1110: DATE: Tuesday 12.07.2022
+Actual Date found at 1092-1110: Tuesday 12.07.2022
+Date Match 4 at 1490-1516: DATE: Wednesday 13.07.2022
+Actual Date found at 1496-1516: Wednesday 13.07.2022
+Date Match 5 at 1843-1869: DATE: Wednesday 13.07.2022
+Actual Date found at 1849-1869: Wednesday 13.07.2022
+Date Match 6 at 2042-2067: DATE: Thursday 14.07.2022
+Actual Date found at 2048-2067: Thursday 14.07.2022
+Date Match 7 at 2288-2313: DATE: Thursday 14.07.2022
+Actual Date found at 2294-2313: Thursday 14.07.2022
+Date Match 8 at 2448-2473: DATE: Thursday 14.07.2022
+Actual Date found at 2454-2473: Thursday 14.07.2022
+Date Match 9 at 2933-2958: DATE: Thursday 14.07.2022
+Actual Date found at 2939-2958: Thursday 14.07.2022
+Date Match 10 at 3498-3521: DATE: Sunday 17.07.2022
+Actual Date found at 3504-3521: Sunday 17.07.2022
+Date Match 11 at 3689-3714: DATE: Thursday 14.07.2022
+Actual Date found at 3695-3714: Thursday 14.07.2022
+Date Match 12 at 4295-4320: DATE: Thursday 14.07.2022
+Actual Date found at 4301-4320: Thursday 14.07.2022
+Date Match 13 at 4510-4535: DATE: Thursday 14.07.2022
+Actual Date found at 4516-4535: Thursday 14.07.2022
+Date Match 14 at 4838-4861: DATE: Monday 11.07.2022
+Actual Date found at 4844-4861: Monday 11.07.2022
+Date Match 15 at 5216-5242: DATE: Wednesday 13.07.2022
+Actual Date found at 5222-5242: Wednesday 13.07.2022
+Date Match 16 at 5556-5579: DATE: Sunday 10.07.2022
+Actual Date found at 5562-5579: Sunday 10.07.2022
+Date Match 17 at 5786-5810: DATE: Tuesday 12.07.2022
+Actual Date found at 5792-5810: Tuesday 12.07.2022
+Date Match 18 at 5971-5995: DATE: Tuesday 12.07.2022
+Actual Date found at 5977-5995: Tuesday 12.07.2022
+Date Match 19 at 6301-6325: DATE: Tuesday 12.07.2022
+Actual Date found at 6307-6325: Tuesday 12.07.2022
+Date Match 20 at 7436-7462: DATE: Wednesday 13.07.2022
+Actual Date found at 7442-7462: Wednesday 13.07.2022
+Date Match 21 at 7644-7670: DATE: Wednesday 27.07.2022
+Actual Date found at 7650-7670: Wednesday 27.07.2022
+Date Match 22 at 7939-7962: DATE: Sunday 10.07.2022
+Actual Date found at 7945-7962: Sunday 10.07.2022
+Date Match 23 at 8163-8188: DATE: Thursday 14.07.2022
+Actual Date found at 8169-8188: Thursday 14.07.2022
+Date Match 24 at 8482-8507: DATE: Thursday 14.07.2022
+Actual Date found at 8488-8507: Thursday 14.07.2022
+Date Match 25 at 8791-8814: DATE: Monday 11.07.2022
+Actual Date found at 8797-8814: Monday 11.07.2022
+Date Match 26 at 9104-9128: DATE: Tuesday 12.07.2022
+Actual Date found at 9110-9128: Tuesday 12.07.2022
+Date Match 27 at 9351-9374: DATE: Sunday 10.07.2022
+Actual Date found at 9357-9374: Sunday 10.07.2022
+Date Match 28 at 10332-10355: DATE: Monday 11.07.2022
+Actual Date found at 10338-10355: Monday 11.07.2022
+Date Match 29 at 10619-10642: DATE: Monday 11.07.2022
+Actual Date found at 10625-10642: Monday 11.07.2022
+Date Match 30 at 11182-11205: DATE: Sunday 10.07.2022
+Actual Date found at 11188-11205: Sunday 10.07.2022
+Date Match 31 at 11408-11432: DATE: Tuesday 12.07.2022
+Actual Date found at 11414-11432: Tuesday 12.07.2022
+Date Match 32 at 11611-11635: DATE: Tuesday 12.07.2022
+Actual Date found at 11617-11635: Tuesday 12.07.2022
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2022.07.2021.pdf
+*******************************************************************************
+
+Date Match 1 at 466-491: DATE: Saturday 24.07.2021
+Actual Date found at 472-491: Saturday 24.07.2021
+Date Match 2 at 945-968: DATE: Sunday 25.07.2021
+Actual Date found at 951-968: Sunday 25.07.2021
+Date Match 3 at 1220-1243: DATE: Sunday 25.07.2021
+Actual Date found at 1226-1243: Sunday 25.07.2021
+Date Match 4 at 1639-1662: DATE: Monday 26.07.2021
+Actual Date found at 1645-1662: Monday 26.07.2021
+Date Match 5 at 2152-2176: DATE: Tuesday 27.07.2021
+Actual Date found at 2158-2176: Tuesday 27.07.2021
+Date Match 6 at 2416-2440: DATE: Tuesday 27.07.2021
+Actual Date found at 2422-2440: Tuesday 27.07.2021
+Date Match 7 at 2830-2856: DATE: Wednesday 28.07.2021
+Actual Date found at 2836-2856: Wednesday 28.07.2021
+Date Match 8 at 3131-3157: DATE: Wednesday 28.07.2021
+Actual Date found at 3137-3157: Wednesday 28.07.2021
+Date Match 9 at 3399-3425: DATE: Wednesday 28.07.2021
+Actual Date found at 3405-3425: Wednesday 28.07.2021
+Date Match 10 at 3789-3814: DATE: Thursday 29.07.2021
+Actual Date found at 3795-3814: Thursday 29.07.2021
+Date Match 11 at 4162-4187: DATE: Thursday 29.07.2021
+Actual Date found at 4168-4187: Thursday 29.07.2021
+Date Match 12 at 4445-4468: DATE: Friday 30.07.2021
+Actual Date found at 4451-4468: Friday 30.07.2021
+Date Match 13 at 4675-4698: DATE: Friday 30.07.2021
+Actual Date found at 4681-4698: Friday 30.07.2021
+Date Match 14 at 4861-4884: DATE: Friday 30.07.2021
+Actual Date found at 4867-4884: Friday 30.07.2021
+Date Match 15 at 5172-5195: DATE: Friday 30.07.2021
+Actual Date found at 5178-5195: Friday 30.07.2021
+Date Match 16 at 5457-5480: DATE: Monday 26.07.2021
+Actual Date found at 5463-5480: Monday 26.07.2021
+Date Match 17 at 5698-5722: DATE: Tuesday 27.07.2021
+Actual Date found at 5704-5722: Tuesday 27.07.2021
+Date Match 18 at 6066-6091: DATE: Saturday 24.07.2021
+Actual Date found at 6072-6091: Saturday 24.07.2021
+Date Match 19 at 6093-6116: DATE: Sunday 25.07.2021
+Actual Date found at 6099-6116: Sunday 25.07.2021
+Date Match 20 at 6291-6315: DATE: Tuesday 27.07.2021
+Actual Date found at 6297-6315: Tuesday 27.07.2021
+Date Match 21 at 6555-6580: DATE: Saturday 24.07.2021
+Actual Date found at 6561-6580: Saturday 24.07.2021
+Date Match 22 at 6582-6605: DATE: Sunday 25.07.2021
+Actual Date found at 6588-6605: Sunday 25.07.2021
+Date Match 23 at 6881-6907: DATE: Wednesday 28.07.2021
+Actual Date found at 6887-6907: Wednesday 28.07.2021
+Date Match 24 at 7046-7071: DATE: Thursday 29.07.2021
+Actual Date found at 7052-7071: Thursday 29.07.2021
+Date Match 25 at 7309-7332: DATE: Friday 30.07.2021
+Actual Date found at 7315-7332: Friday 30.07.2021
+Date Match 26 at 8322-8346: DATE: Tuesday 27.07.2021
+Actual Date found at 8328-8346: Tuesday 27.07.2021
+Date Match 27 at 8658-8682: DATE: Tuesday 27.07.2021
+Actual Date found at 8664-8682: Tuesday 27.07.2021
+Date Match 28 at 8886-8912: DATE: Wednesday 28.07.2021
+Actual Date found at 8892-8912: Wednesday 28.07.2021
+Date Match 29 at 9201-9227: DATE: Wednesday 28.07.2021
+Actual Date found at 9207-9227: Wednesday 28.07.2021
+Date Match 30 at 9462-9487: DATE: Thursday 29.07.2021
+Actual Date found at 9468-9487: Thursday 29.07.2021
+Date Match 31 at 9658-9683: DATE: Thursday 29.07.2021
+Actual Date found at 9664-9683: Thursday 29.07.2021
+Date Match 32 at 9966-9991: DATE: Saturday 31.07.2021
+Actual Date found at 9972-9991: Saturday 31.07.2021
+Date Match 33 at 11753-11776: DATE: Monday 26.07.2021
+Actual Date found at 11759-11776: Monday 26.07.2021
+Date Match 34 at 12115-12141: DATE: Wednesday 28.07.2021
+Actual Date found at 12121-12141: Wednesday 28.07.2021
+Date Match 35 at 12341-12366: DATE: Thursday 29.07.2021
+Actual Date found at 12347-12366: Thursday 29.07.2021
+Date Match 36 at 12719-12742: DATE: Sunday 25.07.2021
+Actual Date found at 12725-12742: Sunday 25.07.2021
+Date Match 37 at 13137-13163: DATE: Wednesday 28.07.2021
+Actual Date found at 13143-13163: Wednesday 28.07.2021
+*************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2026.04.2021-Part-202-20of-202.pdf
+*************************************************************************************************
+
+Date Match 1 at 437-463: DATE: Wednesday 28.04.2021
+Actual Date found at 443-463: Wednesday 28.04.2021
+Date Match 2 at 646-671: DATE: Thursday 29.04.2021
+Actual Date found at 652-671: Thursday 29.04.2021
+Date Match 3 at 925-950: DATE: Thursday 29.04.2021
+Actual Date found at 931-950: Thursday 29.04.2021
+Date Match 4 at 1093-1118: DATE: Thursday 29.04.2021
+Actual Date found at 1099-1118: Thursday 29.04.2021
+Date Match 5 at 1638-1663: DATE: Thursday 29.04.2021
+Actual Date found at 1644-1663: Thursday 29.04.2021
+Date Match 6 at 2312-2337: DATE: Saturday 01.05.2021
+Actual Date found at 2318-2337: Saturday 01.05.2021
+Date Match 7 at 2582-2605: DATE: Sunday 02.05.2021
+Actual Date found at 2588-2605: Sunday 02.05.2021
+Date Match 8 at 2877-2903: DATE: Wednesday 28.04.2021
+Actual Date found at 2883-2903: Wednesday 28.04.2021
+Date Match 9 at 3117-3143: DATE: Wednesday 28.04.2021
+Actual Date found at 3123-3143: Wednesday 28.04.2021
+Date Match 10 at 3295-3321: DATE: Wednesday 28.04.2021
+Actual Date found at 3301-3321: Wednesday 28.04.2021
+Date Match 11 at 3542-3568: DATE: Wednesday 28.04.2021
+Actual Date found at 3548-3568: Wednesday 28.04.2021
+Date Match 12 at 3753-3778: DATE: Thursday 29.04.2021
+Actual Date found at 3759-3778: Thursday 29.04.2021
+Date Match 13 at 3983-4008: DATE: Thursday 29.04.2021
+Actual Date found at 3989-4008: Thursday 29.04.2021
+Date Match 14 at 4203-4229: DATE: Wednesday 28.04.2021
+Actual Date found at 4209-4229: Wednesday 28.04.2021
+Date Match 15 at 4612-4638: DATE: Wednesday 28.04.2021
+Actual Date found at 4618-4638: Wednesday 28.04.2021
+Date Match 16 at 4843-4869: DATE: Wednesday 28.04.2021
+Actual Date found at 4849-4869: Wednesday 28.04.2021
+Date Match 17 at 5101-5127: DATE: Wednesday 28.04.2021
+Actual Date found at 5107-5127: Wednesday 28.04.2021
+Date Match 18 at 5462-5488: DATE: Wednesday 28.04.2021
+Actual Date found at 5468-5488: Wednesday 28.04.2021
+Date Match 19 at 5802-5828: DATE: Wednesday 28.04.2021
+Actual Date found at 5808-5828: Wednesday 28.04.2021
+Date Match 20 at 6088-6113: DATE: Thursday 29.04.2021
+Actual Date found at 6094-6113: Thursday 29.04.2021
+Date Match 21 at 6451-6474: DATE: Friday 30.04.2021
+Actual Date found at 6457-6474: Friday 30.04.2021
+Date Match 22 at 6753-6779: DATE: Wednesday 28.04.2021
+Actual Date found at 6759-6779: Wednesday 28.04.2021
+Date Match 23 at 7139-7164: DATE: Thursday 29.04.2021
+Actual Date found at 7145-7164: Thursday 29.04.2021
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2022.04.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+Date Match 1 at 442-467: DATE: Saturday 24.04.2021
+Actual Date found at 448-467: Saturday 24.04.2021
+Date Match 2 at 794-817: DATE: Sunday 25.04.2021
+Actual Date found at 800-817: Sunday 25.04.2021
+Date Match 3 at 1088-1111: DATE: Sunday 25.04.2021
+Actual Date found at 1094-1111: Sunday 25.04.2021
+Date Match 4 at 1596-1619: DATE: Sunday 25.04.2021
+Actual Date found at 1602-1619: Sunday 25.04.2021
+Date Match 5 at 1858-1881: DATE: Sunday 25.04.2021
+Actual Date found at 1864-1881: Sunday 25.04.2021
+Date Match 6 at 2463-2486: DATE: Monday 26.04.2021
+Actual Date found at 2469-2486: Monday 26.04.2021
+Date Match 7 at 2996-3020: DATE: Tuesday 27.04.2021
+Actual Date found at 3002-3020: Tuesday 27.04.2021
+Date Match 8 at 3331-3355: DATE: Tuesday 27.04.2021
+Actual Date found at 3337-3355: Tuesday 27.04.2021
+Date Match 9 at 4498-4522: DATE: Tuesday 27.04.2021
+Actual Date found at 4504-4522: Tuesday 27.04.2021
+Date Match 10 at 4913-4937: DATE: Tuesday 27.04.2021
+Actual Date found at 4919-4937: Tuesday 27.04.2021
+Date Match 11 at 5140-5164: DATE: Tuesday 27.04.2021
+Actual Date found at 5146-5164: Tuesday 27.04.2021
+Date Match 12 at 5518-5541: DATE: Monday 26.04.2021
+Actual Date found at 5524-5541: Monday 26.04.2021
+Date Match 13 at 5830-5855: DATE: Saturday 24.04.2021
+Actual Date found at 5836-5855: Saturday 24.04.2021
+Date Match 14 at 6122-6145: DATE: Sunday 25.04.2021
+Actual Date found at 6128-6145: Sunday 25.04.2021
+Date Match 15 at 6444-6469: DATE: Saturday 24.04.2021
+Actual Date found at 6450-6469: Saturday 24.04.2021
+Date Match 16 at 6733-6756: DATE: Monday 26.04.2021
+Actual Date found at 6739-6756: Monday 26.04.2021
+Date Match 17 at 7064-7088: DATE: Tuesday 27.04.2021
+Actual Date found at 7070-7088: Tuesday 27.04.2021
+Date Match 18 at 7657-7680: DATE: Sunday 25.04.2021
+Actual Date found at 7663-7680: Sunday 25.04.2021
+Date Match 19 at 8144-8167: DATE: Monday 26.04.2021
+Actual Date found at 8150-8167: Monday 26.04.2021
+Date Match 20 at 8459-8483: DATE: Tuesday 27.04.2021
+Actual Date found at 8465-8483: Tuesday 27.04.2021
+Date Match 21 at 8825-8848: DATE: Sunday 25.04.2021
+Actual Date found at 8831-8848: Sunday 25.04.2021
+Date Match 22 at 9137-9160: DATE: Sunday 25.04.2021
+Actual Date found at 9143-9160: Sunday 25.04.2021
+Date Match 23 at 9481-9504: DATE: Sunday 25.04.2021
+Actual Date found at 9487-9504: Sunday 25.04.2021
+Date Match 24 at 9916-9939: DATE: Sunday 25.04.2021
+Actual Date found at 9922-9939: Sunday 25.04.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2016.08.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 437-463: DATE: Wednesday 18.08.2021
+Actual Date found at 443-463: Wednesday 18.08.2021
+Date Match 2 at 649-675: DATE: Wednesday 18.08.2021
+Actual Date found at 655-675: Wednesday 18.08.2021
+Date Match 3 at 1206-1232: DATE: Wednesday 18.08.2021
+Actual Date found at 1212-1232: Wednesday 18.08.2021
+Date Match 4 at 1405-1431: DATE: Wednesday 18.08.2021
+Actual Date found at 1411-1431: Wednesday 18.08.2021
+Date Match 5 at 1748-1773: DATE: Thursday 19.08.2021
+Actual Date found at 1754-1773: Thursday 19.08.2021
+Date Match 6 at 2123-2148: DATE: Thursday 19.08.2021
+Actual Date found at 2129-2148: Thursday 19.08.2021
+Date Match 7 at 2427-2452: DATE: Thursday 19.08.2021
+Actual Date found at 2433-2452: Thursday 19.08.2021
+Date Match 8 at 3004-3030: DATE: Wednesday 18.08.2021
+Actual Date found at 3010-3030: Wednesday 18.08.2021
+Date Match 9 at 3251-3276: DATE: Thursday 19.08.2021
+Actual Date found at 3257-3276: Thursday 19.08.2021
+Date Match 10 at 3427-3453: DATE: Wednesday 18.08.2021
+Actual Date found at 3433-3453: Wednesday 18.08.2021
+Date Match 11 at 3590-3616: DATE: Wednesday 18.08.2021
+Actual Date found at 3596-3616: Wednesday 18.08.2021
+Date Match 12 at 3838-3863: DATE: Thursday 19.08.2021
+Actual Date found at 3844-3863: Thursday 19.08.2021
+Date Match 13 at 4142-4167: DATE: Thursday 19.08.2021
+Actual Date found at 4148-4167: Thursday 19.08.2021
+Date Match 14 at 4603-4629: DATE: Wednesday 18.08.2021
+Actual Date found at 4609-4629: Wednesday 18.08.2021
+Date Match 15 at 4989-5014: DATE: Thursday 19.08.2021
+Actual Date found at 4995-5014: Thursday 19.08.2021
+Date Match 16 at 5415-5440: DATE: Thursday 19.08.2021
+Actual Date found at 5421-5440: Thursday 19.08.2021
+Date Match 17 at 5599-5624: DATE: Thursday 19.08.2021
+Actual Date found at 5605-5624: Thursday 19.08.2021
+Date Match 18 at 5795-5820: DATE: Thursday 19.08.2021
+Actual Date found at 5801-5820: Thursday 19.08.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2026.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 437-460: DATE: Sunday 29.08.2021
+Actual Date found at 443-460: Sunday 29.08.2021
+Date Match 2 at 816-840: DATE: Tuesday 31.08.2021
+Actual Date found at 822-840: Tuesday 31.08.2021
+Date Match 3 at 1129-1153: DATE: Tuesday 31.08.2021
+Actual Date found at 1135-1153: Tuesday 31.08.2021
+Date Match 4 at 1390-1414: DATE: Tuesday 31.08.2021
+Actual Date found at 1396-1414: Tuesday 31.08.2021
+Date Match 5 at 1688-1711: DATE: Monday 30.08.2021
+Actual Date found at 1694-1711: Monday 30.08.2021
+Date Match 6 at 1944-1968: DATE: Tuesday 31.08.2021
+Actual Date found at 1950-1968: Tuesday 31.08.2021
+Date Match 7 at 2639-2663: DATE: Tuesday 31.08.2021
+Actual Date found at 2645-2663: Tuesday 31.08.2021
+Date Match 8 at 2904-2928: DATE: Tuesday 31.08.2021
+Actual Date found at 2910-2928: Tuesday 31.08.2021
+Date Match 9 at 3155-3178: DATE: Sunday 29.08.2021
+Actual Date found at 3161-3178: Sunday 29.08.2021
+Date Match 10 at 3491-3514: DATE: Sunday 29.08.2021
+Actual Date found at 3497-3514: Sunday 29.08.2021
+Date Match 11 at 3835-3858: DATE: Sunday 29.08.2021
+Actual Date found at 3841-3858: Sunday 29.08.2021
+Date Match 12 at 4117-4140: DATE: Sunday 29.08.2021
+Actual Date found at 4123-4140: Sunday 29.08.2021
+Date Match 13 at 4428-4452: DATE: Tuesday 31.08.2021
+Actual Date found at 4434-4452: Tuesday 31.08.2021
+Date Match 14 at 4930-4953: DATE: Monday 30.08.2021
+Actual Date found at 4936-4953: Monday 30.08.2021
+Date Match 15 at 5733-5757: DATE: Tuesday 31.08.2021
+Actual Date found at 5739-5757: Tuesday 31.08.2021
+Date Match 16 at 6058-6082: DATE: Tuesday 31.08.2021
+Actual Date found at 6064-6082: Tuesday 31.08.2021
+Date Match 17 at 6356-6380: DATE: Tuesday 31.08.2021
+Actual Date found at 6362-6380: Tuesday 31.08.2021
+Date Match 18 at 6666-6690: DATE: Tuesday 31.08.2021
+Actual Date found at 6672-6690: Tuesday 31.08.2021
+Date Match 19 at 6919-6942: DATE: Sunday 29.08.2021
+Actual Date found at 6925-6942: Sunday 29.08.2021
+Date Match 20 at 7310-7334: DATE: Tuesday 31.08.2021
+Actual Date found at 7316-7334: Tuesday 31.08.2021
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2018.06.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+Date Match 1 at 434-457: DATE: Sunday 20.06.2021
+Actual Date found at 440-457: Sunday 20.06.2021
+Date Match 2 at 649-672: DATE: Sunday 20.06.2021
+Actual Date found at 655-672: Sunday 20.06.2021
+Date Match 3 at 952-976: DATE: Tuesday 22.06.2021
+Actual Date found at 958-976: Tuesday 22.06.2021
+Date Match 4 at 1334-1358: DATE: Tuesday 22.06.2021
+Actual Date found at 1340-1358: Tuesday 22.06.2021
+Date Match 5 at 1917-1941: DATE: Tuesday 22.06.2021
+Actual Date found at 1923-1941: Tuesday 22.06.2021
+Date Match 6 at 2335-2358: DATE: Monday 21.06.2021
+Actual Date found at 2341-2358: Monday 21.06.2021
+Date Match 7 at 2811-2834: DATE: Monday 21.06.2021
+Actual Date found at 2817-2834: Monday 21.06.2021
+Date Match 8 at 3051-3075: DATE: Tuesday 22.06.2021
+Actual Date found at 3057-3075: Tuesday 22.06.2021
+Date Match 9 at 3313-3336: DATE: Monday 21.06.2021
+Actual Date found at 3319-3336: Monday 21.06.2021
+Date Match 10 at 3619-3642: DATE: Sunday 20.06.2021
+Actual Date found at 3625-3642: Sunday 20.06.2021
+Date Match 11 at 3880-3904: DATE: Tuesday 22.06.2021
+Actual Date found at 3886-3904: Tuesday 22.06.2021
+Date Match 12 at 4086-4110: DATE: Tuesday 22.06.2021
+Actual Date found at 4092-4110: Tuesday 22.06.2021
+Date Match 13 at 4629-4652: DATE: Monday 21.06.2021
+Actual Date found at 4635-4652: Monday 21.06.2021
+Date Match 14 at 5060-5083: DATE: Monday 21.06.2021
+Actual Date found at 5066-5083: Monday 21.06.2021
+Date Match 15 at 5440-5463: DATE: Sunday 20.06.2021
+Actual Date found at 5446-5463: Sunday 20.06.2021
+Date Match 16 at 5798-5821: DATE: Monday 21.06.2021
+Actual Date found at 5804-5821: Monday 21.06.2021
+Date Match 17 at 6030-6053: DATE: Monday 21.06.2021
+Actual Date found at 6036-6053: Monday 21.06.2021
+Date Match 18 at 6251-6274: DATE: Monday 21.06.2021
+Actual Date found at 6257-6274: Monday 21.06.2021
+Date Match 19 at 6569-6593: DATE: Tuesday 22.06.2021
+Actual Date found at 6575-6593: Tuesday 22.06.2021
+Date Match 20 at 7128-7152: DATE: Tuesday 22.06.2021
+Actual Date found at 7134-7152: Tuesday 22.06.2021
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2020.05.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+Date Match 1 at 463-486: DATE: Sunday 23.05.2021
+Actual Date found at 469-486: Sunday 23.05.2021
+Date Match 2 at 776-799: DATE: Sunday 23.05.2021
+Actual Date found at 782-799: Sunday 23.05.2021
+Date Match 3 at 1086-1109: DATE: Sunday 23.05.2021
+Actual Date found at 1092-1109: Sunday 23.05.2021
+Date Match 4 at 1332-1358: DATE: Wednesday 26.05.2021
+Actual Date found at 1338-1358: Wednesday 26.05.2021
+Date Match 5 at 1931-1955: DATE: Tuesday 25.05.2021
+Actual Date found at 1937-1955: Tuesday 25.05.2021
+Date Match 6 at 2410-2433: DATE: Sunday 23.05.2021
+Actual Date found at 2416-2433: Sunday 23.05.2021
+Date Match 7 at 2627-2651: DATE: Tuesday 25.05.2021
+Actual Date found at 2633-2651: Tuesday 25.05.2021
+Date Match 8 at 3051-3077: DATE: Wednesday 26.05.2021
+Actual Date found at 3057-3077: Wednesday 26.05.2021
+Date Match 9 at 3258-3284: DATE: Wednesday 26.05.2021
+Actual Date found at 3264-3284: Wednesday 26.05.2021
+Date Match 10 at 3502-3525: DATE: Sunday 23.05.2021
+Actual Date found at 3508-3525: Sunday 23.05.2021
+Date Match 11 at 3693-3716: DATE: Sunday 23.05.2021
+Actual Date found at 3699-3716: Sunday 23.05.2021
+Date Match 12 at 3956-3982: DATE: Wednesday 26.05.2021
+Actual Date found at 3962-3982: Wednesday 26.05.2021
+Date Match 13 at 4176-4200: DATE: Tuesday 25.05.2021
+Actual Date found at 4182-4200: Tuesday 25.05.2021
+Date Match 14 at 4563-4587: DATE: Tuesday 25.05.2021
+Actual Date found at 4569-4587: Tuesday 25.05.2021
+Date Match 15 at 4983-5006: DATE: Monday 24.05.2021
+Actual Date found at 4989-5006: Monday 24.05.2021
+Date Match 16 at 5217-5240: DATE: Monday 24.05.2021
+Actual Date found at 5223-5240: Monday 24.05.2021
+Date Match 17 at 5431-5457: DATE: Wednesday 26.05.2021
+Actual Date found at 5437-5457: Wednesday 26.05.2021
+Date Match 18 at 5660-5686: DATE: Wednesday 26.05.2021
+Actual Date found at 5666-5686: Wednesday 26.05.2021
+Date Match 19 at 5975-5998: DATE: Sunday 23.05.2021
+Actual Date found at 5981-5998: Sunday 23.05.2021
+Date Match 20 at 6424-6450: DATE: Wednesday 26.05.2021
+Actual Date found at 6430-6450: Wednesday 26.05.2021
+Date Match 21 at 6637-6660: DATE: Monday 24.05.2021
+Actual Date found at 6643-6660: Monday 24.05.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2011.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 423-448: DATE: Saturday 12.06.2021
+Actual Date found at 429-448: Saturday 12.06.2021
+Date Match 2 at 692-715: DATE: Sunday 13.06.2021
+Actual Date found at 698-715: Sunday 13.06.2021
+Date Match 3 at 1086-1110: DATE: Tuesday 15.06.2021
+Actual Date found at 1092-1110: Tuesday 15.06.2021
+Date Match 4 at 1306-1330: DATE: Tuesday 15.06.2021
+Actual Date found at 1312-1330: Tuesday 15.06.2021
+Date Match 5 at 1588-1613: DATE: Saturday 12.06.2021
+Actual Date found at 1594-1613: Saturday 12.06.2021
+Date Match 6 at 1680-1703: DATE: Sunday 13.06.2021
+Actual Date found at 1686-1703: Sunday 13.06.2021
+Date Match 7 at 1937-1962: DATE: Saturday 12.06.2021
+Actual Date found at 1943-1962: Saturday 12.06.2021
+Date Match 8 at 2191-2214: DATE: Monday 14.06.2021
+Actual Date found at 2197-2214: Monday 14.06.2021
+Date Match 9 at 2450-2474: DATE: Tuesday 15.06.2021
+Actual Date found at 2456-2474: Tuesday 15.06.2021
+Date Match 10 at 2714-2737: DATE: Monday 14.06.2021
+Actual Date found at 2720-2737: Monday 14.06.2021
+Date Match 11 at 3018-3041: DATE: Monday 14.06.2021
+Actual Date found at 3024-3041: Monday 14.06.2021
+Date Match 12 at 3269-3293: DATE: Tuesday 15.06.2021
+Actual Date found at 3275-3293: Tuesday 15.06.2021
+Date Match 13 at 3555-3579: DATE: Tuesday 15.06.2021
+Actual Date found at 3561-3579: Tuesday 15.06.2021
+Date Match 14 at 3881-3905: DATE: Tuesday 15.06.2021
+Actual Date found at 3887-3905: Tuesday 15.06.2021
+Date Match 15 at 4151-4175: DATE: Tuesday 15.06.2021
+Actual Date found at 4157-4175: Tuesday 15.06.2021
+Date Match 16 at 4379-4403: DATE: Tuesday 15.06.2021
+Actual Date found at 4385-4403: Tuesday 15.06.2021
+Date Match 17 at 4588-4612: DATE: Tuesday 15.06.2021
+Actual Date found at 4594-4612: Tuesday 15.06.2021
+Date Match 18 at 5014-5038: DATE: Tuesday 15.06.2021
+Actual Date found at 5020-5038: Tuesday 15.06.2021
+Date Match 19 at 5271-5294: DATE: Monday 14.06.2021
+Actual Date found at 5277-5294: Monday 14.06.2021
+Date Match 20 at 5530-5554: DATE: Tuesday 15.06.2021
+Actual Date found at 5536-5554: Tuesday 15.06.2021
+Date Match 21 at 5769-5793: DATE: Tuesday 15.06.2021
+Actual Date found at 5775-5793: Tuesday 15.06.2021
+Date Match 22 at 6060-6083: DATE: Monday 14.06.2021
+Actual Date found at 6066-6083: Monday 14.06.2021
+Date Match 23 at 6368-6391: DATE: Monday 14.06.2021
+Actual Date found at 6374-6391: Monday 14.06.2021
+Date Match 24 at 6638-6662: DATE: Tuesday 15.06.2021
+Actual Date found at 6644-6662: Tuesday 15.06.2021
+Date Match 25 at 7394-7418: DATE: Tuesday 15.06.2021
+Actual Date found at 7400-7418: Tuesday 15.06.2021
+Date Match 26 at 7904-7928: DATE: Tuesday 15.06.2021
+Actual Date found at 7910-7928: Tuesday 15.06.2021
+***************************************************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruption-20Notice-20--20Western-20&-20North-20Rift-20Regions-20--2025-20&-2026.05.2021.pdf
+***************************************************************************************************************************************************
+
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2025.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 438-461: DATE: Sunday 27.06.2021
+Actual Date found at 444-461: Sunday 27.06.2021
+Date Match 2 at 751-774: DATE: Monday 28.06.2021
+Actual Date found at 757-774: Monday 28.06.2021
+Date Match 3 at 982-1005: DATE: Monday 28.06.2021
+Actual Date found at 988-1005: Monday 28.06.2021
+Date Match 4 at 1263-1287: DATE: Tuesday 29.06.2021
+Actual Date found at 1269-1287: Tuesday 29.06.2021
+Date Match 5 at 1546-1570: DATE: Tuesday 29.06.2021
+Actual Date found at 1552-1570: Tuesday 29.06.2021
+Date Match 6 at 1775-1799: DATE: Tuesday 29.06.2021
+Actual Date found at 1781-1799: Tuesday 29.06.2021
+Date Match 7 at 2342-2366: DATE: Tuesday 29.06.2021
+Actual Date found at 2348-2366: Tuesday 29.06.2021
+Date Match 8 at 2900-2924: DATE: Tuesday 29.06.2021
+Actual Date found at 2906-2924: Tuesday 29.06.2021
+Date Match 9 at 3170-3195: DATE: Saturday 26.06.2021
+Actual Date found at 3176-3195: Saturday 26.06.2021
+Date Match 10 at 3455-3479: DATE: Tuesday 29.06.2021
+Actual Date found at 3461-3479: Tuesday 29.06.2021
+Date Match 11 at 3730-3754: DATE: Tuesday 29.06.2021
+Actual Date found at 3736-3754: Tuesday 29.06.2021
+Date Match 12 at 4067-4091: DATE: Tuesday 29.06.2021
+Actual Date found at 4073-4091: Tuesday 29.06.2021
+Date Match 13 at 4424-4449: DATE: Saturday 26.06.2021
+Actual Date found at 4430-4449: Saturday 26.06.2021
+Date Match 14 at 4595-4619: DATE: Tuesday 29.06.2021
+Actual Date found at 4601-4619: Tuesday 29.06.2021
+Date Match 15 at 4859-4883: DATE: Tuesday 29.06.2021
+Actual Date found at 4865-4883: Tuesday 29.06.2021
+Date Match 16 at 5077-5101: DATE: Tuesday 29.06.2021
+Actual Date found at 5083-5101: Tuesday 29.06.2021
+Date Match 17 at 5517-5540: DATE: Monday 28.06.2021
+Actual Date found at 5523-5540: Monday 28.06.2021
+Date Match 18 at 5901-5925: DATE: Tuesday 29.06.2021
+Actual Date found at 5907-5925: Tuesday 29.06.2021
+Date Match 19 at 6236-6260: DATE: Tuesday 29.06.2021
+Actual Date found at 6242-6260: Tuesday 29.06.2021
+Date Match 20 at 6833-6858: DATE: Saturday 26.06.2021
+Actual Date found at 6839-6858: Saturday 26.06.2021
+Date Match 21 at 7198-7222: DATE: Tuesday 29.06.2021
+Actual Date found at 7204-7222: Tuesday 29.06.2021
+*******************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruptions-20Notice-20--20Kisumu-20CBD-20--2028.05.2021.pdf
+*******************************************************************************************************************
+
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2001.07.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 438-461: DATE: Sunday 04.07.2021
+Actual Date found at 444-461: Sunday 04.07.2021
+Date Match 2 at 612-636: DATE: Tuesday 06.07.2021
+Actual Date found at 618-636: Tuesday 06.07.2021
+Date Match 3 at 800-824: DATE: Tuesday 06.07.2021
+Actual Date found at 806-824: Tuesday 06.07.2021
+Date Match 4 at 1045-1068: DATE: Monday 05.07.2021
+Actual Date found at 1051-1068: Monday 05.07.2021
+Date Match 5 at 1339-1363: DATE: Tuesday 06.07.2021
+Actual Date found at 1345-1363: Tuesday 06.07.2021
+Date Match 6 at 1528-1554: DATE: Wednesday 07.07.2021
+Actual Date found at 1534-1554: Wednesday 07.07.2021
+Date Match 7 at 1835-1859: DATE: Tuesday 06.07.2021
+Actual Date found at 1841-1859: Tuesday 06.07.2021
+Date Match 8 at 2372-2395: DATE: Monday 05.07.2021
+Actual Date found at 2378-2395: Monday 05.07.2021
+Date Match 9 at 2543-2567: DATE: Tuesday 06.07.2021
+Actual Date found at 2549-2567: Tuesday 06.07.2021
+Date Match 10 at 2744-2767: DATE: Monday 05.07.2021
+Actual Date found at 2750-2767: Monday 05.07.2021
+Date Match 11 at 3013-3036: DATE: Monday 05.07.2021
+Actual Date found at 3019-3036: Monday 05.07.2021
+Date Match 12 at 3287-3312: DATE: Saturday 03.07.2012
+Actual Date found at 3293-3312: Saturday 03.07.2012
+Date Match 13 at 3993-4016: DATE: Monday 05.07.2021
+Actual Date found at 3999-4016: Monday 05.07.2021
+Date Match 14 at 4338-4361: DATE: Sunday 04.07.2021
+Actual Date found at 4344-4361: Sunday 04.07.2021
+Date Match 15 at 4721-4745: DATE: Tuesday 06.07.2021
+Actual Date found at 4727-4745: Tuesday 06.07.2021
+Date Match 16 at 5251-5275: DATE: Tuesday 06.07.2021
+Actual Date found at 5257-5275: Tuesday 06.07.2021
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2003.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+Date Match 1 at 82-105: DATE: Monday 07.06.2021
+Actual Date found at 88-105: Monday 07.06.2021
+Date Match 2 at 393-416: DATE: Sunday 06.06.2021
+Actual Date found at 399-416: Sunday 06.06.2021
+Date Match 3 at 671-696: DATE: Saturday 05.06.2021
+Actual Date found at 677-696: Saturday 05.06.2021
+Date Match 4 at 906-929: DATE: Sunday 06.06.2021
+Actual Date found at 912-929: Sunday 06.06.2021
+Date Match 5 at 1369-1392: DATE: Monday 07.06.2021
+Actual Date found at 1375-1392: Monday 07.06.2021
+Date Match 6 at 1808-1832: DATE: Tuesday 08.06.2021
+Actual Date found at 1814-1832: Tuesday 08.06.2021
+Date Match 7 at 2507-2530: DATE: Sunday 06.06.2021
+Actual Date found at 2513-2530: Sunday 06.06.2021
+Date Match 8 at 3256-3279: DATE: Sunday 06.06.2021
+Actual Date found at 3262-3279: Sunday 06.06.2021
+Date Match 9 at 3461-3484: DATE: Sunday 06.06.2021
+Actual Date found at 3467-3484: Sunday 06.06.2021
+Date Match 10 at 3733-3756: DATE: Monday 07.06.2021
+Actual Date found at 3739-3756: Monday 07.06.2021
+Date Match 11 at 3989-4013: DATE: Tuesday 08.06.2021
+Actual Date found at 3995-4013: Tuesday 08.06.2021
+Date Match 12 at 4354-4378: DATE: Tuesday 08.06.2021
+Actual Date found at 4360-4378: Tuesday 08.06.2021
+Date Match 13 at 4726-4750: DATE: Tuesday 08.06.2021
+Actual Date found at 4732-4750: Tuesday 08.06.2021
+Date Match 14 at 5018-5041: DATE: Sunday 06.06.2021
+Actual Date found at 5024-5041: Sunday 06.06.2021
+Date Match 15 at 5389-5412: DATE: Monday 07.06.2021
+Actual Date found at 5395-5412: Monday 07.06.2021
+Date Match 16 at 5610-5634: DATE: Tuesday 08.06.2021
+Actual Date found at 5616-5634: Tuesday 08.06.2021
+Date Match 17 at 5882-5908: DATE: Wednesday 09.06.2021
+Actual Date found at 5888-5908: Wednesday 09.06.2021

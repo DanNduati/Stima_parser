@@ -1,0 +1,846 @@
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.05.2021-20Part-202-20of-202.pdf
+***************************************************************************************************
+
+County Match 1 at 1798-1816: OF MACHAKOS COUNTY
+Actual County found at 1801-1810: MACHAKOS 
+County Match 2 at 2809-2824: OF KISII COUNTY
+Actual County found at 2812-2818: KISII 
+County Match 3 at 3185-3201: OF MIGORI COUNTY
+Actual County found at 3188-3195: MIGORI 
+County Match 4 at 3992-4009: OF NYAMIRA COUNTY
+Actual County found at 3995-4003: NYAMIRA 
+County Match 5 at 4527-4542: OF NYERI COUNTY
+Actual County found at 4530-4536: NYERI 
+County Match 6 at 4910-4928: OF KERUGOYA COUNTY
+Actual County found at 4913-4922: KERUGOYA 
+County Match 7 at 5830-5847: OF MAKUENI COUNTY
+Actual County found at 5833-5841: MAKUENI 
+County Match 8 at 6190-6204: OF EMBU COUNTY
+Actual County found at 6193-6198: EMBU 
+County Match 9 at 6536-6555: OF NYANDARUA COUNTY
+Actual County found at 6539-6549: NYANDARUA 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2007.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 1973-1991: OF MACHAKOS COUNTY
+Actual County found at 1976-1985: MACHAKOS 
+County Match 2 at 3042-3059: OF MAKUENI COUNTY
+Actual County found at 3045-3053: MAKUENI 
+County Match 3 at 3323-3338: OF BOMET COUNTY
+Actual County found at 3326-3332: BOMET 
+County Match 4 at 3663-3681: OF KAKAMEGA COUNTY
+Actual County found at 3666-3675: KAKAMEGA 
+County Match 5 at 3973-3988: OF NYERI COUNTY
+Actual County found at 3976-3982: NYERI 
+County Match 6 at 4185-4204: OF KIRINYAGA COUNTY
+Actual County found at 4188-4198: KIRINYAGA 
+County Match 7 at 4626-4642: OF KIAMBU COUNTY
+Actual County found at 4629-4636: KIAMBU 
+County Match 8 at 5655-5670: OF KWALE COUNTY
+Actual County found at 5658-5664: KWALE 
+County Match 9 at 5929-5946: OF MOMBASA COUNTY
+Actual County found at 5932-5940: MOMBASA 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2031.05.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 1436-1454: OF MACHAKOS COUNTY
+Actual County found at 1439-1448: MACHAKOS 
+County Match 2 at 2034-2050: OF MIGORI COUNTY
+Actual County found at 2037-2044: MIGORI 
+County Match 3 at 2468-2485: OF NYAMIRA COUNTY
+Actual County found at 2471-2479: NYAMIRA 
+County Match 4 at 2753-2768: OF NYERI COUNTY
+Actual County found at 2756-2762: NYERI 
+County Match 5 at 3023-3037: OF EMBU COUNTY
+Actual County found at 3026-3031: EMBU 
+County Match 6 at 3369-3388: OF KIRINYAGA COUNTY
+Actual County found at 3372-3382: KIRINYAGA 
+County Match 7 at 3913-3929: OF KIAMBU COUNTY
+Actual County found at 3916-3923: KIAMBU 
+County Match 8 at 4517-4534: OF MOMBASA COUNTY
+Actual County found at 4520-4528: MOMBASA 
+County Match 9 at 5594-5610: OF KILIFI COUNTY
+Actual County found at 5597-5604: KILIFI 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2005.07.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 1847-1865: OF MACHAKOS COUNTY
+Actual County found at 1850-1859: MACHAKOS 
+County Match 2 at 2283-2300: OF KAJIADO COUNTY
+Actual County found at 2286-2294: KAJIADO 
+County Match 3 at 2908-2923: OF BOMET COUNTY
+Actual County found at 2911-2917: BOMET 
+County Match 4 at 3236-3257: OF UASIN GISHU COUNTY
+Actual County found at 3239-3251: UASIN GISHU 
+County Match 5 at 3858-3873: OF KISII COUNTY
+Actual County found at 3861-3867: KISII 
+County Match 6 at 4293-4308: OF NYERI COUNTY
+Actual County found at 4296-4302: NYERI 
+County Match 7 at 4998-5012: OF MERU COUNTY
+Actual County found at 5001-5006: MERU 
+County Match 8 at 5544-5560: OF KILIFI COUNTY
+Actual County found at 5547-5554: KILIFI 
+County Match 9 at 5943-5960: OF MOMBASA COUNTY
+Actual County found at 5946-5954: MOMBASA 
+County Match 10 at 6258-6278: OF TANA RIVER COUNTY
+Actual County found at 6261-6272: TANA RIVER 
+County Match 11 at 6814-6830: OF VIHIGA COUNTY
+Actual County found at 6817-6824: VIHIGA 
+*************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-13.09.2021.pdf
+*************************************************************************
+
+County Match 1 at 2331-2349: OF MACHAKOS COUNTY
+Actual County found at 2334-2343: MACHAKOS 
+County Match 2 at 2594-2611: OF MAKUENI COUNTY
+Actual County found at 2597-2605: MAKUENI 
+County Match 3 at 2884-2901: OF KAJIADO COUNTY
+Actual County found at 2887-2895: KAJIADO 
+County Match 4 at 3153-3174: OF UASIN GISHU COUNTY
+Actual County found at 3156-3168: UASIN GISHU 
+County Match 5 at 3528-3543: OF NANDI COUNTY
+Actual County found at 3531-3537: NANDI 
+County Match 6 at 3831-3848: OF BUNGOMA COUNTY
+Actual County found at 3834-3842: BUNGOMA 
+County Match 7 at 4235-4250: OF KISII COUNTY
+Actual County found at 4238-4244: KISII 
+County Match 8 at 4484-4502: OF HOMA BAY COUNTY
+Actual County found at 4487-4496: HOMA BAY 
+County Match 9 at 5064-5083: OF KIRINYAGA COUNTY
+Actual County found at 5067-5077: KIRINYAGA 
+County Match 10 at 5758-5773: OF NYERI COUNTY
+Actual County found at 5761-5767: NYERI 
+County Match 11 at 6030-6044: OF MERU COUNTY
+Actual County found at 6033-6038: MERU 
+County Match 12 at 6824-6840: OF KIAMBU COUNTY
+Actual County found at 6827-6834: KIAMBU 
+County Match 13 at 8249-8266: OF MOMBASA COUNTY
+Actual County found at 8252-8260: MOMBASA 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2013.05.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 2831-2849: OF MACHAKOS COUNTY
+Actual County found at 2834-2843: MACHAKOS 
+County Match 2 at 3152-3169: OF KERICHO COUNTY
+Actual County found at 3155-3163: KERICHO 
+County Match 3 at 3547-3562: OF NANDI COUNTY
+Actual County found at 3550-3556: NANDI 
+County Match 4 at 4060-4076: OF KISUMU COUNTY
+Actual County found at 4063-4070: KISUMU 
+County Match 5 at 4266-4282: OF VIHIGA COUNTY
+Actual County found at 4269-4276: VIHIGA 
+County Match 6 at 4622-4639: OF MOMBASA COUNTY
+Actual County found at 4625-4633: MOMBASA 
+County Match 7 at 6139-6155: OF KILIFI COUNTY
+Actual County found at 6142-6149: KILIFI 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2028.05.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 23-38: OF SIAYA COUNTY
+Actual County found at 26-32: SIAYA 
+County Match 2 at 289-307: OF KAKAMEGA COUNTY
+Actual County found at 292-301: KAKAMEGA 
+County Match 3 at 3524-3542: OF MACHAKOS COUNTY
+Actual County found at 3527-3536: MACHAKOS 
+County Match 4 at 3760-3777: OF TURKANA COUNTY
+Actual County found at 3763-3771: TURKANA 
+******************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/ 
+******************************************************************************************************************
+
+County Match 1 at 596-609: KISUMU COUNTY
+Actual County found at 596-603: KISUMU 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2014.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 3119-3137: OF MACHAKOS COUNTY
+Actual County found at 3122-3131: MACHAKOS 
+County Match 2 at 4053-4074: OF UASIN GISHU COUNTY
+Actual County found at 4056-4068: UASIN GISHU 
+County Match 3 at 4393-4408: OF NANDI COUNTY
+Actual County found at 4396-4402: NANDI 
+County Match 4 at 4666-4682: OF VIHIGA COUNTY
+Actual County found at 4669-4676: VIHIGA 
+County Match 5 at 5020-5036: OF KISUMU COUNTY
+Actual County found at 5023-5030: KISUMU 
+County Match 6 at 5230-5247: OF HOMABAY COUNTY
+Actual County found at 5233-5241: HOMABAY 
+County Match 7 at 5559-5574: OF KISII COUNTY
+Actual County found at 5562-5568: KISII 
+County Match 8 at 7793-7808: OF NYERI COUNTY
+Actual County found at 7796-7802: NYERI 
+County Match 9 at 8162-8181: OF KIRINYAGA COUNTY
+Actual County found at 8165-8175: KIRINYAGA 
+County Match 10 at 8733-8749: OF KIAMBU COUNTY
+Actual County found at 8736-8743: KIAMBU 
+County Match 11 at 10303-10320: OF MOMBASA COUNTY
+Actual County found at 10306-10314: MOMBASA 
+County Match 12 at 11066-11086: OF TANA RIVER COUNTY
+Actual County found at 11069-11080: TANA RIVER 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2012.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 1705-1723: OF MACHAKOS COUNTY
+Actual County found at 1708-1717: MACHAKOS 
+County Match 2 at 1916-1933: OF KAJIADO COUNTY
+Actual County found at 1919-1927: KAJIADO 
+County Match 3 at 2363-2381: OF HOMA BAY COUNTY
+Actual County found at 2366-2375: HOMA BAY 
+County Match 4 at 3071-3085: OF MERU COUNTY
+Actual County found at 3074-3079: MERU 
+County Match 5 at 3663-3679: OF KIAMBU COUNTY
+Actual County found at 3666-3673: KIAMBU 
+County Match 6 at 4246-4263: OF TURKANA COUNTY
+Actual County found at 4249-4257: TURKANA 
+County Match 7 at 4517-4533: OF KILIFI COUNTY
+Actual County found at 4520-4527: KILIFI 
+County Match 8 at 4698-4719: OF UASIN GISHU COUNTY
+Actual County found at 4701-4713: UASIN GISHU 
+County Match 9 at 4894-4911: OF MOMBASA COUNTY
+Actual County found at 4897-4905: MOMBASA 
+County Match 10 at 5069-5085: OF KISUMU COUNTY
+Actual County found at 5072-5079: KISUMU 
+County Match 11 at 5301-5318: OF BUNGOMA COUNTY
+Actual County found at 5304-5312: BUNGOMA 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 420-435: OF BOMET COUNTY
+Actual County found at 423-429: BOMET 
+County Match 2 at 3095-3113: OF MACHAKOS COUNTY
+Actual County found at 3098-3107: MACHAKOS 
+County Match 3 at 4389-4406: OF MAKUENI COUNTY
+Actual County found at 4392-4400: MAKUENI 
+County Match 4 at 4709-4724: OF NANDI COUNTY
+Actual County found at 4712-4718: NANDI 
+County Match 5 at 4959-4980: OF UASIN GISHU COUNTY
+Actual County found at 4962-4974: UASIN GISHU 
+County Match 6 at 5241-5258: OF TURKANA COUNTY
+Actual County found at 5244-5252: TURKANA 
+County Match 7 at 5597-5614: OF BUNGOMA COUNTY
+Actual County found at 5600-5608: BUNGOMA 
+County Match 8 at 5758-5774: OF VIHIGA COUNTY
+Actual County found at 5761-5768: VIHIGA 
+County Match 9 at 6108-6125: OF NYAMIRA COUNTY
+Actual County found at 6111-6119: NYAMIRA 
+County Match 10 at 6416-6431: OF NYERI COUNTY
+Actual County found at 6419-6425: NYERI 
+County Match 11 at 6881-6895: OF EMBU COUNTY
+Actual County found at 6884-6889: EMBU 
+County Match 12 at 7314-7330: OF KIAMBU COUNTY
+Actual County found at 7317-7324: KIAMBU 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2012.07.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 4084-4101: OF MAKUENI COUNTY
+Actual County found at 4087-4095: MAKUENI 
+County Match 2 at 4537-4553: OF NAKURU COUNTY
+Actual County found at 4540-4547: NAKURU 
+County Match 3 at 5105-5126: OF UASIN GISHU COUNTY
+Actual County found at 5108-5120: UASIN GISHU 
+County Match 4 at 5358-5383: OF ELGEYO MARAKWET COUNTY
+Actual County found at 5361-5377: ELGEYO MARAKWET 
+County Match 5 at 5780-5798: OF KAKAMEGA COUNTY
+Actual County found at 5783-5792: KAKAMEGA 
+County Match 6 at 6159-6174: OF KISII COUNTY
+Actual County found at 6162-6168: KISII 
+County Match 7 at 6786-6801: OF KITUI COUNTY
+Actual County found at 6789-6795: KITUI 
+County Match 8 at 7615-7631: OF KILIFI COUNTY
+Actual County found at 7618-7625: KILIFI 
+County Match 9 at 7826-7843: OF MOMBASA COUNTY
+Actual County found at 7829-7837: MOMBASA 
+County Match 10 at 9399-9416: OF NYAMIRA COUNTY
+Actual County found at 9402-9410: NYAMIRA 
+County Match 11 at 9675-9690: OF NYERI COUNTY
+Actual County found at 9678-9684: NYERI 
+County Match 12 at 10320-10334: OF EMBU COUNTY
+Actual County found at 10323-10328: EMBU 
+County Match 13 at 10618-10641: OF THARAKA NITHI COUNTY
+Actual County found at 10621-10635: THARAKA NITHI 
+***************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions - 25.10.2021 Part 2 of 2.pdf
+***************************************************************************************
+
+County Match 1 at 2030-2048: OF MACHAKOS COUNTY
+Actual County found at 2033-2042: MACHAKOS 
+County Match 2 at 3201-3216: OF NANDI COUNTY
+Actual County found at 3204-3210: NANDI 
+County Match 3 at 3455-3470: OF KISII COUNTY
+Actual County found at 3458-3464: KISII 
+County Match 4 at 4003-4019: OF MIGORI COUNTY
+Actual County found at 4006-4013: MIGORI 
+County Match 5 at 4942-4959: OF HOMABAY COUNTY
+Actual County found at 4945-4953: HOMABAY 
+County Match 6 at 5595-5614: OF KIRINYAGA COUNTY
+Actual County found at 5598-5608: KIRINYAGA 
+County Match 7 at 6056-6070: OF MERU COUNTY
+Actual County found at 6059-6064: MERU 
+County Match 8 at 6567-6583: OF KIAMBU COUNTY
+Actual County found at 6570-6577: KIAMBU 
+County Match 9 at 7047-7062: OF SIAYA COUNTY
+Actual County found at 7050-7056: SIAYA 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2021.06.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 2223-2241: OF MACHAKOS COUNTY
+Actual County found at 2226-2235: MACHAKOS 
+County Match 2 at 2820-2837: OF MAKUENI COUNTY
+Actual County found at 2823-2831: MAKUENI 
+County Match 3 at 3085-3100: OF KISII COUNTY
+Actual County found at 3088-3094: KISII 
+County Match 4 at 5801-5817: OF MIGORI COUNTY
+Actual County found at 5804-5811: MIGORI 
+County Match 5 at 7421-7435: OF MERU COUNTY
+Actual County found at 7424-7429: MERU 
+County Match 6 at 7791-7807: OF KIAMBU COUNTY
+Actual County found at 7794-7801: KIAMBU 
+County Match 7 at 8947-8964: OF MOMBASA COUNTY
+Actual County found at 8950-8958: MOMBASA 
+County Match 8 at 10739-10754: OF KWALE COUNTY
+Actual County found at 10742-10748: KWALE 
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2030.06.2022.pdf
+*******************************************************************************
+
+County Match 1 at 5505-5523: OF MACHAKOS COUNTY
+Actual County found at 5508-5517: MACHAKOS 
+County Match 2 at 6107-6124: OF MAKUENI COUNTY
+Actual County found at 6110-6118: MAKUENI 
+County Match 3 at 6682-6697: OF NANDI COUNTY
+Actual County found at 6685-6691: NANDI 
+County Match 4 at 6876-6897: OF UASIN GISHU COUNTY
+Actual County found at 6879-6891: UASIN GISHU 
+County Match 5 at 7359-7379: OF WEST POKOT COUNTY
+Actual County found at 7362-7373: WEST POKOT 
+County Match 6 at 8366-8380: OF MERU COUNTY
+Actual County found at 8369-8374: MERU 
+County Match 7 at 8876-8892: OF KIAMBU COUNTY
+Actual County found at 8879-8886: KIAMBU 
+County Match 8 at 10052-10067: OF SIAYA COUNTY
+Actual County found at 10055-10061: SIAYA 
+County Match 9 at 10829-10845: OF VIHIGA COUNTY
+Actual County found at 10832-10839: VIHIGA 
+County Match 10 at 11455-11471: OF KISUMU COUNTY
+Actual County found at 11458-11465: KISUMU 
+County Match 11 at 11744-11760: OF ISIOLO COUNTY
+Actual County found at 11747-11754: ISIOLO 
+County Match 12 at 12507-12521: OF EMBU COUNTY
+Actual County found at 12510-12515: EMBU 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2019.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 1909-1927: OF MACHAKOS COUNTY
+Actual County found at 1912-1921: MACHAKOS 
+County Match 2 at 2554-2571: OF HOMABAY COUNTY
+Actual County found at 2557-2565: HOMABAY 
+County Match 3 at 2918-2934: OF MIGORI COUNTY
+Actual County found at 2921-2928: MIGORI 
+County Match 4 at 3430-3444: OF EMBU COUNTY
+Actual County found at 3433-3438: EMBU 
+County Match 5 at 3712-3728: OF KIAMBU COUNTY
+Actual County found at 3715-3722: KIAMBU 
+County Match 6 at 4575-4593: OF KAKAMEGA COUNTY
+Actual County found at 4578-4587: KAKAMEGA 
+County Match 7 at 4959-4976: OF BUNGOMA COUNTY
+Actual County found at 4962-4970: BUNGOMA 
+County Match 8 at 5711-5727: OF KILIFI COUNTY
+Actual County found at 5714-5721: KILIFI 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2017.05.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 3012-3027: OF NYERI COUNTY
+Actual County found at 3015-3021: NYERI 
+County Match 2 at 3310-3329: OF KIRINYAGA COUNTY
+Actual County found at 3313-3323: KIRINYAGA 
+County Match 3 at 3674-3688: OF EMBU COUNTY
+Actual County found at 3677-3682: EMBU 
+County Match 4 at 3960-3978: OF MACHAKOS COUNTY
+Actual County found at 3963-3972: MACHAKOS 
+County Match 5 at 4182-4199: OF MOMBASA COUNTY
+Actual County found at 4185-4193: MOMBASA 
+County Match 6 at 4668-4683: OF KISII COUNTY
+Actual County found at 4671-4677: KISII 
+County Match 7 at 4885-4901: OF MIGORI COUNTY
+Actual County found at 4888-4895: MIGORI 
+County Match 8 at 5205-5222: OF HOMABAY COUNTY
+Actual County found at 5208-5216: HOMABAY 
+County Match 9 at 5513-5529: OF KIAMBU COUNTY
+Actual County found at 5516-5523: KIAMBU 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2009.08.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 415-432: OF NYAMIRA COUNTY
+Actual County found at 418-426: NYAMIRA 
+County Match 2 at 810-825: OF KISII COUNTY
+Actual County found at 813-819: KISII 
+County Match 3 at 2425-2443: OF MACHAKOS COUNTY
+Actual County found at 2428-2437: MACHAKOS 
+County Match 4 at 2844-2861: OF MAKUENI COUNTY
+Actual County found at 2847-2855: MAKUENI 
+County Match 5 at 3184-3205: OF UASIN GISHU COUNTY
+Actual County found at 3187-3199: UASIN GISHU 
+County Match 6 at 3474-3489: OF NANDI COUNTY
+Actual County found at 3477-3483: NANDI 
+County Match 7 at 3723-3741: OF HOMA BAY COUNTY
+Actual County found at 3726-3735: HOMA BAY 
+County Match 8 at 3997-4015: OF LAIKIPIA COUNTY
+Actual County found at 4000-4009: LAIKIPIA 
+County Match 9 at 4362-4376: OF EMBU COUNTY
+Actual County found at 4365-4370: EMBU 
+County Match 10 at 4781-4798: OF GARISSA COUNTY
+Actual County found at 4784-4792: GARISSA 
+*************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2006.05.2021-Part-201-20of-202.pdf
+*************************************************************************************************
+
+County Match 1 at 1422-1440: OF MACHAKOS COUNTY
+Actual County found at 1425-1434: MACHAKOS 
+County Match 2 at 2289-2306: OF MAKUENI COUNTY
+Actual County found at 2292-2300: MAKUENI 
+County Match 3 at 2578-2594: OF NAKURU COUNTY
+Actual County found at 2581-2588: NAKURU 
+County Match 4 at 3525-3542: OF TURKANA COUNTY
+Actual County found at 3528-3536: TURKANA 
+County Match 5 at 4090-4107: OF BUNGOMA COUNTY
+Actual County found at 4093-4101: BUNGOMA 
+County Match 6 at 4427-4443: OF KISUMU COUNTY
+Actual County found at 4430-4437: KISUMU 
+County Match 7 at 4668-4684: OF VIHIGA COUNTY
+Actual County found at 4671-4678: VIHIGA 
+County Match 8 at 4931-4949: OF KAKAMEGA COUNTY
+Actual County found at 4934-4943: KAKAMEGA 
+County Match 9 at 5260-5274: OF MERU COUNTY
+Actual County found at 5263-5268: MERU 
+County Match 10 at 5717-5732: OF NYERI COUNTY
+Actual County found at 5720-5726: NYERI 
+County Match 11 at 6035-6058: OF THARAKA NITHI COUNTY
+Actual County found at 6038-6052: THARAKA NITHI 
+County Match 12 at 6287-6301: OF EMBU COUNTY
+Actual County found at 6290-6295: EMBU 
+County Match 13 at 7460-7476: OF KIAMBU COUNTY
+Actual County found at 7463-7470: KIAMBU 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2008.07.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 2151-2169: OF MACHAKOS COUNTY
+Actual County found at 2154-2163: MACHAKOS 
+County Match 2 at 2437-2452: OF NAROK COUNTY
+Actual County found at 2440-2446: NAROK 
+County Match 3 at 2763-2779: OF VIHIGA COUNTY
+Actual County found at 2766-2773: VIHIGA 
+County Match 4 at 3231-3247: OF KISUMU COUNTY
+Actual County found at 3234-3241: KISUMU 
+County Match 5 at 3482-3497: OF SIAYA COUNTY
+Actual County found at 3485-3491: SIAYA 
+County Match 6 at 3718-3733: OF BUSIA COUNTY
+Actual County found at 3721-3727: BUSIA 
+County Match 7 at 3980-3997: OF BUNGOMA COUNTY
+Actual County found at 3983-3991: BUNGOMA 
+County Match 8 at 4368-4386: OF KAKAMEGA COUNTY
+Actual County found at 4371-4380: KAKAMEGA 
+County Match 9 at 4733-4748: OF KISII COUNTY
+Actual County found at 4736-4742: KISII 
+County Match 10 at 5015-5029: OF EMBU COUNTY
+Actual County found at 5018-5023: EMBU 
+County Match 11 at 5298-5317: OF KIRINYAGA COUNTY
+Actual County found at 5301-5311: KIRINYAGA 
+County Match 12 at 5805-5828: OF THARAKA NITHI COUNTY
+Actual County found at 5808-5822: THARAKA NITHI 
+County Match 13 at 6009-6025: OF KIAMBU COUNTY
+Actual County found at 6012-6019: KIAMBU 
+County Match 14 at 6306-6322: OF KILIFI COUNTY
+Actual County found at 6309-6316: KILIFI 
+County Match 15 at 6493-6509: OF KIAMBU COUNTY
+Actual County found at 6496-6503: KIAMBU 
+County Match 16 at 6790-6806: OF KILIFI COUNTY
+Actual County found at 6793-6800: KILIFI 
+**************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruption-20Notice-20--2021-23.05.2021.pdf
+**************************************************************************************************
+
+County Match 1 at 681-696: KAKAMEGA COUNTY
+Actual County found at 681-690: KAKAMEGA 
+County Match 2 at 838-851: KISUMU COUNTY
+Actual County found at 838-845: KISUMU 
+County Match 3 at 1059-1071: KISII COUNTY
+Actual County found at 1059-1065: KISII 
+County Match 4 at 1341-1359: UASIN GISHU COUNTY
+Actual County found at 1341-1353: UASIN GISHU 
+County Match 5 at 1535-1547: NANDI COUNTY
+Actual County found at 1535-1541: NANDI 
+County Match 6 at 2032-2050: TRANS NZOIA COUNTY
+Actual County found at 2032-2044: TRANS NZOIA 
+County Match 7 at 2274-2287: NAKURU COUNTY
+Actual County found at 2274-2281: NAKURU 
+County Match 8 at 2497-2511: KERICHO COUNTY
+Actual County found at 2497-2505: KERICHO 
+County Match 9 at 2583-2595: BOMET COUNTY
+Actual County found at 2583-2589: BOMET 
+County Match 10 at 2825-2838: KISUMU COUNTY
+Actual County found at 2825-2832: KISUMU 
+County Match 11 at 3073-3085: KISII COUNTY
+Actual County found at 3073-3079: KISII 
+County Match 12 at 3220-3238: TRANS NZOIA COUNTY
+Actual County found at 3220-3232: TRANS NZOIA 
+County Match 13 at 3707-3721: TURKANA COUNTY
+Actual County found at 3707-3715: TURKANA 
+County Match 14 at 3897-3911: BARINGO COUNTY
+Actual County found at 3897-3905: BARINGO 
+County Match 15 at 4018-4031: NAKURU COUNTY
+Actual County found at 4018-4025: NAKURU 
+County Match 16 at 4348-4360: BOMET COUNTY
+Actual County found at 4348-4354: BOMET 
+County Match 17 at 4500-4513: KISUMU COUNTY
+Actual County found at 4500-4507: KISUMU 
+County Match 18 at 4653-4665: BUSIA COUNTY
+Actual County found at 4653-4659: BUSIA 
+County Match 19 at 4745-4760: HOMA BAY COUNTY
+Actual County found at 4745-4754: HOMA BAY 
+County Match 20 at 4897-4915: UASIN GISHU COUNTY
+Actual County found at 4897-4909: UASIN GISHU 
+County Match 21 at 5408-5425: WEST POKOT COUNTY
+Actual County found at 5408-5419: WEST POKOT 
+County Match 22 at 5700-5714: TURKANA COUNTY
+Actual County found at 5700-5708: TURKANA 
+County Match 23 at 5891-5904: NAKURU COUNTY
+Actual County found at 5891-5898: NAKURU 
+County Match 24 at 6087-6101: NYAMIRA COUNTY
+Actual County found at 6087-6095: NYAMIRA 
+County Match 25 at 6219-6231: BOMET COUNTY
+Actual County found at 6219-6225: BOMET 
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2007.07.2022.pdf
+*******************************************************************************
+
+County Match 1 at 3649-3666: OF KAJIADO COUNTY
+Actual County found at 3652-3660: KAJIADO 
+County Match 2 at 4249-4267: OF MACHAKOS COUNTY
+Actual County found at 4252-4261: MACHAKOS 
+County Match 3 at 4757-4773: OF NAKURU COUNTY
+Actual County found at 4760-4767: NAKURU 
+County Match 4 at 5502-5523: OF UASIN GISHU COUNTY
+Actual County found at 5505-5517: UASIN GISHU 
+County Match 5 at 5729-5754: OF ELGEYO MARAKWET COUNTY
+Actual County found at 5732-5748: ELGEYO MARAKWET 
+County Match 6 at 5915-5936: OF TRANS NZOIA COUNTY
+Actual County found at 5918-5930: TRANS NZOIA 
+County Match 7 at 7353-7369: OF KISUMU COUNTY
+Actual County found at 7356-7363: KISUMU 
+County Match 8 at 7895-7910: OF KISII COUNTY
+Actual County found at 7898-7904: KISII 
+County Match 9 at 8117-8134: OF HOMABAY COUNTY
+Actual County found at 8120-8128: HOMABAY 
+County Match 10 at 8746-8763: OF NYAMIRA COUNTY
+Actual County found at 8749-8757: NYAMIRA 
+County Match 11 at 9065-9081: OF MIGORI COUNTY
+Actual County found at 9068-9075: MIGORI 
+County Match 12 at 9303-9318: OF NYERI COUNTY
+Actual County found at 9306-9312: NYERI 
+County Match 13 at 10294-10308: OF EMBU COUNTY
+Actual County found at 10297-10302: EMBU 
+County Match 14 at 10566-10582: OF KIAMBU COUNTY
+Actual County found at 10569-10576: KIAMBU 
+County Match 15 at 11140-11156: OF KILIFI COUNTY
+Actual County found at 11143-11150: KILIFI 
+County Match 16 at 11571-11588: OF MOMBASA COUNTY
+Actual County found at 11574-11582: MOMBASA 
+*******************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2022.07.2021.pdf
+*******************************************************************************
+
+County Match 1 at 5406-5423: OF KAJIADO COUNTY
+Actual County found at 5409-5417: KAJIADO 
+County Match 2 at 5649-5666: OF MAKUENI COUNTY
+Actual County found at 5652-5660: MAKUENI 
+County Match 3 at 5970-5991: OF UASIN GISHU COUNTY
+Actual County found at 5973-5985: UASIN GISHU 
+County Match 4 at 6446-6463: OF TURKANA COUNTY
+Actual County found at 6449-6457: TURKANA 
+County Match 5 at 6845-6860: OF NANDI COUNTY
+Actual County found at 6848-6854: NANDI 
+County Match 6 at 8288-8306: OF KAKAMEGA COUNTY
+Actual County found at 8291-8300: KAKAMEGA 
+County Match 7 at 8616-8634: OF HOMA BAY COUNTY
+Actual County found at 8619-8628: HOMA BAY 
+County Match 8 at 9141-9156: OF KISII COUNTY
+Actual County found at 9144-9150: KISII 
+County Match 9 at 9609-9625: OF MIGORI COUNTY
+Actual County found at 9612-9619: MIGORI 
+County Match 10 at 11711-11727: OF KIAMBU COUNTY
+Actual County found at 11714-11721: KIAMBU 
+County Match 11 at 12067-12084: OF MOMBASA COUNTY
+Actual County found at 12070-12078: MOMBASA 
+County Match 12 at 12684-12700: OF KILIFI COUNTY
+Actual County found at 12687-12694: KILIFI 
+County Match 13 at 13094-13109: OF KWALE COUNTY
+Actual County found at 13097-13103: KWALE 
+*************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2026.04.2021-Part-202-20of-202.pdf
+*************************************************************************************************
+
+County Match 1 at 2804-2822: OF MACHAKOS COUNTY
+Actual County found at 2807-2816: MACHAKOS 
+County Match 2 at 4152-4169: OF KAJIADO COUNTY
+Actual County found at 4155-4163: KAJIADO 
+County Match 3 at 4562-4578: OF NAKURU COUNTY
+Actual County found at 4565-4572: NAKURU 
+County Match 4 at 5051-5070: OF NYANDARUA COUNTY
+Actual County found at 5054-5064: NYANDARUA 
+County Match 5 at 5417-5432: OF BOMET COUNTY
+Actual County found at 5420-5426: BOMET 
+County Match 6 at 5756-5774: OF KAKAMEGA COUNTY
+Actual County found at 5759-5768: KAKAMEGA 
+County Match 7 at 6404-6421: OF HOMABAY COUNTY
+Actual County found at 6407-6415: HOMABAY 
+County Match 8 at 6714-6731: OF NYAMIRA COUNTY
+Actual County found at 6717-6725: NYAMIRA 
+County Match 9 at 7091-7106: OF NYERI COUNTY
+Actual County found at 7094-7100: NYERI 
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2022.04.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+County Match 1 at 5085-5103: OF MACHAKOS COUNTY
+Actual County found at 5088-5097: MACHAKOS 
+County Match 2 at 5461-5478: OF KERICHO COUNTY
+Actual County found at 5464-5472: KERICHO 
+County Match 3 at 5773-5794: OF TRANS NZOIA COUNTY
+Actual County found at 5776-5788: TRANS NZOIA 
+County Match 4 at 6411-6428: OF TURKANA COUNTY
+Actual County found at 6414-6422: TURKANA 
+County Match 5 at 6689-6706: OF NYAMIRA COUNTY
+Actual County found at 6692-6700: NYAMIRA 
+County Match 6 at 7015-7030: OF NYERI COUNTY
+Actual County found at 7018-7024: NYERI 
+County Match 7 at 7606-7622: OF KIAMBU COUNTY
+Actual County found at 7609-7616: KIAMBU 
+County Match 8 at 8743-8763: OF TANA RIVER COUNTY
+Actual County found at 8746-8757: TANA RIVER 
+County Match 9 at 9447-9463: OF KILIFI COUNTY
+Actual County found at 9450-9457: KILIFI 
+County Match 10 at 9879-9893: OF LAMU COUNTY
+Actual County found at 9882-9887: LAMU 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2016.08.2021-20(Part-202-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 2090-2105: OF NANDI COUNTY
+Actual County found at 2093-2099: NANDI 
+County Match 2 at 2378-2398: OF WEST POKOT COUNTY
+Actual County found at 2381-2392: WEST POKOT 
+County Match 3 at 2963-2981: OF HOMA BAY COUNTY
+Actual County found at 2966-2975: HOMA BAY 
+County Match 4 at 3389-3404: OF KISII COUNTY
+Actual County found at 3392-3398: KISII 
+County Match 5 at 3785-3799: OF MERU COUNTY
+Actual County found at 3788-3793: MERU 
+County Match 6 at 4102-4116: OF EMBU COUNTY
+Actual County found at 4105-4110: EMBU 
+County Match 7 at 4552-4567: OF NYERI COUNTY
+Actual County found at 4555-4561: NYERI 
+County Match 8 at 4938-4954: OF KIAMBU COUNTY
+Actual County found at 4941-4948: KIAMBU 
+County Match 9 at 5366-5383: OF MOMBASA COUNTY
+Actual County found at 5369-5377: MOMBASA 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2026.08.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 1637-1654: OF KAJIADO COUNTY
+Actual County found at 1640-1648: KAJIADO 
+County Match 2 at 2605-2622: OF MAKUENI COUNTY
+Actual County found at 2608-2616: MAKUENI 
+County Match 3 at 2849-2870: OF UASIN GISHU COUNTY
+Actual County found at 2852-2864: UASIN GISHU 
+County Match 4 at 3104-3120: OF KISUMU COUNTY
+Actual County found at 3107-3114: KISUMU 
+County Match 5 at 3770-3787: OF BUNGOMA COUNTY
+Actual County found at 3773-3781: BUNGOMA 
+County Match 6 at 3807-3824: WEBUYE SUB COUNTY
+Actual County found at 3807-3818: WEBUYE SUB 
+County Match 7 at 4355-4371: OF MIGORI COUNTY
+Actual County found at 4358-4365: MIGORI 
+County Match 8 at 4859-4875: OF ISIOLO COUNTY
+Actual County found at 4862-4869: ISIOLO 
+County Match 9 at 5669-5684: OF NYERI COUNTY
+Actual County found at 5672-5678: NYERI 
+County Match 10 at 6019-6033: OF EMBU COUNTY
+Actual County found at 6022-6027: EMBU 
+County Match 11 at 6610-6633: OF THARAKA NITHI COUNTY
+Actual County found at 6613-6627: THARAKA NITHI 
+County Match 12 at 6884-6901: OF MOMBASA COUNTY
+Actual County found at 6887-6895: MOMBASA 
+County Match 13 at 7267-7283: OF KILIFI COUNTY
+Actual County found at 7270-7277: KILIFI 
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2018.06.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+County Match 1 at 1870-1888: OF MACHAKOS COUNTY
+Actual County found at 1873-1882: MACHAKOS 
+County Match 2 at 2273-2288: OF BOMET COUNTY
+Actual County found at 2276-2282: BOMET 
+County Match 3 at 3000-3015: OF NAROK COUNTY
+Actual County found at 3003-3009: NAROK 
+County Match 4 at 3276-3293: OF TURKANA COUNTY
+Actual County found at 3279-3287: TURKANA 
+County Match 5 at 3567-3582: OF SIAYA COUNTY
+Actual County found at 3570-3576: SIAYA 
+County Match 6 at 3839-3854: OF KISII COUNTY
+Actual County found at 3842-3848: KISII 
+County Match 7 at 4040-4056: OF MIGORI COUNTY
+Actual County found at 4043-4050: MIGORI 
+County Match 8 at 4585-4599: OF MERU COUNTY
+Actual County found at 4588-4593: MERU 
+County Match 9 at 5404-5420: OF KIAMBU COUNTY
+Actual County found at 5407-5414: KIAMBU 
+County Match 10 at 7092-7107: OF KWALE COUNTY
+Actual County found at 7095-7101: KWALE 
+***************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2020.05.2021-20Part-201-20of-202.pdf
+***************************************************************************************************
+
+County Match 1 at 2365-2383: OF MACHAKOS COUNTY
+Actual County found at 2368-2377: MACHAKOS 
+County Match 2 at 3438-3454: OF KISUMU COUNTY
+Actual County found at 3441-3448: KISUMU 
+County Match 3 at 3916-3932: OF MIGORI COUNTY
+Actual County found at 3919-3926: MIGORI 
+County Match 4 at 4125-4141: OF ISIOLO COUNTY
+Actual County found at 4128-4135: ISIOLO 
+County Match 5 at 4493-4507: OF MERU COUNTY
+Actual County found at 4496-4501: MERU 
+County Match 6 at 4941-4957: OF KIAMBU COUNTY
+Actual County found at 4944-4951: KIAMBU 
+County Match 7 at 5931-5948: OF MOMBASA COUNTY
+Actual County found at 5934-5942: MOMBASA 
+County Match 8 at 6599-6616: OF KERICHO COUNTY
+Actual County found at 6602-6610: KERICHO 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2011.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 1555-1572: OF TURKANA COUNTY
+Actual County found at 1558-1566: TURKANA 
+County Match 2 at 2157-2172: OF NANDI COUNTY
+Actual County found at 2160-2166: NANDI 
+County Match 3 at 2410-2425: OF KISII COUNTY
+Actual County found at 2413-2419: KISII 
+County Match 4 at 2666-2683: OF NYAMIRA COUNTY
+Actual County found at 2669-2677: NYAMIRA 
+County Match 5 at 2984-3002: OF MACHAKOS COUNTY
+Actual County found at 2987-2996: MACHAKOS 
+County Match 6 at 3223-3237: OF EMBU COUNTY
+Actual County found at 3226-3231: EMBU 
+County Match 7 at 4554-4571: OF KAJIADO COUNTY
+Actual County found at 4557-4565: KAJIADO 
+County Match 8 at 4972-4988: OF NAKURU COUNTY
+Actual County found at 4975-4982: NAKURU 
+County Match 9 at 5228-5245: OF KERICHO COUNTY
+Actual County found at 5231-5239: KERICHO 
+County Match 10 at 5714-5735: OF UASIN GISHU COUNTY
+Actual County found at 5717-5729: UASIN GISHU 
+County Match 11 at 6008-6024: OF KIAMBU COUNTY
+Actual County found at 6011-6018: KIAMBU 
+County Match 12 at 7353-7369: OF KILIFI COUNTY
+Actual County found at 7356-7363: KILIFI 
+County Match 13 at 7869-7889: OF TANA RIVER COUNTY
+Actual County found at 7872-7883: TANA RIVER 
+***************************************************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruption-20Notice-20--20Western-20&-20North-20Rift-20Regions-20--2025-20&-2026.05.2021.pdf
+***************************************************************************************************************************************************
+
+County Match 1 at 620-633: KISUMU COUNTY
+Actual County found at 620-627: KISUMU 
+County Match 2 at 1528-1546: UASIN GISHU COUNTY
+Actual County found at 1528-1540: UASIN GISHU 
+County Match 3 at 2477-2495: TRANS NZOIA COUNTY
+Actual County found at 2477-2489: TRANS NZOIA 
+County Match 4 at 2804-2826: ELGEYO MARAKWET COUNTY
+Actual County found at 2804-2820: ELGEYO MARAKWET 
+County Match 5 at 3206-3220: TURKANA COUNTY
+Actual County found at 3206-3214: TURKANA 
+County Match 6 at 3473-3490: WEST POKOT COUNTY
+Actual County found at 3473-3484: WEST POKOT 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2025.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 2862-2880: OF MACHAKOS COUNTY
+Actual County found at 2865-2874: MACHAKOS 
+County Match 2 at 3125-3141: OF NAKURU COUNTY
+Actual County found at 3128-3135: NAKURU 
+County Match 3 at 3676-3697: OF TRANS NZOIA COUNTY
+Actual County found at 3679-3691: TRANS NZOIA 
+County Match 4 at 4017-4038: OF UASIN GISHU COUNTY
+Actual County found at 4020-4032: UASIN GISHU 
+County Match 5 at 4340-4356: OF KISUMU COUNTY
+Actual County found at 4343-4350: KISUMU 
+County Match 6 at 4551-4569: OF KAKAMEGA COUNTY
+Actual County found at 4554-4563: KAKAMEGA 
+County Match 7 at 4817-4834: OF HOMABAY COUNTY
+Actual County found at 4820-4828: HOMABAY 
+County Match 8 at 5031-5047: OF MIGORI COUNTY
+Actual County found at 5034-5041: MIGORI 
+County Match 9 at 5454-5468: OF EMBU COUNTY
+Actual County found at 5457-5462: EMBU 
+County Match 10 at 6186-6200: OF MERU COUNTY
+Actual County found at 6189-6194: MERU 
+County Match 11 at 6790-6806: OF KILIFI COUNTY
+Actual County found at 6793-6800: KILIFI 
+*******************************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Power-20Interruptions-20Notice-20--20Kisumu-20CBD-20--2028.05.2021.pdf
+*******************************************************************************************************************
+
+County Match 1 at 589-602: KISUMU COUNTY
+Actual County found at 589-596: KISUMU 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2001.07.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 1012-1030: OF MACHAKOS COUNTY
+Actual County found at 1015-1024: MACHAKOS 
+County Match 2 at 1297-1318: OF UASIN GISHU COUNTY
+Actual County found at 1300-1312: UASIN GISHU 
+County Match 3 at 1794-1811: OF HOMABAY COUNTY
+Actual County found at 1797-1805: HOMABAY 
+County Match 4 at 2328-2343: OF KISII COUNTY
+Actual County found at 2331-2337: KISII 
+County Match 5 at 2693-2707: OF EMBU COUNTY
+Actual County found at 2696-2701: EMBU 
+County Match 6 at 3225-3241: OF KIAMBU COUNTY
+Actual County found at 3228-3235: KIAMBU 
+County Match 7 at 4303-4319: OF KILIFI COUNTY
+Actual County found at 4306-4313: KILIFI 
+*****************************************************************************************************
+/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2003.06.2021-20(Part-201-20of-202).pdf
+*****************************************************************************************************
+
+County Match 1 at 26-47: OF TRANS NZOIA COUNTY
+Actual County found at 29-41: TRANS NZOIA 
+County Match 2 at 342-357: OF SIAYA COUNTY
+Actual County found at 345-351: SIAYA 
+County Match 3 at 614-630: OF KIAMBU COUNTY
+Actual County found at 617-624: KIAMBU 
+County Match 4 at 1774-1789: OF KWALE COUNTY
+Actual County found at 1777-1783: KWALE 
+County Match 5 at 4914-4932: OF MACHAKOS COUNTY
+Actual County found at 4917-4926: MACHAKOS 
+County Match 6 at 5829-5844: OF BOMET COUNTY
+Actual County found at 5832-5838: BOMET 
