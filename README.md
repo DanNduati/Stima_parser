@@ -16,11 +16,11 @@ Stima parser extracts interruption data from scheduled power interruptions pdf d
 - Python3
 
 ## <b>Parser Current State</b>
-Checkout the parser's output for the different documents and fields [here](https://github.com/DanNduati/Stima_parser/blob/bad94458b71b369118226b3b2da673462e3ee50f/parser_output)
+Checkout the parser's output for the different documents and fields [here](https://github.com/DanNduati/Stima_parser/tree/main/parser_output)
 
 > :warning: Garbage in, garbage out
 
-Most of the current issues however example: [#11](https://github.com/DanNduati/Stima_parser/issues/11),[#15](https://github.com/DanNduati/Stima_parser/issues/15), [#16](https://github.com/DanNduati/Stima_parser/issues/16) are caused by discrepancies in pdf formating which affects pattern-matching.
+Most of the current issues however are caused by inconsistent pdf formating which affects pattern-matching.
 
 ## ToDo
 - [ ] Handle descrepancies in pdf formats()
