@@ -9,7 +9,6 @@ PDF_FILE_PATH = "/home/daniel/Desktop/learn/stima_parser/pdfs"
 
 def extract_pdftext(pdf_path: Path) -> str:
     text = extract_text(str(pdf_path))
-    text = text.replace("\n", ".")
     # Substitute more than 2 white spaces in the text
     text = re.sub(r"[\s]{2,}", " ", text)
     return text
@@ -43,7 +42,7 @@ def parse_counties(text):
 
 
 def parse_areas(text: str):
-    regex = r"AREA:\s(?P<AREA>(([\w]){1,}[&,’\(\)\s]+){1,})"
+    regex = r"AREA[:;]\s*(?P<AREA>(([\w]){1,}[&,–’\(\)\s]+){1,})"
     matches = re.finditer(regex, text, re.MULTILINE)
 
     for match_num, match in enumerate(matches, start=1):
