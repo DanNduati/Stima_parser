@@ -106,12 +106,12 @@ def main():
         print(f"{'*'*len(str(pdf_file))}\n")
         text = extract_text(str(pdf_file))
         # print(repr(text))
-        # parse_regions(text)
-        # parse_counties(text)
-        # parse_areas(text)
-        # parse_date(text)
-        # parse_time(text)
-        parse_mtaa(text)
+        # parse_regions(repr(text))
+        # parse_counties(repr(text))
+        # parse_areas(repr(text))
+        # parse_date(repr(text))
+        # parse_time(repr(text))
+        # parse_mtaa(repr(text))
 
 
 if __name__ == "__main__":
