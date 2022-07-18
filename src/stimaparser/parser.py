@@ -16,7 +16,7 @@ def extract_pdftext(pdf_path: Path) -> str:
 
 
 def parse_regions(text: str):
-    regex = r"(?P<REGION>[A-Z]{2,}\s?[A-Z]{2,})+\s+REGION"
+    regex = r"(?P<REGION>[A-Z.]{2,}\s?[A-Z]{2,})+\s+REGION"
     matches = re.finditer(regex, text, re.MULTILINE)
 
     for match_num, match in enumerate(matches, start=1):
