@@ -42,7 +42,7 @@ def parse_counties(text):
 
 
 def parse_areas(text: str):
-    regex = r"AREA[:;]\s*(?P<AREA>(([\w]){1,}[&,–’\(\)\s]+){1,})"
+    regex = r"AREA[:;]\s*(?P<AREA>(([\w]){1,}[-&,–’\(\)\s]+){1,})"
     matches = re.finditer(regex, text, re.MULTILINE)
 
     for match_num, match in enumerate(matches, start=1):
