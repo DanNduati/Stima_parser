@@ -1,117 +1,158 @@
 #!/usr/bin/env python
 import re
+from itertools import chain
 from pathlib import Path
 
 from pdfminer.high_level import extract_text
 
+from utils import (  # isort:skip
+    REGION_REGEX,
+    COUNTY_REGEX,
+    AREA_REGEX,
+    DATE_REGEX,
+    TIME_REGEX,
+    MTAA_REGEX,
+)
+
 PDF_FILE_PATH = "/home/daniel/Desktop/learn/stima_parser/pdfs"
 
 
-def extract_pdftext(pdf_path: Path) -> str:
-    text = extract_text(str(pdf_path))
-    # Substitute more than 2 white spaces in the text
-    text = re.sub(r"[\s]{2,}", " ", text)
-    return text
+class StimaParser:
+    """
+    A Parser class
 
+    Attribute
+    ---------
+    document_path : str
+        a path to a single interruption pdf document or directory of interruption pdf document(s)
 
-def parse_regions(text: str):
-    regex = r"(?P<REGION>[A-Z.]{2,}\s?[A-Z]{2,})+\s+REGION"
-    matches = re.finditer(regex, text, re.MULTILINE)
+    """
 
-    for match_num, match in enumerate(matches, start=1):
-        print(
-            f"Region Match {match_num} at {match.start()}-{match.end()}: {match.group()}"
-        )
-        # Region -> group 1
-        print(
-            f"Actual Region found at {match.start(1)}-{match.end(1)}: {match.group('REGION')}"
-        )
+    def __init__(self, document_path: str):
+        self.document_path = Path(document_path)
 
+    def extract_pdftext(self, pdf_path: Path) -> str:
+        """Extract text from a document"""
+        with open(pdf_path, "rb") as f:
+            text = extract_text(f)
+        return text
 
-def parse_counties(text):
-    regex = r"(\bOF\s)?(?P<COUNTY>[A-Z]+\s?[A-Z]+\s)COUNTY"
-    matches = re.finditer(regex, text, re.MULTILINE)
-    for match_num, match in enumerate(matches, start=1):
-        print(
-            f"County Match {match_num} at {match.start()}-{match.end()}: {match.group()}"
-        )
-        # County -> group2
-        print(
-            f"Actual County found at {match.start(2)}-{match.end(2)}: {match.group('COUNTY')}"
-        )
-
-
-def parse_areas(text: str):
-    regex = r"AREA[:;]\s*(?P<AREA>(([\w]){1,}[-&,–’\(\)\s]+){1,})"
-    matches = re.finditer(regex, text, re.MULTILINE)
-
-    for match_num, match in enumerate(matches, start=1):
-        print(
-            f"Area Match {match_num} at {match.start()}-{match.end()}: {match.group().strip()}"
-        )
-        # Area -> group 1
-        print(
-            f"Actual Area found at {match.start(1)}-{match.end(1)}: {match.group('AREA').strip()}"
+    def parse_regions(self, text: str):
+        region_matches = re.finditer(REGION_REGEX, text)
+        return (
+            [
+                f"Region #{index}",
+                match.group("REGION").strip(),
+                match.start("REGION"),
+                match.end("REGION"),
+            ]
+            for index, match in enumerate(region_matches)
         )
 
-
-def parse_date(text: str):
-    regex = r"DATE:\s?(?P<DATE>[a-zA-z]+\s?([0-9]{2}\.){2}[0-9]{4})"
-    matches = re.finditer(regex, text, re.MULTILINE)
-    for match_num, match in enumerate(matches, start=1):
-        print(
-            f"Date Match {match_num} at {match.start()}-{match.end()}: {match.group().strip()}"
-        )
-        # Date -> group 1
-        print(
-            f"Actual Date found at {match.start(1)}-{match.end(1)}: {match.group('DATE').strip()}"
-        )
-
-
-def parse_time(text: str):
-    # I know i can simplify this regex but my head is currently fried
-    regex = r"TIME:\s?(?P<TIME>((\d+)[\.\s]?)+\s?(\w\.){,2}\s[–-]\s+((\d+)[\.\s]){1,}\s?(\w\.){,2})"
-    matches = re.finditer(regex, text, re.MULTILINE)
-    for match_num, match in enumerate(matches, start=1):
-        print(
-            f"Time Match {match_num} at {match.start()}-{match.end()}: {match.group().strip()}"
-        )
-        # Time -> group 1
-        print(
-            f"Actual Time found at {match.start(1)}-{match.end(1)}: {match.group('TIME').strip()}"
+    def parse_counties(self, text: str):
+        county_matches = re.finditer(COUNTY_REGEX, text)
+        return (
+            [
+                f"County #{index}",
+                match.group("COUNTY").strip(),
+                match.start("COUNTY"),
+                match.end("COUNTY"),
+            ]
+            for index, match in enumerate(county_matches)
         )
 
-
-def parse_mtaa(text: str):
-    # regex = r"(?<=P.M.\s)(?P<MTAA>.*?)(?=([A-Z]{4})|(Interruption))"
-    regex = r"(?<=P.M.\s)(?P<MTAA>.*?)(?=(adjacent)|(Interruption))"
-    matches = re.finditer(regex, repr(text), re.MULTILINE)
-
-    for match_num, match in enumerate(matches, start=1):
-
-        print(
-            f"Mtaa Match {match_num} was found at {match.start()}-{match.end()}: {match.group()}"
+    def parse_areas(self, text: str):
+        area_matches = re.finditer(AREA_REGEX, text)
+        return (
+            [
+                f"Area #{index}",
+                match.group("AREA").strip(),
+                match.start("AREA"),
+                match.end("AREA"),
+            ]
+            for index, match in enumerate(area_matches)
         )
-        # Mtaa -> group 1
-        print(
-            f"Actual Mtaa found at {match.start(1)}-{match.end(1)}: {match.group('MTAA').strip()}"
+
+    def parse_date(self, text: str):
+        date_matches = re.finditer(DATE_REGEX, text)
+        return (
+            [
+                f"Date #{index}",
+                match.group("DATE").strip(),
+                match.start("DATE"),
+                match.end("DATE"),
+            ]
+            for index, match in enumerate(date_matches)
         )
+
+    def parse_time(self, text: str):
+        time_matches = re.finditer(TIME_REGEX, text)
+        return (
+            [
+                f"Time #{index}",
+                match.group("TIME").strip(),
+                match.start("TIME"),
+                match.end("TIME"),
+            ]
+            for index, match in enumerate(time_matches)
+        )
+
+    def parse_mtaa(self, text: str):
+        mtaa_matches = re.finditer(MTAA_REGEX, repr(text))
+        return (
+            [
+                f"Mtaa #{index}",
+                match.group("MTAA").strip(),
+                match.start("MTAA"),
+                match.end("MTAA"),
+            ]
+            for index, match in enumerate(mtaa_matches)
+        )
+
+    def consolidate_matches(self, text: str, document: Path):
+        # Go over all match object iterators, consolidate matches
+        # for Region -> County -> Area ->[date,time,mtaa] and serialize output
+        print(f"{'*'*len(str(document))}")
+        print(document)
+        print(f"{'*'*len(str(document))}\n")
+        # make an iterator of all match objects
+        matches = chain(
+            self.parse_regions(text),
+            self.parse_counties(text),
+            self.parse_areas(text),
+            self.parse_date(text),
+            self.parse_time(text),
+            self.parse_mtaa(text),
+        )
+        for match in matches:
+            print(match)
+        # todo: serialization logic
+
+    def parse_data(self):
+        if self.document_path.is_dir():
+            documents = self.document_path.glob("**/*.pdf")
+            for document in documents:
+                text = self.extract_pdftext(document)
+                # self.print_matches(text, document)
+                self.consolidate_matches(text, document)
+        if self.document_path.is_file():
+            if self.document_path.suffix == ".pdf":
+                document = self.document_path
+                text = self.extract_pdftext(document)
+                # self.print_matches(text, document)
+                self.consolidate_matches(text, document)
 
 
 def main():
-    pdf_files = Path(PDF_FILE_PATH).glob("**/*.pdf")
-    for pdf_file in pdf_files:
-        print(f"{'*'*len(str(pdf_file))}")
-        print(pdf_file)
-        print(f"{'*'*len(str(pdf_file))}\n")
-        text = extract_text(str(pdf_file))
-        # print(repr(text))
-        # parse_regions(repr(text))
-        # parse_counties(repr(text))
-        # parse_areas(repr(text))
-        # parse_date(repr(text))
-        # parse_time(repr(text))
-        # parse_mtaa(repr(text))
+    # Directory with multiple files
+    parser = StimaParser(document_path=PDF_FILE_PATH)
+    """
+    # Single document
+    parser = StimaParser(
+        document_path="/home/daniel/Desktop/learn/stima_parser/pdfs/Interruptions-20--2003.06.2021-20(Part-201-20of-202).pdf"
+    )
+    """
+    parser.parse_data()
 
 
 if __name__ == "__main__":

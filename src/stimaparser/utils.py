@@ -3,6 +3,7 @@
 import re
 from pathlib import Path
 
+# todo: document the regular expressions
 REGION_REGEX = re.compile(
     r"(?P<REGION>[A-Z.]{2,}\s?[A-Z]{2,})+\s+REGION", flags=re.MULTILINE
 )
